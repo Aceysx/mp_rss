@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI有道</title>
+    <link>https://github.com/Aceysx/mp_rss</link>
+    <description>一个值得关注的 AI 技术公众号。主要涉及人工智能领域 Python、ML 、CV、NLP 等前沿知识、干货笔记和优质资源！我们致力于为您提供切实可行的 AI 学习路线。</description>
+    <language>zh-cn</language>
+    <pubDate>Wed, 01 May 2024 12:38:03 GMT</pubDate>
+    <lastBuildDate>Wed, 01 May 2024 12:38:03 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <image>
+      <title>AI有道</title>
+      <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5c2psn761MPiasicWs6DrdvIb8oQxN4ej69OLjNyzN2Z0g/0</url>
+    </image>
+    <item>
+      <title>大学城，烂尾！新校区不建了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=1&amp;sn=220233ca5395d25dff0af5cd41420b30&amp;chksm=976d48bba01ac1adfd1f5b694258e0843c67ff21df7f12225973cdb0400c76472b9eee89afb9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谷歌员工爆料 Python 基础团队原地解散</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=2&amp;sn=ec5067874e71094b45c83c4296eece02&amp;chksm=976d48bba01ac1ad1b991dfccbb0938723e8d07a765621a49e7308c6cffede851562f423791f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>今年这情况.....我劝大家还是多留一手准备吧！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=1&amp;sn=c574303938c18a15c525a82240807b40&amp;chksm=976d488ca01ac19a5be549fea25c58aa41063217571a3eaeb3173caed533106cb32967ba2fcd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>留言赠书丨中山大学 HCP 实验室专著《多模态大模型》重磅发布</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=2&amp;sn=4b2eed1968cf52be41ef3dd4f6ccc2c7&amp;chksm=976d488ca01ac19a2c4fa5c7662de8851f887f6335475d33a342fba1baea0c59057db93780c6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>多院校研究生奖学金停发！！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560434&amp;idx=1&amp;sn=2fe3e7393ab64b9abf0b54c9441b9e77&amp;chksm=976d496fa01ac079db0cce1df5eedeba2430b8c58b7adfa384b14bc375105fadc6236dbb012c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 27 Apr 2024 02:51:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全球最大开源模型再刷爆纪录！4800 亿参数 MoE 击败 Llama 3、Mixtral</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560292&amp;idx=2&amp;sn=d6ffe1fb37908cddf63a7d6860d2dfef&amp;chksm=976d49f9a01ac0efeb0a607d2c3676e0b1210d5425851fecc8280323735046522898709916fe&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 02:37:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>985 教授给研究生发放劳务费后再回收！以此套取科研经费，被通报！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=1&amp;sn=f30f0217405d883549861cb5aa2fed60&amp;chksm=976d49cea01ac0d82ad90fc4aaad6dceb90ffadf09abb5f8d1dfc33db5dcb664b00ecb0038df&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>视觉 prompt 工程！无需微调、无需任何模型修改，让一个通用模型可以执行多种指定任务</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=2&amp;sn=b2bda36a6ac168c09269ff3bf02cd176&amp;chksm=976d49cea01ac0d887b5942803ac80215ef1fee654ff22d1bc70dc0c7591b2fe316972cd3ecc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>强的离谱！深度学习大杀器 SLAM 彻底爆了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=1&amp;sn=8ad503bcc70b507024b9221974dd46e7&amp;chksm=976d49a0a01ac0b6946e1f9df7dbcb17835f0011749a6125286c9fb4432168678cb8fe637e92&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>发布几小时，微软秒删媲美 GPT-4 开源大模型！竟因忘记投毒测试</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=2&amp;sn=a6676784a0e29df12f4e49b64bceab34&amp;chksm=976d49a0a01ac0b6e21f73af59ba9811056e91917c237bb14edd3c809b0894fe6d9c371b0ace&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Llama 3 高调开源，大模型微调我已经上手了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=1&amp;sn=f4bbefebd48c3c1788c1a4b5c20200a0&amp;chksm=976d49b6a01ac0a02d739614d7202f1c96471e1338077dae84bff6f85ebda35c0e420bf029c0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>YOLO+CenterNet=小目标检测性能起飞！YOLC：简单高效的Anchor Free 目标检测框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=2&amp;sn=cf0ffcf038f1ad8e8f081f4a3c9d1447&amp;chksm=976d49b6a01ac0a039f0a0a5a216c4fed27af33f6f4d6c2106e53cca6663a2d2a5229b2ef9a7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>裁员大潮！今年少跳槽，别离职。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=1&amp;sn=e43c189a0d13234a59b9364f787eacd7&amp;chksm=976d498da01ac09b210fa28d0b263bc22ed299f510ef72cb314ab4b4b73b35e976aa0d30be4b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>华为又招了一名天才少年。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=2&amp;sn=5bad78939bf4f4b60756080430acfa13&amp;chksm=976d498da01ac09bc5575ce299de61900f982ac69805cf3af890723462c4efb3cb7758b69e3b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>突破！颜宁，发国产神刊！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=1&amp;sn=4476edea740b46901e2dcfb8bfddc292&amp;chksm=976d4e62a01ac77410039ec1546bef7d0c8731eb8fdbbcd5c7c95fe097aed14ce319de3cc32c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>卷积神经网络结构组成与解释</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=2&amp;sn=b3536833ab6cb75fe1d1fd555045cadf&amp;chksm=976d4e62a01ac774e90b2a5be5d5c2786ed2b02c15c685a323af85feb7832603a28bf6e1e23c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>性能提升 30%！中国电信进一步开源 12B 星辰大模型 TeleChat-12B！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=1&amp;sn=9254633bf541d2048c48f8bd87991b4c&amp;chksm=976d4e45a01ac753ac99f0b95851f029c21bec0ee69af7cbc395e41b33aad37b750f82ab7b14&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源大模型 Llama 3 王者归来！最大底牌 4000 亿参数，性能直逼 GPT-4</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=2&amp;sn=bf127a8f34dac0adf7fbfca9fd55074e&amp;chksm=976d4e45a01ac753ccf761953e834fc540e8738a5640f0edbc51ae86746666150890db2a2655&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>太卷了！今年的 AAAI 顶会有点猛。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=1&amp;sn=4fa9b508aca05cd585daceb7ecbf1036&amp;chksm=976d4e2ca01ac73a2be5e07f6ec4c02d6efce7845f5b008eab7b63cc9bc363d1e519c30b205c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2024 QS 排名发布！计算机 MIT 霸榜，清华 11，北大 15</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=2&amp;sn=d78170011fe15eb60af1f9690a81360e&amp;chksm=976d4e2ca01ac73a5e131b0ebec5af3c606e4fc533be71ec9ecb20d7ed0da7606608655d747e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>EI 检索稳定！人工智能、建模、自然语言处理、机器学习、计算机视觉、机器人与自动化工程类方向征稿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=1&amp;sn=ec8aff2f45cba3c7bea8c0fb80e4d80c&amp;chksm=976d4e03a01ac71530f3471c32a8de4472a90d33e248c30dc23d79afda2604d301706ceb622c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>革命新架构掀翻 Transformer！无限上下文处理，2 万亿 token 碾压 Llama 2</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=2&amp;sn=0d5c398f71caab476b531104edbf2441&amp;chksm=976d4e03a01ac7154d94262bb425b59f91993237ed6431ccd1d2a653204507deea8bc54d5038&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>炸裂！最新CVPR2024、ACL2024、AAAI2024、ICML2023汇总，论文、源码一应俱全！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=1&amp;sn=3cc60736ba54eb44bdf1b1c36d7af903&amp;chksm=976d4ea8a01ac7beff60ca52bfe9b072b25b3ea533eb31165d820d5f19a0bc460cf084726088&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>寒门要不要读博？看看群友的回答</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=2&amp;sn=b0bdceeb6e6a9bfc0de53cc4138e8524&amp;chksm=976d4ea8a01ac7be1a2871ab327564ce1ec9a73fca07b724131725a2b34baf1bec13e0c2bfdc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>中国永远不会倒闭的四个行业</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=1&amp;sn=a8e2351cd36e56134a20e1d311182190&amp;chksm=976d4ebda01ac7ab69bdd229d497b60e5ad6a21a94d6ab134adccd262ef83ce970f491715515&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最新 955 不加班的公司名单</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=2&amp;sn=da40e33c1522e47556f97d97138d33ba&amp;chksm=976d4ebda01ac7ab461d9a4d9f41c3448aea2ae34f46de71237f716e5887e2c2cc54876f8800&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>21 个深度学习调参技巧，一定要看到最后一个</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559941&amp;idx=2&amp;sn=c4445cac10e0c6e0bc291315378379ba&amp;chksm=976d4e98a01ac78ed0d752158542391d5b32143328f9eb7777a37c2f3edd510d05acab2601f1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 15 Apr 2024 02:16:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>这是雷军的简历，落魄时卡里只有冰冷的 40 亿...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=1&amp;sn=9a03ae6045b5e86a0e069049ab18109f&amp;chksm=976d4f7aa01ac66ca64c57936b32570b841cf08a500f5a0275a489dd0147f58cd2566ebfe031&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>NeurIPS 开辟高中赛道引爆争议！网友：代理人战争要开始了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=2&amp;sn=39eccb955c657d67c0f0fd9936e10fe9&amp;chksm=976d4f7aa01ac66cbe4312fa94b2143bd3629b04fd31f7dd992e6b0931d9e61881421cc9ebde&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>外包巨头大规模裁员，砍掉 22063 人！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559891&amp;idx=1&amp;sn=cf693fd348e8eab63d61f3350d9027f2&amp;chksm=976d4f4ea01ac658d91ae17f5a2717f02743b175be44e25054f78bdab446da1501418a75471e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 13 Apr 2024 08:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>重磅：2024 年 QS 世界大学学科排名出炉！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559891&amp;idx=2&amp;sn=b20c3a4b609594464aea24fdf4029ba7&amp;chksm=976d4f4ea01ac6585a67e7bc81b2caa1f1ef97fdcf83c1c9efcf7a77eaae1c9aa3b693f26c6b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 13 Apr 2024 08:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>深圳的 IT 崩盘了么？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559825&amp;idx=1&amp;sn=edbdd834dc39dab79207b0187d1b7860&amp;chksm=976d4f0ca01ac61aa2d785c2e885882358d269d834a65b3655fcf1c56ea39898624e22cada46&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 12 Apr 2024 02:09:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>刚刚，图灵奖揭晓！史上首位数学和计算机最高奖“双料王”出现了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559825&amp;idx=2&amp;sn=b003391dc943b26f0f4c96df7550536b&amp;chksm=976d4f0ca01ac61a4091067263aab54dcae06ec6f2c512df879e327490a12fbc93b15ef56350&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 12 Apr 2024 02:09:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>深度学习常用损失函数总览：基本形式、原理、特点</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559805&amp;idx=2&amp;sn=3e3a6fc444bbe9a4a38fe60621fdb214&amp;chksm=976d4fe0a01ac6f67307b2499e708f373ddc7d460d2a62b1919a7b39ce52069ee3a0bacc9529&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 02:25:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>综述：一文详解 50 多种多模态图像融合方法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559805&amp;idx=3&amp;sn=cfe5435f24edcbe68afed88d5b5013f3&amp;chksm=976d4fe0a01ac6f69b226be22a4566181645229273eb6920822ac88edc175927530d615f2e58&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 02:25:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>手机可以跑大模型了，一夜下载量超 2000</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559767&amp;idx=2&amp;sn=2e6d8626291494fcad13907fdd4f3ccb&amp;chksm=976d4fcaa01ac6dc4969d71c91cba9de10e0181012825530d888a2c20e988837d680c4ba9e5e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 02:27:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>吵翻！导师确认录取后被学生「删除拉黑」，导学双方“互放鸽子”太伤了..</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559722&amp;idx=1&amp;sn=3a95daac6ee3e4f6fe5f2bc78d0daa90&amp;chksm=976d4fb7a01ac6a191d872f2d6c4a428745c4234b01dd2fb773ccc8b2db1bbcfb5fbb6a429cc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 09 Apr 2024 06:59:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>CVPR 2024录用结果出炉！2719篇论文被接收，录用率23.6%</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559722&amp;idx=2&amp;sn=ff2f33b3e4f4beb719509bcabc5abd26&amp;chksm=976d4fb7a01ac6a1e3bbbe9bd065c216a446cb4308cc7ce268e952b38ebf6db5862fd1fd4f70&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 09 Apr 2024 06:59:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>顶会审稿人被偷家！原来发文都靠套路......</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559721&amp;idx=1&amp;sn=e3614b989d9a94d2fdf1d272b6220dad&amp;chksm=976d4fb4a01ac6a22ee525ba8b2290a3bf826fcc9b4982f6965e5f2429f77dbaea4c4776410e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 02:51:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谷歌更新 Transformer 架构，更节省计算资源！50% 性能提升</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559721&amp;idx=2&amp;sn=44bf95c4b4f2410f1d64550e5aa1b57f&amp;chksm=976d4fb4a01ac6a2568f832d292b1b2356d7f1353db4bf67d39248743d3bded4f23606ca357b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 02:51:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>判定二级教学事故！大学教师被解聘</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559705&amp;idx=1&amp;sn=9e2cfd80766f26dd479daf138987974d&amp;chksm=976d4f84a01ac692a37c75a1c22b216fee6001cd2549aab5a9ea5d6aa087e2240c779a19ce30&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 07 Apr 2024 02:44:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>35 岁青基挂了！“997”的学术圈太卷了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559701&amp;idx=1&amp;sn=8c7c03d209c5797770d59f5bc7fc7557&amp;chksm=976d4f88a01ac69e8548e6f5fddadc6ad81242caf248adc45a79cc738dd1b9eb9a20f0d333a5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 06 Apr 2024 07:59:17 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>实验室一块GPU都没有怎么做深度学习？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559701&amp;idx=2&amp;sn=12d30a4eb520cc7d1c6ed4db4a25bb04&amp;chksm=976d4f88a01ac69e9e8341fb40155e39ef67b040fab0a0368d8e407e52c6d1b68589ef6a345e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 06 Apr 2024 07:59:17 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>弱智吧竟成最佳中文 AI 训练数据？！中科院等：8 项测试第一，远超知乎豆瓣小红书</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559548&amp;idx=1&amp;sn=57ab35854abb9ef706abe937334769f6&amp;chksm=976d4ce1a01ac5f708e667d4daa663c7bbb9315b7d6a33d53807cdeba8374fd8627a1ab465d3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Apr 2024 06:23:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>该死，这糟糕的心动感，AI 杀疯了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559548&amp;idx=2&amp;sn=724c5bae599096ad9c50b440bb47ce48&amp;chksm=976d4ce1a01ac5f78983bc80ef977279dc9f0bbbbd9c8a6837337156ce3339ec4124502addf4&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Apr 2024 06:23:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>字节跳动 23 人移送公安机关，开除 136 人！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559505&amp;idx=1&amp;sn=0f2090bba294cb631e325083198489d3&amp;chksm=976d4ccca01ac5da6e4647d258bfdb79994f9b55038e43d58264e72f02303ae06e5e5f447de3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 04 Apr 2024 07:11:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源版 AI 程序员来了：GPT-4 加持，能力比肩 Devin，一天 1.4k Star</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559505&amp;idx=3&amp;sn=a2abf11e64d4f9d612e30913e757b732&amp;chksm=976d4ccca01ac5dabac1d76c0b47c32445d5a4c7cde4170a70a3d57c89e9c13c8cc1f011fdbd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 04 Apr 2024 07:11:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全网最火的 AI 搜索神器，又爆了！！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559481&amp;idx=1&amp;sn=a83754d051f4a019d40158cf62c12c44&amp;chksm=976d4ca4a01ac5b27d27db48f8796f32b7f03808c5c6428b716589faa8b6879babd8c66ce5db&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 03 Apr 2024 08:31:25 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>今天起，ChatGPT 无需注册登录也能免费用了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559481&amp;idx=2&amp;sn=2200762f1392804d4a4c7eb2b9bdda2b&amp;chksm=976d4ca4a01ac5b243f4a6339b3658cf3e9ba6a79c21dde60505b75bd48a7afa63a4f94ace46&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 03 Apr 2024 08:31:25 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>“计算机视觉女神”被 IEEE 期刊封杀</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559440&amp;idx=2&amp;sn=ce809a5176c3227260ca238ddcdc9f86&amp;chksm=976d4c8da01ac59b25d97da1b9332ae0120bb47a1bf16f7fd8ec17baf20738199e6afbf5639c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Apr 2024 02:37:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>SCNet：利用全 1X1 卷积实现轻量图像超分辨率</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559419&amp;idx=2&amp;sn=38b0fde981d2003839127af3bfdaf436&amp;chksm=976d4d66a01ac4706fa146e5ec5376014bf59edb37b4c98df08e717535f843883612f7f0a7e1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Apr 2024 04:36:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>15 个目标检测开源数据集汇总</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559419&amp;idx=3&amp;sn=1cbd7ac365014cabc7b68b429b08e8f7&amp;chksm=976d4d66a01ac470c0e7480f16d689dee4dbcb12a0039b2df9a77b2d985fbdbf0c09d98b3219&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Apr 2024 04:36:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>飞书裁员动作不小，已经上热搜了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559381&amp;idx=1&amp;sn=64422e1d2122bd22443c7ed5605cd700&amp;chksm=976d4d48a01ac45e3c20d4e33bb0b828b794021059a72964925bea635eecad5a61fe8343d60f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 31 Mar 2024 08:52:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>4 个令人兴奋的爆火 AI 项目，已开源！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559381&amp;idx=2&amp;sn=770d16887390d51381d7c640ca3cffc1&amp;chksm=976d4d48a01ac45eadb09c80736601f324e3179d46ebcd50442ac9a8765d51ef52cb37b5226c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 31 Mar 2024 08:52:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>大学教师，降薪了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559356&amp;idx=1&amp;sn=2b735c6b2ca1cb4cae440da5a55adf38&amp;chksm=976d4d21a01ac43744f7f15a94cf19bbcee1f0c1a3f1e5c5f10295d21b8402be3b964698a85b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 30 Mar 2024 05:55:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>卷积神经网络（CNN）基础知识整理</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559318&amp;idx=2&amp;sn=852bf64324095a3576268c70bde28eec&amp;chksm=976d4d0ba01ac41d0feb71187ab33bbc4e4c6d3c1ffa219423eaa451fff91fa88b4534128a97&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Mar 2024 14:53:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源大模型王座再易主，1320 亿参数 DBRX 上线，基础、微调模型都有</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559318&amp;idx=3&amp;sn=b34fe2461011e88aadc8dfc66288c90f&amp;chksm=976d4d0ba01ac41d0d7664a7d5ba0319a7ee40a7d927379be29dd8f19709d52bc2dd750ba179&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Mar 2024 14:53:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>对不起：985 硕博，救不了本科双非！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559275&amp;idx=1&amp;sn=f7a0b229d23f490047b9f9b47510b298&amp;chksm=976d4df6a01ac4e01198d766a18e81ee13ee241d429c01f3834489fb302f940c9f0e7ea493bd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Mar 2024 08:15:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI把微软电网搞崩！GPT-6被曝25年发布，训练刷爆10万张H100</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559275&amp;idx=2&amp;sn=2ecdae229312f863fe1a1b3ffa61a44b&amp;chksm=976d4df6a01ac4e0848aca9fd5cc12ab8d5d217be7bf757abb397529f6c02dc7729f1a4cf5c3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Mar 2024 08:15:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2024 年还在学 YOLO 和 U-Net？SeeClick: 手把手教你如何基于 Qwen-VL 搭建一个多模态智能体</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559242&amp;idx=2&amp;sn=af2b5a0fc5a388c47cf3f60bd2172025&amp;chksm=976d4dd7a01ac4c18dd375c1f95a62d40c4d4f854082d4dafd43dfa321d19e16a49792167cac&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Mar 2024 14:57:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>超越 Sora 极限，120 秒超长 AI 视频模型诞生！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559242&amp;idx=3&amp;sn=a00d6b0144027e0e1494f31ba9b93135&amp;chksm=976d4dd7a01ac4c1ed7a8c1dcad284ffbffb342166092041a9d0b1596fb2b02bb6bbe4a909b0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Mar 2024 14:57:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI 作曲家爆改周杰伦，华语乐坛一夜颠覆！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559215&amp;idx=2&amp;sn=7da40d6398168d7cb4dfe2150a872f17&amp;chksm=976d4db2a01ac4a4acc608bafbaf3bcfd846f13e14b0e51775c59e60f20a798a37526cf30faa&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Mar 2024 02:49:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>内卷！院士也来申请国自然面上项目，网友：青年科研人两眼一黑的程度</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559197&amp;idx=1&amp;sn=d5a81c99fad652a161a2be79626155fb&amp;chksm=976d4d80a01ac496857f7ffe5f20bad82b443ae05b11e50ed983e85be0fd9786fa74387d7610&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 25 Mar 2024 03:02:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>打工人神器，免费帮你写代码，改代码，写文章，分析数据！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559197&amp;idx=2&amp;sn=86b123537d23655b266b47b2a7b4ffdc&amp;chksm=976d4d80a01ac496cd67d9e876af635dcffa8354ca8d0e73def8646f4b03a632ff875e6cd6c6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 25 Mar 2024 03:02:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2024 CSRankings全美计算机科学排名发布！CMU霸榜，MIT跌出前5</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559197&amp;idx=3&amp;sn=937cdb3b520170a51270876008d28d97&amp;chksm=976d4d80a01ac4964c1da8d08c58612183760ab728121e6738f10df06fffb5a6146b22444289&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 25 Mar 2024 03:02:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>中国第一篇《Nature》论文</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559175&amp;idx=1&amp;sn=2b92675853a38ecccf83d1d3f5bf680a&amp;chksm=976d4d9aa01ac48c9e3c2ffb04f1a6784cb7222de5ce1b1a88d0736b39c44944448dc53d523c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 24 Mar 2024 07:33:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>突发！Stability AI的CEO，跑路了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559175&amp;idx=3&amp;sn=201c68bc2ae095fbff7c81c1d0b92beb&amp;chksm=976d4d9aa01ac48c7eafa1bcc42eeb8f22627ee4745e5120df5cf040fe2c3584844a4cdbf55d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 24 Mar 2024 07:33:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>学术会议，已沦为表演！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559142&amp;idx=1&amp;sn=d941dcad8e18640e9fcecceace2ca2bf&amp;chksm=976d427ba01acb6dab4d13446831c55b33b14bb6345c0b9073ad07e8e047bdd17d7505f56cec&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 23 Mar 2024 08:22:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Sora 不开源，微软给你开源！全球最接近 Sora 视频模型诞生，12 秒生成效果逼真炸裂</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559142&amp;idx=2&amp;sn=ce66addd2c7fcb5a23a848cfd54df077&amp;chksm=976d427ba01acb6d1668c3050f08cfccd84bf0cb5cb6f579c1b5893dda4ca2e3a49249db9c49&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 23 Mar 2024 08:22:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>做实验没 GPU 机器，还记得导师爆出最脏的一句话是什么？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559118&amp;idx=1&amp;sn=2ba6f2783fd1dfc2b517248df4b23d47&amp;chksm=976d4253a01acb4545a4f8e62b2b4770e341ae15f86f0694c0491aafa2b39f1bd46786afbf44&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 22 Mar 2024 02:43:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最新爆料！GPT-5已有客户上手体验：性能惊人，或将在夏天发布</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559118&amp;idx=2&amp;sn=0fbfd65022ffc573f4c15d2ae1996cf8&amp;chksm=976d4253a01acb4589660da3e181f7955ac5b59b398fbacecfbb4dcd7fe0435a4cbd7af538ce&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 22 Mar 2024 02:43:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>211 大学教授、博导 SCI 期刊发论文，被质疑忘删掉 ChatGPT 提示词…</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559093&amp;idx=1&amp;sn=22d52b69231e5d75acd8a6697474e757&amp;chksm=976d4228a01acb3e2c9f0869c96d8d537016009988b291fd5627133ce211eda125818e222386&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 21 Mar 2024 02:41:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>何恺明和刘壮新作：消除数据集偏差的十年之战</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559093&amp;idx=2&amp;sn=8df3e8447215d2fa6d291f0c74c59aa5&amp;chksm=976d4228a01acb3eb8e2032c4ff824b679e536a937cbad49b458e02754574603dfe86ac13608&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 21 Mar 2024 02:41:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>奥特曼专访自曝全新GPT-5细节：性能跃升超想象，算力足可达AGI！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559073&amp;idx=2&amp;sn=bbc68b9a9b5fe3b6e613d15b88b49d2d&amp;chksm=976d423ca01acb2aead64d36941739e030de44774d9242a10d1099e56150949eeab4e884f0bd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 20 Mar 2024 02:47:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>没等来 OpenAI，等来了 Open-Sora 全面开源</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559046&amp;idx=2&amp;sn=3f6256f8ff794ebf42036f9e949c2b4d&amp;chksm=976d421ba01acb0dbeed819d594ac8b87c9c8629eedd3055d2602a81c19f7c5985d5f890c3c1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 19 Mar 2024 02:39:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>马斯克突然开源 Grok：3140 亿参数巨无霸，免费可商用</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559046&amp;idx=3&amp;sn=3bf788dd9e9167e5fe8087d714bf9786&amp;chksm=976d421ba01acb0d271999f4eacac96c605302e51ce2067eee9f4b06af1f36ff15f5e18b4c41&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 19 Mar 2024 02:39:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>ChatGPT 参数规模被扒：只有 7B</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559013&amp;idx=2&amp;sn=e3ef4376f1b736c4da6827386e0460d2&amp;chksm=976d42f8a01acbee73e208a06e987ea339c300aee065b54ecd8f937f652a596a3444602c7689&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 18 Mar 2024 03:00:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI 官宣开源 Transformer Debugger！不用写代码，人人可以破解 LLM 黑箱</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558975&amp;idx=2&amp;sn=69304018fc24ed744d0de7bcd2aa712b&amp;chksm=976d42a2a01acbb48edc9d30ab156b74e733a27ec26f0ab17428a0aad414f646c4fd5e90e61d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 17 Mar 2024 02:43:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>比惨现场：博士读着读着导师变后妈，毕业还延期了…还有更离谱的吗？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558926&amp;idx=1&amp;sn=1532013078023347718301af9d6d2788&amp;chksm=976d4293a01acb852d8f72b18e56139f02010c38206bb9da653cac34560870d07669df72e317&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 16 Mar 2024 06:43:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>颜水成/程明明新作！Sora核心组件DiT训练提速10倍，Masked Diffusion Transformer V2开源</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558926&amp;idx=2&amp;sn=5965437218592e5c2ca6873eea81c5ce&amp;chksm=976d4293a01acb85daf799e65033a84227ac53fda6656e5968ac17e008a2fa29baaa54487f4b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 16 Mar 2024 06:43:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>零一万物 API 正式上线：支持输入 30 万汉字，看不懂《百年孤独》的人有救了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558874&amp;idx=2&amp;sn=b52e759659660515a8db3aea0140711d&amp;chksm=976d4347a01aca513896767024ff662a4e00e9f696aec6ffe813b715fd4f533cc8aafab29007&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 15 Mar 2024 02:49:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全球首个 AI 程序员诞生，码农饭碗一夜被砸！10 块 IOI 金牌华人团队震撼打造，996 写代码训练模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558850&amp;idx=2&amp;sn=e57a08dde27a75077eab89c83c160e8d&amp;chksm=976d435fa01aca49deae7313ca2d98c70e19379194db2d3b2af1c359b9884a7e4ef3c1cdf698&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 14 Mar 2024 02:51:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>没房贷的下属太可怕了。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558833&amp;idx=1&amp;sn=58280e02a76cb3475cce5e16875393fb&amp;chksm=976d432ca01aca3a904efef44a70a6c002dd6d2af9e7b17728fe7839ab65dc36ea26c7c76acb&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 13 Mar 2024 02:54:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>刚刚，马斯克xAI官宣开源自家大模型Grok！网友：现压力给到了OpenAI</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558833&amp;idx=2&amp;sn=39f25849a810e52ef7249f19a8ebfd5f&amp;chksm=976d432ca01aca3a8026b55c7c6163ba84a345f41f206661d2ae473226171f3a93c3a32d727e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 13 Mar 2024 02:54:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>3 个令人惊艳的 GitHub 开源项目，诞生了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558802&amp;idx=2&amp;sn=3b90ce5b02c5b78e17ee07fccc949c9b&amp;chksm=976d430fa01aca1916420e026adefb9c274add71f1d10eac218f631a5e99fd724c3fc02275e0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 12 Mar 2024 02:53:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>教授何恺明在 MIT 的第一堂课</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558769&amp;idx=2&amp;sn=b9f1f8ce4239c21c0af592eaf6317e5d&amp;chksm=976d43eca01acafa885803ff4e52c5712266051ea78266d7c03ae5a702b3630e346fc2e4982c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 11 Mar 2024 01:10:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>清华姚班本科生连发两作，十年来最大改进：矩阵乘法接近理论最优</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558769&amp;idx=3&amp;sn=1667869c6805f67cdced3d7644a1255c&amp;chksm=976d43eca01acafa54dc290d1099d813d777db4323c322fc32db155999d215f3aed94187a2c3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 11 Mar 2024 01:10:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>施一公携手颜宁，联合培养博士生！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558729&amp;idx=1&amp;sn=e370a5e78ea20e95eb4ea07c52293134&amp;chksm=976d43d4a01acac2ee85a049ac56645963eeab2772be28834f73202f721e02fe99693f202181&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 10 Mar 2024 08:27:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>你知道嘛？中国唯一被美国制裁的双非大学！打败清华，成“989”高校！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558710&amp;idx=1&amp;sn=4f1be8a2deb37a04237df8cab5858dcf&amp;chksm=976d43aba01acabd41b4341c1bdd9a22bc3a3041b307ed87f09304eeb2d43c51c6bef1f23173&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 09 Mar 2024 06:31:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全球 AI 人才报告曝光：清华第三，北大第六！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558710&amp;idx=2&amp;sn=1c964e7c55e9a4c31103b8aabe6fa1b1&amp;chksm=976d43aba01acabdf1b83945956463167a32aba3012bce0319195e8216b3e74925324f833f51&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 09 Mar 2024 06:31:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全球最强模型 Claude 3 颠覆物理/化学！2 小时破解博士一年实验成果，网友惊呼：科研不存在了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558686&amp;idx=2&amp;sn=829edb02d653d76846e905a8f042ac89&amp;chksm=976d4383a01aca95b958c236374e3933cbd301f4cc957e6c6ea63da58e3d3580b1a4fefc1121&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 08 Mar 2024 02:38:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>用 Python 优雅地编写 LaTeX</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558666&amp;idx=2&amp;sn=20b9e6583e865753721173fe4d162e0d&amp;chksm=976d4397a01aca81010d192d50944a3ae3bd4f32f542555a89728631dc1c3aa8e195f2886993&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 07 Mar 2024 02:53:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>颜宁点评演员贾玲，是否违反中科院院士新规？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558651&amp;idx=1&amp;sn=2d1c5a9fab38115f9878ec7b9c10ade1&amp;chksm=976d4066a01ac9700693ae01ffb2b7ecc60f8700c72d3c405832dd297eacb7681a5a28a984d1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 06 Mar 2024 08:20:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>好家伙！一个 Claude 3 约等于一个本科生...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558651&amp;idx=2&amp;sn=b34fdec4cfff5f9d486b3d96d6918ab2&amp;chksm=976d4066a01ac97060f9d04f0ad39e46c83c3f804f925a0b18f7eea3af858e7a11ae43c5e628&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 06 Mar 2024 08:20:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>商汤用 AI 复活了汤老师</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558594&amp;idx=2&amp;sn=1f48ef8a23f51d88ab2ddd6b07fa63bb&amp;chksm=976d405fa01ac94926f3b0acc927e8760f89867e856fc1e58329c972c4cb6eb2616cfcd319c1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 05 Mar 2024 02:44:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微软 37 页论文逆向工程 Sora，得到了哪些结论？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558580&amp;idx=2&amp;sn=033e59608334f39558eaad0e0905cc05&amp;chksm=976d4029a01ac93f05d7fb20a92933a5b0617cd642205bf973da2a22f4dec350342ea0eefcfa&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 04 Mar 2024 05:50:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>国家最高科技奖候选人名单公示！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558554&amp;idx=1&amp;sn=31091a0674817cd542aefeb53cd5ff04&amp;chksm=976d4007a01ac911d684900573ef683a12a856813939602cba21ee0f31d142d94c1913c2696b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 08:54:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>扩散模型的原理及实现（Pytorch）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558554&amp;idx=2&amp;sn=eaca75e06debc1b1b976ad51c789406b&amp;chksm=976d4007a01ac911cbe7dee34de818bd47e846186f163a99c1d82749d53aa662c68ef077dff6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 08:54:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>申请破产！官网已无法访问…</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558536&amp;idx=1&amp;sn=7e69810f08eb4666796c04f10195ba81&amp;chksm=976d4015a01ac9036dff462ee2ebc159e6eaa9f37e7667cbd88ed5cf0f0f9911d08a40fc97e5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 02 Mar 2024 07:10:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI 视频又炸了！照片+声音变视频，阿里让 Sora 女主唱歌、小李子说 rap</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558509&amp;idx=2&amp;sn=a72b51ff3546a428276ca586fbc47cd9&amp;chksm=976d40f0a01ac9e6d410dbf33cdc581f304966626e2c6960092bf17355b7ace6379929382b2b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 02:50:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>3 个令人惊艳的 AI 文档神器，开源了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558407&amp;idx=2&amp;sn=451b644984fc2d9ee116c57ace2e418e&amp;chksm=976d409aa01ac98c16c7efea48ee519d1e7f1ecd8fce102429e63ec48abdcf12986ae0365306&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 29 Feb 2024 02:45:59 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>爆火 Sora 背后的技术，一文综述扩散模型的最新发展方向</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558361&amp;idx=2&amp;sn=ca83a967a34a3752e80a47a746bfdcef&amp;chksm=976d4144a01ac8520a6813f1e0d1915f24b5b91143b3f7c27321c4e1da420ef0388656f0c21b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 00:34:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>talos，一个牛逼的 python 库</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558361&amp;idx=3&amp;sn=6ade297b97fc22f6140bcd96d6a0a323&amp;chksm=976d4144a01ac852fa7ba92e49bea0dea016e4dbb3305c4505cdcdccbe734638731d8c42df06&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 00:34:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI 大模型，再一次爆发。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558263&amp;idx=1&amp;sn=79ba9cecb9deb0fba31d5b67949e4f34&amp;chksm=976d41eaa01ac8fc7863d02d54603a6c79ae5f3113b91dfffa54b2af7b142dddd7c57c9ef5f7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 27 Feb 2024 02:44:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Sora 神图惊掉下巴，好莱坞导演急撤掉 8 亿美元摄影棚！ Sora「内测」提前开放，影视失业潮将至</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558263&amp;idx=2&amp;sn=5662dbe6fb0f33fc8db7ee4b1856686d&amp;chksm=976d41eaa01ac8fca1e7dae4d00471c1f41cf3d413e237ce3a237a124b158f683a29fe7a3b74&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 27 Feb 2024 02:44:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>目标检测新 SOTA：YOLOv9 问世，新架构让传统卷积重焕生机</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558248&amp;idx=2&amp;sn=27e3a7dd1960164ac7edcbf907a2d782&amp;chksm=976d41f5a01ac8e3a05a4aeb756162c10c44ceef2501a575a61d3b66b7b66a60e274fd6dff07&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 02:48:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Stable Diffusion 3 深夜横空出世！模型与 Sora 同架构，也能「理解」物理世界</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558188&amp;idx=2&amp;sn=29ea1e97276a710b32b4ea6dd9daae94&amp;chksm=976d41b1a01ac8a72c5e6a24b6869b776f5a532771b2df10daebc3759369b0b8766b47751f90&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 24 Feb 2024 08:42:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Sora 的第一波受害者出现了。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558105&amp;idx=1&amp;sn=46ac1c5717115b11c4a34b6320d8968e&amp;chksm=976d4644a01acf52e3d5cc9e6f67f500234834b2f65bb885074021c87b1852965b94bd77fed9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 08:03:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>阿里大模型员工也自曝了 996 作息表</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558105&amp;idx=2&amp;sn=a391f4155f97aafecbe028cf42bdef9e&amp;chksm=976d4644a01acf52fdad0e49cbb098a40b97d6e86ac024cdd80440d82dd005d1ac1cb7f5ccbd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 08:03:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>“本科毕业论文抽检，取消”？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558088&amp;idx=1&amp;sn=966ebe5a57e7c2cfd8a3b231ecf34cb5&amp;chksm=976d4655a01acf43f3c481d1eccf02feb168a397b6804b38789a4eb18dc8dab7936091e24ef9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 22 Feb 2024 02:46:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Sora 为何出自 OpenAI？一线员工作息时间线揭秘：我们疯狂地卷</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558088&amp;idx=2&amp;sn=2ae71fc0169dc976d3fbab6694effa0b&amp;chksm=976d4655a01acf43d8de88bb638c50f889394a38542b2ac02bd3e4f97dbf344df34940d3b165&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 22 Feb 2024 02:46:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>比 GPT-4 快 18 倍，世界最快大模型 Groq 登场！每秒 500 token 破纪录</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558069&amp;idx=2&amp;sn=9f0560c783fab4eea03b13bfc0805533&amp;chksm=976d4628a01acf3e18938d2f6d06d62f8bd4cdc82bc0604ce8db31054da033cb1605fa94848e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 02:31:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谢赛宁紧急辟谣：Sora 跟我一点关系没有！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558058&amp;idx=1&amp;sn=83954962fcbea8c65661083c8c915647&amp;chksm=976d4637a01acf2112802ac6894a1e0c68bee3fddda18013b5a577c43b4f6857fed1f778cc24&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 20 Feb 2024 05:46:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>小样本学习只是一场学术界自嗨吗？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558058&amp;idx=2&amp;sn=1c97b82050a33c919af9be7a60d680dd&amp;chksm=976d4637a01acf2116f9a9811fff7ac97cc43fddb4e8c1970e9be463979f0be284ef11116404&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 20 Feb 2024 05:46:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>揭秘 Sora 背后团队！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558004&amp;idx=2&amp;sn=1f9e4c723e8c989787c10085ab4ec108&amp;chksm=976d46e9a01acfff66fbc797d2be1520f0c66cc396c4cde7b619f3a2a3351b2fbea2e7e8e2d0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 02:47:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>下一代 Windows 系统曝光：基于 GPT-4V</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247558004&amp;idx=3&amp;sn=1cab73968dce91d0e1f5f3b240104050&amp;chksm=976d46e9a01acfff7dd03569ebae8233dc3da1ad9dc882457a7abcdf68e5109635e958c52c09&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 02:47:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一文弄懂 Diffusion Model</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557940&amp;idx=2&amp;sn=1c96c12268165e209702a720cd8d82eb&amp;chksm=976d46a9a01acfbf39064051583043e6550bda921d794a3142fd55ed1c7ebf32dc027e5af823&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 18 Feb 2024 02:27:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>为什么裁员首先从技术人员开始？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557933&amp;idx=1&amp;sn=9bd1b084cf04f56c3a184fd7b1374c1c&amp;chksm=976d46b0a01acfa6b14eb8aae398bca4f971b7d22c04c40e8fe73d1515abf2f1535a3e21dd0b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 17 Feb 2024 03:04:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一锤降维！解密 OpenAI 超级视频模型 Sora 技术报告，虚拟世界涌现了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557933&amp;idx=2&amp;sn=2c21060963cd4272a2ccb1a4b1502b48&amp;chksm=976d46b0a01acfa68ba821c59d2cde343432a26d27178b84af48da41fb20127dba3b55b8332b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 17 Feb 2024 03:04:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>就在刚刚！OpenAI 首个视频生成模型 Sora 发布，1 分钟流畅高清：现实，不存在了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557880&amp;idx=1&amp;sn=adf05008ac6eec99422625d8b94832ff&amp;chksm=976d4765a01ace73da5214a74612c5c9bcee6a2a23864384163ef8fa0315f9516ef120bf27b8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 16 Feb 2024 02:22:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>成年人欲望程度排行榜 TOP 10</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557835&amp;idx=1&amp;sn=f1b5b50d26cb813e2a419c431eb85c9e&amp;chksm=976d4756a01ace405aed47539c2e7c322e1fb5d9da07e3988b7530bac3e4f5cbf705836ff59e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 15 Feb 2024 10:33:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>黄院士回应奥特曼 7 万亿芯片计划：笑了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557834&amp;idx=1&amp;sn=00e3f338ae07c010f42922c6745e19ce&amp;chksm=976d4757a01ace41124ffaa06c1358e9daffe59cb8f28c638892b4df954218f90a8836595a80&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 14 Feb 2024 10:09:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>三年 16 篇一作</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557834&amp;idx=2&amp;sn=5a23a9592864bdba767c78bdbc8d6cf0&amp;chksm=976d4757a01ace41de22f1ea5bc7c9e857bdc9da067af30f9db26111f1ba7379a5855cb0bd87&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 14 Feb 2024 10:09:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>副教授伪造 384 张图片，骗取 500 万资助，竟换大学再“出山”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557803&amp;idx=1&amp;sn=dbef12417a8d5734d74b923d03853c32&amp;chksm=976d4736a01ace20b04cf66bbea117064f557faa5b14532ff36bb218b7631b3f4cedffc89bdf&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 13 Feb 2024 10:17:17 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>PyTorch 常用代码段合集</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557803&amp;idx=2&amp;sn=4b2199cf32e1a6bfa31141ede46e0928&amp;chksm=976d4736a01ace20f7cbfd732e3382895c029e1705f9c33cff7ce261bf00eb64a70d50543fb0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 13 Feb 2024 10:17:17 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>CV 大神何恺明招实习生和博士后！！！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557802&amp;idx=1&amp;sn=fddba002244f09f97eced6e06df904bb&amp;chksm=976d4737a01ace210bba2c0cf48efb9cde8739032e0918a1f617cb32813a4ea9448f2f8c97cd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 12 Feb 2024 10:09:01 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>华为招数学博士的要求非常奇怪。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557786&amp;idx=1&amp;sn=e62b759580a27632a4e8488eecde8d67&amp;chksm=976d4707a01ace11f73d95cd5b388c100aa7bbf2aeb73ea4972d4c0d8a5c3329839606f3dc89&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 11 Feb 2024 10:18:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>陈丹琦团队新作：数据量砍 95%，大模型性能更强了！Less is More</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557786&amp;idx=2&amp;sn=64662c3a53e0e92d312594d4c6a436a5&amp;chksm=976d4707a01ace1195edd52c053401b2cffdea92d289f0a8f91c41d05b0b09f661f2c9350166&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 11 Feb 2024 10:18:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>硕士学历黄仁勋，现在是院士了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557772&amp;idx=1&amp;sn=de5ef7b82809ed1c27be29ab2d9b9cb7&amp;chksm=976d4711a01ace0721b7f79f9355b9cc89c595520527c12a0180251455165b4e4a8d0a227c46&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 10 Feb 2024 12:06:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>系统 Prompt 长达 1700 个 token，ChatGPT 变「懒」的原因找到了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557772&amp;idx=2&amp;sn=790a4b2c9904b1324793a817cccb6abe&amp;chksm=976d4711a01ace07edd96df1ac4e1d9f6111ec9006b02066468c1f3add2919a89dc881ee2cfe&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 10 Feb 2024 12:06:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>大年三十问候导师的后果...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557771&amp;idx=1&amp;sn=8a174cf5c762e3aca43fd73fe01a44c7&amp;chksm=976d4716a01ace0042b645a3db6c6cb25087ba72e533aca7721877969766fc5ec7c7d42ad50e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 09 Feb 2024 10:21:16 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>“给字节卖命两年”，抖音官方回应了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557689&amp;idx=1&amp;sn=5e0456dfaf9e1b665c0c996cc79392ae&amp;chksm=976d47a4a01aceb206fa08510924e9f9f5edb1f8c608d8da02ad64d459f044395e30f501cd02&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 08 Feb 2024 02:24:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>俄罗斯小哥 ChatGPT 找女友：聊了 5239 个女生，现在订婚了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557689&amp;idx=2&amp;sn=502414419784ded81c634170c739e3bf&amp;chksm=976d47a4a01aceb2c7f1967368d04523e99bcb8fc91825d1abdeadacaf3783454af90047cb97&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 08 Feb 2024 02:24:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>手把手教你用 YOLOv8 训练自己的数据集以及 YOLOv8 的多任务使用</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557683&amp;idx=2&amp;sn=4ef434765aaed9d39b4ffc092d0b4948&amp;chksm=976d47aea01aceb829181e473a7c8b5963b64864e67e91fa7d45e220841dceb5c60d7cf1c814&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 07 Feb 2024 01:42:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>太突然！集体宣布裁员。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557642&amp;idx=1&amp;sn=495b376fe69530c901ef62407a70b056&amp;chksm=976d4797a01ace81f386ccc679499d0ea81ae87ff0ef34ff0366bd7e32e9ba76bf16a98f666c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 06 Feb 2024 02:46:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>基于 LightGBM 建模的极简教程</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557642&amp;idx=2&amp;sn=bae8c8e43bed5e545e19e48354aaeee8&amp;chksm=976d4797a01ace8113cbf9faca768622ce94593d962d20dc2f6544bb8d5dd7ed7cfa7fd4faff&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 06 Feb 2024 02:46:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>火爆 GitHub 的《机器学习 100 天》，现在出了视频讲解！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557630&amp;idx=1&amp;sn=2052a8d23ec5c88c3205a8f9047e658d&amp;chksm=976d4463a01acd751ae97ab0c8190a03c98487de84cfd979b665d846dd76126b3f7bca7c01e8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 05 Feb 2024 02:24:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源版GPTs人人免费用！Hugging Face发布定制个人助手，点2下轻松创建</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557630&amp;idx=2&amp;sn=3bedde312faaf40fb36a85c8928cb358&amp;chksm=976d4463a01acd75082cc6c9886007add8a6d6f983d4fecd40297d167a38b95945cd2632e51a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 05 Feb 2024 02:24:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>老师长太好看，影响教学吗？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557610&amp;idx=1&amp;sn=d4f1b7b39cb1dd51d7470af8b47a3bac&amp;chksm=976d4477a01acd610295d30c2486a3e0bea0006ba6d8d2dc3d992ba0312d00be2c831318b0ae&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 04 Feb 2024 02:50:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>YOLOv8终极指南</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557610&amp;idx=2&amp;sn=586f8ac80b631d19b366863ca8beb99b&amp;chksm=976d4477a01acd6164a4a8e613db5d92a6c20c6cfd8583a38ecefaa0075d03ee41e3a21231d4&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 04 Feb 2024 02:50:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>在华为，请假一天的代价是 3700…</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557598&amp;idx=1&amp;sn=9838bb6505ccef9514caabff8bd5f393&amp;chksm=976d4443a01acd55ca2f10a0fd1e26c9b64df39b1341baf4bcc2d29aba534a182b557475efe5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 03 Feb 2024 07:19:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>史上首个100%开源大模型重磅登场！破纪录公开代码/权重/数据集/训练全过程，AMD都能训</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557598&amp;idx=2&amp;sn=ebde19ee8ade7c82c28423ae5f0836d9&amp;chksm=976d4443a01acd55cd7e9e0a84c63ff7708b7237f487252abf453ca99a2608bcfb06852b2e1a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 03 Feb 2024 07:19:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>又火一个令人惊艳的 AI 项目，开源了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557550&amp;idx=1&amp;sn=c02b5cf1e310e5b2daa5176cbe864937&amp;chksm=976d4433a01acd25e8cc2880d4ba98ca40efd8ee3f693205055f4c66ad5e523cd20d396cc717&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 02 Feb 2024 07:44:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>牛逼，只用 Excel 就构建了一颗 CPU！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557550&amp;idx=2&amp;sn=f2cbdc71ee3b2c58fbaedb7bafcc3db4&amp;chksm=976d4433a01acd253866be4c61c5c93f5324d3c6dabe0ebfa8cbe9bc1d4dde56943ec3e7ee27&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 02 Feb 2024 07:44:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Vision Pro评测，笑不活了（第一波合集都在这了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557496&amp;idx=2&amp;sn=c517c3c68b5dd17b6a24422165c206c6&amp;chksm=976d44e5a01acdf39c83e7795d9ae48f6d6530a7cd1cd02d3d62c88d50e5c719a22cafd445d4&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 01 Feb 2024 02:43:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>更名最失败的 211，放弃“国字号”，让人错以为是“野鸡大学”……</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557488&amp;idx=1&amp;sn=cf075bf9a030d4c1c17c226249ff89fd&amp;chksm=976d44eda01acdfba9317c191e7b8ababf2ccda3e4bd4f016cf3c1be65e044de061d4ccdc1e3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 31 Jan 2024 02:40:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>机器学习入门基础：决策树</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557488&amp;idx=2&amp;sn=ac3df71b62a2de2094a5eece0aa18a3a&amp;chksm=976d44eda01acdfb502b1821557ee42c1b962c20668a19c223f1e5ff6b01e3774d46161864df&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 31 Jan 2024 02:40:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>又火一个惊艳的 AI 项目，开源了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557466&amp;idx=2&amp;sn=eeda5e5d8c7b05497dca2ecbaa3cda5e&amp;chksm=976d44c7a01acdd1dd81d2a4d851ff91af46ccef8cf4df750d4920d05cdf6305e2f60c537e53&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Jan 2024 03:28:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>美国 AI 战争再升级，全力阻止中国获得算力！或将禁止中国企业用云计算训模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557466&amp;idx=3&amp;sn=61139ae3973799927ef2616d40ef931f&amp;chksm=976d44c7a01acdd101f907177bfeedb4ddefd83c7740afa53288d67143e902968dc5dfe5ba9a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Jan 2024 03:28:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>面试理想汽车，给我整蒙了。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557445&amp;idx=1&amp;sn=29d6e591a16314d547d918014a565596&amp;chksm=976d44d8a01acdce773cad0bb77e43fa0baea73ac1d3194a9312dd7380d2787ecc763f18b207&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Jan 2024 02:46:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谷歌再雪前耻，新 Bard 逆袭 GPT-4 冲上 LLM 排行榜第二！Jeff Dean 高呼我们回来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557445&amp;idx=3&amp;sn=1499cbc5bf93e65b1e2c18dc7ac71421&amp;chksm=976d44d8a01acdce5646b9a87c2c271f2b58806c859fe24d4344917bcde7e1a9ac1e978b752a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Jan 2024 02:46:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>“学术蝗虫”真不是徒有虚名！学术会议茶歇吃成了自助餐</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557426&amp;idx=1&amp;sn=c77fde2a720abc8255e45aadb8bd6564&amp;chksm=976d44afa01acdb9f55f2836f6c3a991d3f641bb38d979997c67ed4be7a76230033178049efb&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Jan 2024 08:14:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>刚刚！何恺明谢赛宁解剖扩散模型，新作出炉。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557416&amp;idx=1&amp;sn=4d9bd504c91f22c730ffe7424f25c6f6&amp;chksm=976d44b5a01acda3a877fee7976f47a93bc661e2f556f7fa0c6ad2ece5036f38225ba5272805&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 27 Jan 2024 08:18:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>知乎 7K 高赞：推荐一个机器学习路线图！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557404&amp;idx=1&amp;sn=c1b19f8e783ba82e1803581fc2f60e87&amp;chksm=976d4481a01acd9799f7ff9cb2939a2c88674da708db3ad78dded39ce828bf9e9bb06fd98945&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Jan 2024 02:40:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2023 ACM Fellow出炉：华人占比1/5，深度学习三巨头、马维英等68人当选</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557404&amp;idx=2&amp;sn=da3519590cb8b7ff63e5c4cde2365ce9&amp;chksm=976d4481a01acd97f54e9d362c669b9276fc10f53ce323c17b7ab915fa49f0238f9c73888931&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Jan 2024 02:40:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>雷军 30 年前计算机论文曝光：“这种智能判定方法，国内外文献尚未提及”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557382&amp;idx=1&amp;sn=69ee9833cf57c9607efabc5bba6b0b38&amp;chksm=976d449ba01acd8d02f044fa8c27078de822f01c220e8ca5e1fda845747b99acf7d71737fab1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Jan 2024 08:09:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI 女友陪聊月入 20+ 万元！社交账号光发“假图”吸粉 2 万</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557382&amp;idx=2&amp;sn=7187eee4fa825a8973ced0e0ec749302&amp;chksm=976d449ba01acd8db944aab7cf3e54b329222120bc01e822d1a8d7c340a26ace67a8263aea31&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Jan 2024 08:09:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>CVPR 2024审稿结果出炉！总数近2万篇，网友吐槽审稿人又是本科生</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557382&amp;idx=3&amp;sn=0b096be5edd460c5c8f739d3c590c50a&amp;chksm=976d449ba01acd8d1eb867f46d9e0dde4733b3f229b6c3658ae44594705894ff439cc52d7073&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Jan 2024 08:09:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>终于知道工资为什么要保密了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557324&amp;idx=1&amp;sn=c5e6da3419bb559e2e26e4c07eca4287&amp;chksm=976d4551a01acc47d7405b7878b1aea346d407b5043dbca9b9199af6176e1746caa9c06b8610&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Jan 2024 02:49:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>「哄哄模拟器」24小时爆火，70万网友在线哄赛博女友！10亿token一天烧完</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557324&amp;idx=2&amp;sn=588be79b083e1bcf641ef5d4ec5b7e0d&amp;chksm=976d4551a01acc477c70f4e1dd3b5ffb91b381e3928e8b27a476534b9dd483be1fa507c14aad&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Jan 2024 02:49:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>GPT-5，奥特曼最新剧透</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557324&amp;idx=3&amp;sn=f773cd9f1f4424e2c8c486219ab4b7ac&amp;chksm=976d4551a01acc47a4f4febb57f9d5b9c95c061e8762ba97b67a82470da6aaf7962ecfbea1b9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Jan 2024 02:49:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全拿下！清华开源首个基于 Transformer 的多模态模型！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557260&amp;idx=1&amp;sn=103f5d212ea94f295bf68ce2a1622c7b&amp;chksm=976d4511a01acc07136e7a047108754a698ff3d1e7e12fed9ceb50c78ad909c58cb4386f366d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Jan 2024 02:44:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>世界顶尖多模态大模型开源！又是零一万物，又是李开复</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557260&amp;idx=2&amp;sn=8394e84a750cd0d8b145548407983eda&amp;chksm=976d4511a01acc07f0a1f865aa976b3bb91a898a737a5ead4a54f5e38facd438f6e4cb545e60&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Jan 2024 02:44:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>寒门要不要读博？看看群友的回答</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557245&amp;idx=1&amp;sn=33de44ee823a2fa483cc7014aa964ebe&amp;chksm=976d45e0a01accf6514dd4b48d3f451378c6928645713e5d5162659120860877f7df2acd2fc0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Jan 2024 07:11:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一张照片，为深度学习巨头们定制人像图片</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557245&amp;idx=2&amp;sn=02ff90568d9c48f71ff41da843015921&amp;chksm=976d45e0a01accf6e19f8295d6a4109cd1fd51295d2acef5895f8c4ceddd75769ab6e3a723ff&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Jan 2024 07:11:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>442 所！2024 最新 ESI中国大学排名出炉</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557187&amp;idx=1&amp;sn=a4864248ff79bb3b1f4640873f021af2&amp;chksm=976d45dea01accc8425701db9c9a83833296b5e84158293d54a664bde1bf0acb2b0d6cd538b8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Jan 2024 05:59:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>ConvNet 与 Transformer 谁更强？Meta 评测 4 个领先视觉模型！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557187&amp;idx=2&amp;sn=bb46b72c1b417c55329ceefcece8cf4d&amp;chksm=976d45dea01accc835cd290fb1fd8e70179f5a63e3f6cd60ffe52f2372f12c65e8172d12a21b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Jan 2024 05:59:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>知乎 7K 高赞：推荐一个机器学习利器！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557160&amp;idx=1&amp;sn=bf22119840fd4c3064835c5b4e9e8508&amp;chksm=976d45b5a01acca3061dc5df31819e787e7bdcfd1194e5d3364ed334bbab7f4a9efba83a079d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Jan 2024 02:41:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>京东今年的校招薪资。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247557160&amp;idx=2&amp;sn=45b79cc9aa0f2554e5c98906685a1a03&amp;chksm=976d45b5a01acca3c41f32d56877aab9bf73b687eb2560dcd6aad318aca447fbedb0f37acee3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Jan 2024 02:41:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>52B 高性能、开源多语言大模型 Tele-FLM 发布！中国电信人工智能研究院携手智源研究院推动开源社区发展</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=1&amp;sn=8976c4457c8e5c33a94b5e3b1fbcc472&amp;chksm=976d4819a01ac10fd8bc76aa219d3e3056ab0c0cad03efa6c87652aab840db72ac0e9db6028c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI 神秘搞事，GPT-4.5 默默上线？推理碾压 GPT-4 网友震惊，奥特曼笑而不语</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=2&amp;sn=08bbc0831b0ee9867bb659e576713d7b&amp;chksm=976d4819a01ac10f00313492d2b822346308157c553e0536ccae182331c28a5b37cf3d511738&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>深度学习训练，不同预算 GPU 选购指南</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=3&amp;sn=3bd0d504b81a8e0f9531e7489a9649d9&amp;chksm=976d4819a01ac10f488ad9c094f6e5c79bfdaefac5e5cbc25374c82d05666f3a26974c38f55e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>硕博表示震惊！小学生科创比赛获奖作品被指 “ 已达硕博水平 ” ！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560492&amp;idx=1&amp;sn=6b211e6c5a0c3f75b57ab570f329b12c&amp;chksm=976d48b1a01ac1a72485abad289874ca05c8374195e7812e826bd7d74eb8489afaa08457142d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Apr 2024 02:50:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>图神经网络的底层数学原理总结</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560492&amp;idx=2&amp;sn=e0dcfb84a9adf5e0da374394acd39bd2&amp;chksm=976d48b1a01ac1a74e0730c3ffea55ef81cfe62f54169388bef00122de1ceb1b2672872c801c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Apr 2024 02:50:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>大学城，烂尾！新校区不建了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=1&amp;sn=220233ca5395d25dff0af5cd41420b30&amp;chksm=976d48bba01ac1adfd1f5b694258e0843c67ff21df7f12225973cdb0400c76472b9eee89afb9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谷歌员工爆料 Python 基础团队原地解散</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=2&amp;sn=ec5067874e71094b45c83c4296eece02&amp;chksm=976d48bba01ac1ad1b991dfccbb0938723e8d07a765621a49e7308c6cffede851562f423791f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>今年这情况.....我劝大家还是多留一手准备吧！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=1&amp;sn=c574303938c18a15c525a82240807b40&amp;chksm=976d488ca01ac19a5be549fea25c58aa41063217571a3eaeb3173caed533106cb32967ba2fcd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>留言赠书丨中山大学 HCP 实验室专著《多模态大模型》重磅发布</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=2&amp;sn=4b2eed1968cf52be41ef3dd4f6ccc2c7&amp;chksm=976d488ca01ac19a2c4fa5c7662de8851f887f6335475d33a342fba1baea0c59057db93780c6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>多院校研究生奖学金停发！！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560434&amp;idx=1&amp;sn=2fe3e7393ab64b9abf0b54c9441b9e77&amp;chksm=976d496fa01ac079db0cce1df5eedeba2430b8c58b7adfa384b14bc375105fadc6236dbb012c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 27 Apr 2024 02:51:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全球最大开源模型再刷爆纪录！4800 亿参数 MoE 击败 Llama 3、Mixtral</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560292&amp;idx=2&amp;sn=d6ffe1fb37908cddf63a7d6860d2dfef&amp;chksm=976d49f9a01ac0efeb0a607d2c3676e0b1210d5425851fecc8280323735046522898709916fe&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 02:37:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>985 教授给研究生发放劳务费后再回收！以此套取科研经费，被通报！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=1&amp;sn=f30f0217405d883549861cb5aa2fed60&amp;chksm=976d49cea01ac0d82ad90fc4aaad6dceb90ffadf09abb5f8d1dfc33db5dcb664b00ecb0038df&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>视觉 prompt 工程！无需微调、无需任何模型修改，让一个通用模型可以执行多种指定任务</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=2&amp;sn=b2bda36a6ac168c09269ff3bf02cd176&amp;chksm=976d49cea01ac0d887b5942803ac80215ef1fee654ff22d1bc70dc0c7591b2fe316972cd3ecc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>强的离谱！深度学习大杀器 SLAM 彻底爆了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=1&amp;sn=8ad503bcc70b507024b9221974dd46e7&amp;chksm=976d49a0a01ac0b6946e1f9df7dbcb17835f0011749a6125286c9fb4432168678cb8fe637e92&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>发布几小时，微软秒删媲美 GPT-4 开源大模型！竟因忘记投毒测试</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=2&amp;sn=a6676784a0e29df12f4e49b64bceab34&amp;chksm=976d49a0a01ac0b6e21f73af59ba9811056e91917c237bb14edd3c809b0894fe6d9c371b0ace&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Llama 3 高调开源，大模型微调我已经上手了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=1&amp;sn=f4bbefebd48c3c1788c1a4b5c20200a0&amp;chksm=976d49b6a01ac0a02d739614d7202f1c96471e1338077dae84bff6f85ebda35c0e420bf029c0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>YOLO+CenterNet=小目标检测性能起飞！YOLC：简单高效的Anchor Free 目标检测框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=2&amp;sn=cf0ffcf038f1ad8e8f081f4a3c9d1447&amp;chksm=976d49b6a01ac0a039f0a0a5a216c4fed27af33f6f4d6c2106e53cca6663a2d2a5229b2ef9a7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>裁员大潮！今年少跳槽，别离职。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=1&amp;sn=e43c189a0d13234a59b9364f787eacd7&amp;chksm=976d498da01ac09b210fa28d0b263bc22ed299f510ef72cb314ab4b4b73b35e976aa0d30be4b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>华为又招了一名天才少年。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=2&amp;sn=5bad78939bf4f4b60756080430acfa13&amp;chksm=976d498da01ac09bc5575ce299de61900f982ac69805cf3af890723462c4efb3cb7758b69e3b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>突破！颜宁，发国产神刊！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=1&amp;sn=4476edea740b46901e2dcfb8bfddc292&amp;chksm=976d4e62a01ac77410039ec1546bef7d0c8731eb8fdbbcd5c7c95fe097aed14ce319de3cc32c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>卷积神经网络结构组成与解释</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=2&amp;sn=b3536833ab6cb75fe1d1fd555045cadf&amp;chksm=976d4e62a01ac774e90b2a5be5d5c2786ed2b02c15c685a323af85feb7832603a28bf6e1e23c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>性能提升 30%！中国电信进一步开源 12B 星辰大模型 TeleChat-12B！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=1&amp;sn=9254633bf541d2048c48f8bd87991b4c&amp;chksm=976d4e45a01ac753ac99f0b95851f029c21bec0ee69af7cbc395e41b33aad37b750f82ab7b14&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源大模型 Llama 3 王者归来！最大底牌 4000 亿参数，性能直逼 GPT-4</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=2&amp;sn=bf127a8f34dac0adf7fbfca9fd55074e&amp;chksm=976d4e45a01ac753ccf761953e834fc540e8738a5640f0edbc51ae86746666150890db2a2655&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>太卷了！今年的 AAAI 顶会有点猛。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=1&amp;sn=4fa9b508aca05cd585daceb7ecbf1036&amp;chksm=976d4e2ca01ac73a2be5e07f6ec4c02d6efce7845f5b008eab7b63cc9bc363d1e519c30b205c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2024 QS 排名发布！计算机 MIT 霸榜，清华 11，北大 15</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=2&amp;sn=d78170011fe15eb60af1f9690a81360e&amp;chksm=976d4e2ca01ac73a5e131b0ebec5af3c606e4fc533be71ec9ecb20d7ed0da7606608655d747e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>EI 检索稳定！人工智能、建模、自然语言处理、机器学习、计算机视觉、机器人与自动化工程类方向征稿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=1&amp;sn=ec8aff2f45cba3c7bea8c0fb80e4d80c&amp;chksm=976d4e03a01ac71530f3471c32a8de4472a90d33e248c30dc23d79afda2604d301706ceb622c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>革命新架构掀翻 Transformer！无限上下文处理，2 万亿 token 碾压 Llama 2</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=2&amp;sn=0d5c398f71caab476b531104edbf2441&amp;chksm=976d4e03a01ac7154d94262bb425b59f91993237ed6431ccd1d2a653204507deea8bc54d5038&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>炸裂！最新CVPR2024、ACL2024、AAAI2024、ICML2023汇总，论文、源码一应俱全！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=1&amp;sn=3cc60736ba54eb44bdf1b1c36d7af903&amp;chksm=976d4ea8a01ac7beff60ca52bfe9b072b25b3ea533eb31165d820d5f19a0bc460cf084726088&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>寒门要不要读博？看看群友的回答</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=2&amp;sn=b0bdceeb6e6a9bfc0de53cc4138e8524&amp;chksm=976d4ea8a01ac7be1a2871ab327564ce1ec9a73fca07b724131725a2b34baf1bec13e0c2bfdc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>中国永远不会倒闭的四个行业</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=1&amp;sn=a8e2351cd36e56134a20e1d311182190&amp;chksm=976d4ebda01ac7ab69bdd229d497b60e5ad6a21a94d6ab134adccd262ef83ce970f491715515&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最新 955 不加班的公司名单</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=2&amp;sn=da40e33c1522e47556f97d97138d33ba&amp;chksm=976d4ebda01ac7ab461d9a4d9f41c3448aea2ae34f46de71237f716e5887e2c2cc54876f8800&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>21 个深度学习调参技巧，一定要看到最后一个</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559941&amp;idx=2&amp;sn=c4445cac10e0c6e0bc291315378379ba&amp;chksm=976d4e98a01ac78ed0d752158542391d5b32143328f9eb7777a37c2f3edd510d05acab2601f1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 15 Apr 2024 02:16:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>这是雷军的简历，落魄时卡里只有冰冷的 40 亿...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=1&amp;sn=9a03ae6045b5e86a0e069049ab18109f&amp;chksm=976d4f7aa01ac66ca64c57936b32570b841cf08a500f5a0275a489dd0147f58cd2566ebfe031&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>NeurIPS 开辟高中赛道引爆争议！网友：代理人战争要开始了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=2&amp;sn=39eccb955c657d67c0f0fd9936e10fe9&amp;chksm=976d4f7aa01ac66cbe4312fa94b2143bd3629b04fd31f7dd992e6b0931d9e61881421cc9ebde&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>外包巨头大规模裁员，砍掉 22063 人！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559891&amp;idx=1&amp;sn=cf693fd348e8eab63d61f3350d9027f2&amp;chksm=976d4f4ea01ac658d91ae17f5a2717f02743b175be44e25054f78bdab446da1501418a75471e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 13 Apr 2024 08:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>重磅：2024 年 QS 世界大学学科排名出炉！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559891&amp;idx=2&amp;sn=b20c3a4b609594464aea24fdf4029ba7&amp;chksm=976d4f4ea01ac6585a67e7bc81b2caa1f1ef97fdcf83c1c9efcf7a77eaae1c9aa3b693f26c6b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 13 Apr 2024 08:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>深圳的 IT 崩盘了么？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559825&amp;idx=1&amp;sn=edbdd834dc39dab79207b0187d1b7860&amp;chksm=976d4f0ca01ac61aa2d785c2e885882358d269d834a65b3655fcf1c56ea39898624e22cada46&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 12 Apr 2024 02:09:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>刚刚，图灵奖揭晓！史上首位数学和计算机最高奖“双料王”出现了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559825&amp;idx=2&amp;sn=b003391dc943b26f0f4c96df7550536b&amp;chksm=976d4f0ca01ac61a4091067263aab54dcae06ec6f2c512df879e327490a12fbc93b15ef56350&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 12 Apr 2024 02:09:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>52B 高性能、开源多语言大模型 Tele-FLM 发布！中国电信人工智能研究院携手智源研究院推动开源社区发展</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=1&amp;sn=8976c4457c8e5c33a94b5e3b1fbcc472&amp;chksm=976d4819a01ac10fd8bc76aa219d3e3056ab0c0cad03efa6c87652aab840db72ac0e9db6028c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI 神秘搞事，GPT-4.5 默默上线？推理碾压 GPT-4 网友震惊，奥特曼笑而不语</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=2&amp;sn=08bbc0831b0ee9867bb659e576713d7b&amp;chksm=976d4819a01ac10f00313492d2b822346308157c553e0536ccae182331c28a5b37cf3d511738&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>深度学习训练，不同预算 GPU 选购指南</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=3&amp;sn=3bd0d504b81a8e0f9531e7489a9649d9&amp;chksm=976d4819a01ac10f488ad9c094f6e5c79bfdaefac5e5cbc25374c82d05666f3a26974c38f55e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>硕博表示震惊！小学生科创比赛获奖作品被指 “ 已达硕博水平 ” ！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560492&amp;idx=1&amp;sn=6b211e6c5a0c3f75b57ab570f329b12c&amp;chksm=976d48b1a01ac1a72485abad289874ca05c8374195e7812e826bd7d74eb8489afaa08457142d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Apr 2024 02:50:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>图神经网络的底层数学原理总结</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560492&amp;idx=2&amp;sn=e0dcfb84a9adf5e0da374394acd39bd2&amp;chksm=976d48b1a01ac1a74e0730c3ffea55ef81cfe62f54169388bef00122de1ceb1b2672872c801c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Apr 2024 02:50:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>大学城，烂尾！新校区不建了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=1&amp;sn=220233ca5395d25dff0af5cd41420b30&amp;chksm=976d48bba01ac1adfd1f5b694258e0843c67ff21df7f12225973cdb0400c76472b9eee89afb9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谷歌员工爆料 Python 基础团队原地解散</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=2&amp;sn=ec5067874e71094b45c83c4296eece02&amp;chksm=976d48bba01ac1ad1b991dfccbb0938723e8d07a765621a49e7308c6cffede851562f423791f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>今年这情况.....我劝大家还是多留一手准备吧！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=1&amp;sn=c574303938c18a15c525a82240807b40&amp;chksm=976d488ca01ac19a5be549fea25c58aa41063217571a3eaeb3173caed533106cb32967ba2fcd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>留言赠书丨中山大学 HCP 实验室专著《多模态大模型》重磅发布</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=2&amp;sn=4b2eed1968cf52be41ef3dd4f6ccc2c7&amp;chksm=976d488ca01ac19a2c4fa5c7662de8851f887f6335475d33a342fba1baea0c59057db93780c6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>多院校研究生奖学金停发！！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560434&amp;idx=1&amp;sn=2fe3e7393ab64b9abf0b54c9441b9e77&amp;chksm=976d496fa01ac079db0cce1df5eedeba2430b8c58b7adfa384b14bc375105fadc6236dbb012c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 27 Apr 2024 02:51:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全球最大开源模型再刷爆纪录！4800 亿参数 MoE 击败 Llama 3、Mixtral</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560292&amp;idx=2&amp;sn=d6ffe1fb37908cddf63a7d6860d2dfef&amp;chksm=976d49f9a01ac0efeb0a607d2c3676e0b1210d5425851fecc8280323735046522898709916fe&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 02:37:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>985 教授给研究生发放劳务费后再回收！以此套取科研经费，被通报！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=1&amp;sn=f30f0217405d883549861cb5aa2fed60&amp;chksm=976d49cea01ac0d82ad90fc4aaad6dceb90ffadf09abb5f8d1dfc33db5dcb664b00ecb0038df&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>视觉 prompt 工程！无需微调、无需任何模型修改，让一个通用模型可以执行多种指定任务</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=2&amp;sn=b2bda36a6ac168c09269ff3bf02cd176&amp;chksm=976d49cea01ac0d887b5942803ac80215ef1fee654ff22d1bc70dc0c7591b2fe316972cd3ecc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>强的离谱！深度学习大杀器 SLAM 彻底爆了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=1&amp;sn=8ad503bcc70b507024b9221974dd46e7&amp;chksm=976d49a0a01ac0b6946e1f9df7dbcb17835f0011749a6125286c9fb4432168678cb8fe637e92&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>发布几小时，微软秒删媲美 GPT-4 开源大模型！竟因忘记投毒测试</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=2&amp;sn=a6676784a0e29df12f4e49b64bceab34&amp;chksm=976d49a0a01ac0b6e21f73af59ba9811056e91917c237bb14edd3c809b0894fe6d9c371b0ace&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Llama 3 高调开源，大模型微调我已经上手了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=1&amp;sn=f4bbefebd48c3c1788c1a4b5c20200a0&amp;chksm=976d49b6a01ac0a02d739614d7202f1c96471e1338077dae84bff6f85ebda35c0e420bf029c0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>YOLO+CenterNet=小目标检测性能起飞！YOLC：简单高效的Anchor Free 目标检测框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=2&amp;sn=cf0ffcf038f1ad8e8f081f4a3c9d1447&amp;chksm=976d49b6a01ac0a039f0a0a5a216c4fed27af33f6f4d6c2106e53cca6663a2d2a5229b2ef9a7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>裁员大潮！今年少跳槽，别离职。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=1&amp;sn=e43c189a0d13234a59b9364f787eacd7&amp;chksm=976d498da01ac09b210fa28d0b263bc22ed299f510ef72cb314ab4b4b73b35e976aa0d30be4b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>华为又招了一名天才少年。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=2&amp;sn=5bad78939bf4f4b60756080430acfa13&amp;chksm=976d498da01ac09bc5575ce299de61900f982ac69805cf3af890723462c4efb3cb7758b69e3b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>突破！颜宁，发国产神刊！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=1&amp;sn=4476edea740b46901e2dcfb8bfddc292&amp;chksm=976d4e62a01ac77410039ec1546bef7d0c8731eb8fdbbcd5c7c95fe097aed14ce319de3cc32c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>卷积神经网络结构组成与解释</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=2&amp;sn=b3536833ab6cb75fe1d1fd555045cadf&amp;chksm=976d4e62a01ac774e90b2a5be5d5c2786ed2b02c15c685a323af85feb7832603a28bf6e1e23c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>性能提升 30%！中国电信进一步开源 12B 星辰大模型 TeleChat-12B！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=1&amp;sn=9254633bf541d2048c48f8bd87991b4c&amp;chksm=976d4e45a01ac753ac99f0b95851f029c21bec0ee69af7cbc395e41b33aad37b750f82ab7b14&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源大模型 Llama 3 王者归来！最大底牌 4000 亿参数，性能直逼 GPT-4</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=2&amp;sn=bf127a8f34dac0adf7fbfca9fd55074e&amp;chksm=976d4e45a01ac753ccf761953e834fc540e8738a5640f0edbc51ae86746666150890db2a2655&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>太卷了！今年的 AAAI 顶会有点猛。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=1&amp;sn=4fa9b508aca05cd585daceb7ecbf1036&amp;chksm=976d4e2ca01ac73a2be5e07f6ec4c02d6efce7845f5b008eab7b63cc9bc363d1e519c30b205c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2024 QS 排名发布！计算机 MIT 霸榜，清华 11，北大 15</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=2&amp;sn=d78170011fe15eb60af1f9690a81360e&amp;chksm=976d4e2ca01ac73a5e131b0ebec5af3c606e4fc533be71ec9ecb20d7ed0da7606608655d747e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>EI 检索稳定！人工智能、建模、自然语言处理、机器学习、计算机视觉、机器人与自动化工程类方向征稿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=1&amp;sn=ec8aff2f45cba3c7bea8c0fb80e4d80c&amp;chksm=976d4e03a01ac71530f3471c32a8de4472a90d33e248c30dc23d79afda2604d301706ceb622c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>革命新架构掀翻 Transformer！无限上下文处理，2 万亿 token 碾压 Llama 2</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=2&amp;sn=0d5c398f71caab476b531104edbf2441&amp;chksm=976d4e03a01ac7154d94262bb425b59f91993237ed6431ccd1d2a653204507deea8bc54d5038&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>炸裂！最新CVPR2024、ACL2024、AAAI2024、ICML2023汇总，论文、源码一应俱全！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=1&amp;sn=3cc60736ba54eb44bdf1b1c36d7af903&amp;chksm=976d4ea8a01ac7beff60ca52bfe9b072b25b3ea533eb31165d820d5f19a0bc460cf084726088&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>寒门要不要读博？看看群友的回答</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=2&amp;sn=b0bdceeb6e6a9bfc0de53cc4138e8524&amp;chksm=976d4ea8a01ac7be1a2871ab327564ce1ec9a73fca07b724131725a2b34baf1bec13e0c2bfdc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>中国永远不会倒闭的四个行业</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=1&amp;sn=a8e2351cd36e56134a20e1d311182190&amp;chksm=976d4ebda01ac7ab69bdd229d497b60e5ad6a21a94d6ab134adccd262ef83ce970f491715515&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最新 955 不加班的公司名单</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=2&amp;sn=da40e33c1522e47556f97d97138d33ba&amp;chksm=976d4ebda01ac7ab461d9a4d9f41c3448aea2ae34f46de71237f716e5887e2c2cc54876f8800&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>21 个深度学习调参技巧，一定要看到最后一个</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559941&amp;idx=2&amp;sn=c4445cac10e0c6e0bc291315378379ba&amp;chksm=976d4e98a01ac78ed0d752158542391d5b32143328f9eb7777a37c2f3edd510d05acab2601f1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 15 Apr 2024 02:16:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>这是雷军的简历，落魄时卡里只有冰冷的 40 亿...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=1&amp;sn=9a03ae6045b5e86a0e069049ab18109f&amp;chksm=976d4f7aa01ac66ca64c57936b32570b841cf08a500f5a0275a489dd0147f58cd2566ebfe031&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>NeurIPS 开辟高中赛道引爆争议！网友：代理人战争要开始了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=2&amp;sn=39eccb955c657d67c0f0fd9936e10fe9&amp;chksm=976d4f7aa01ac66cbe4312fa94b2143bd3629b04fd31f7dd992e6b0931d9e61881421cc9ebde&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>外包巨头大规模裁员，砍掉 22063 人！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559891&amp;idx=1&amp;sn=cf693fd348e8eab63d61f3350d9027f2&amp;chksm=976d4f4ea01ac658d91ae17f5a2717f02743b175be44e25054f78bdab446da1501418a75471e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 13 Apr 2024 08:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>重磅：2024 年 QS 世界大学学科排名出炉！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559891&amp;idx=2&amp;sn=b20c3a4b609594464aea24fdf4029ba7&amp;chksm=976d4f4ea01ac6585a67e7bc81b2caa1f1ef97fdcf83c1c9efcf7a77eaae1c9aa3b693f26c6b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 13 Apr 2024 08:09:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>52B 高性能、开源多语言大模型 Tele-FLM 发布！中国电信人工智能研究院携手智源研究院推动开源社区发展</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=1&amp;sn=8976c4457c8e5c33a94b5e3b1fbcc472&amp;chksm=976d4819a01ac10fd8bc76aa219d3e3056ab0c0cad03efa6c87652aab840db72ac0e9db6028c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI 神秘搞事，GPT-4.5 默默上线？推理碾压 GPT-4 网友震惊，奥特曼笑而不语</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=2&amp;sn=08bbc0831b0ee9867bb659e576713d7b&amp;chksm=976d4819a01ac10f00313492d2b822346308157c553e0536ccae182331c28a5b37cf3d511738&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>深度学习训练，不同预算 GPU 选购指南</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560580&amp;idx=3&amp;sn=3bd0d504b81a8e0f9531e7489a9649d9&amp;chksm=976d4819a01ac10f488ad9c094f6e5c79bfdaefac5e5cbc25374c82d05666f3a26974c38f55e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 02:27:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>硕博表示震惊！小学生科创比赛获奖作品被指 “ 已达硕博水平 ” ！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560492&amp;idx=1&amp;sn=6b211e6c5a0c3f75b57ab570f329b12c&amp;chksm=976d48b1a01ac1a72485abad289874ca05c8374195e7812e826bd7d74eb8489afaa08457142d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Apr 2024 02:50:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>图神经网络的底层数学原理总结</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560492&amp;idx=2&amp;sn=e0dcfb84a9adf5e0da374394acd39bd2&amp;chksm=976d48b1a01ac1a74e0730c3ffea55ef81cfe62f54169388bef00122de1ceb1b2672872c801c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 30 Apr 2024 02:50:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>大学城，烂尾！新校区不建了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=1&amp;sn=220233ca5395d25dff0af5cd41420b30&amp;chksm=976d48bba01ac1adfd1f5b694258e0843c67ff21df7f12225973cdb0400c76472b9eee89afb9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谷歌员工爆料 Python 基础团队原地解散</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560486&amp;idx=2&amp;sn=ec5067874e71094b45c83c4296eece02&amp;chksm=976d48bba01ac1ad1b991dfccbb0938723e8d07a765621a49e7308c6cffede851562f423791f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 02:54:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>今年这情况.....我劝大家还是多留一手准备吧！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=1&amp;sn=c574303938c18a15c525a82240807b40&amp;chksm=976d488ca01ac19a5be549fea25c58aa41063217571a3eaeb3173caed533106cb32967ba2fcd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>留言赠书丨中山大学 HCP 实验室专著《多模态大模型》重磅发布</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560465&amp;idx=2&amp;sn=4b2eed1968cf52be41ef3dd4f6ccc2c7&amp;chksm=976d488ca01ac19a2c4fa5c7662de8851f887f6335475d33a342fba1baea0c59057db93780c6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 03:07:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>多院校研究生奖学金停发！！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560434&amp;idx=1&amp;sn=2fe3e7393ab64b9abf0b54c9441b9e77&amp;chksm=976d496fa01ac079db0cce1df5eedeba2430b8c58b7adfa384b14bc375105fadc6236dbb012c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 27 Apr 2024 02:51:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>全球最大开源模型再刷爆纪录！4800 亿参数 MoE 击败 Llama 3、Mixtral</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560292&amp;idx=2&amp;sn=d6ffe1fb37908cddf63a7d6860d2dfef&amp;chksm=976d49f9a01ac0efeb0a607d2c3676e0b1210d5425851fecc8280323735046522898709916fe&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 02:37:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>985 教授给研究生发放劳务费后再回收！以此套取科研经费，被通报！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=1&amp;sn=f30f0217405d883549861cb5aa2fed60&amp;chksm=976d49cea01ac0d82ad90fc4aaad6dceb90ffadf09abb5f8d1dfc33db5dcb664b00ecb0038df&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>视觉 prompt 工程！无需微调、无需任何模型修改，让一个通用模型可以执行多种指定任务</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560275&amp;idx=2&amp;sn=b2bda36a6ac168c09269ff3bf02cd176&amp;chksm=976d49cea01ac0d887b5942803ac80215ef1fee654ff22d1bc70dc0c7591b2fe316972cd3ecc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 02:43:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>强的离谱！深度学习大杀器 SLAM 彻底爆了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=1&amp;sn=8ad503bcc70b507024b9221974dd46e7&amp;chksm=976d49a0a01ac0b6946e1f9df7dbcb17835f0011749a6125286c9fb4432168678cb8fe637e92&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>发布几小时，微软秒删媲美 GPT-4 开源大模型！竟因忘记投毒测试</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560253&amp;idx=2&amp;sn=a6676784a0e29df12f4e49b64bceab34&amp;chksm=976d49a0a01ac0b6e21f73af59ba9811056e91917c237bb14edd3c809b0894fe6d9c371b0ace&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 02:12:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Llama 3 高调开源，大模型微调我已经上手了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=1&amp;sn=f4bbefebd48c3c1788c1a4b5c20200a0&amp;chksm=976d49b6a01ac0a02d739614d7202f1c96471e1338077dae84bff6f85ebda35c0e420bf029c0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>YOLO+CenterNet=小目标检测性能起飞！YOLC：简单高效的Anchor Free 目标检测框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560235&amp;idx=2&amp;sn=cf0ffcf038f1ad8e8f081f4a3c9d1447&amp;chksm=976d49b6a01ac0a039f0a0a5a216c4fed27af33f6f4d6c2106e53cca6663a2d2a5229b2ef9a7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 02:49:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>裁员大潮！今年少跳槽，别离职。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=1&amp;sn=e43c189a0d13234a59b9364f787eacd7&amp;chksm=976d498da01ac09b210fa28d0b263bc22ed299f510ef72cb314ab4b4b73b35e976aa0d30be4b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>华为又招了一名天才少年。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560208&amp;idx=2&amp;sn=5bad78939bf4f4b60756080430acfa13&amp;chksm=976d498da01ac09bc5575ce299de61900f982ac69805cf3af890723462c4efb3cb7758b69e3b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Apr 2024 02:24:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>突破！颜宁，发国产神刊！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=1&amp;sn=4476edea740b46901e2dcfb8bfddc292&amp;chksm=976d4e62a01ac77410039ec1546bef7d0c8731eb8fdbbcd5c7c95fe097aed14ce319de3cc32c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>卷积神经网络结构组成与解释</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560191&amp;idx=2&amp;sn=b3536833ab6cb75fe1d1fd555045cadf&amp;chksm=976d4e62a01ac774e90b2a5be5d5c2786ed2b02c15c685a323af85feb7832603a28bf6e1e23c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:36:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>性能提升 30%！中国电信进一步开源 12B 星辰大模型 TeleChat-12B！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=1&amp;sn=9254633bf541d2048c48f8bd87991b4c&amp;chksm=976d4e45a01ac753ac99f0b95851f029c21bec0ee69af7cbc395e41b33aad37b750f82ab7b14&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源大模型 Llama 3 王者归来！最大底牌 4000 亿参数，性能直逼 GPT-4</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560152&amp;idx=2&amp;sn=bf127a8f34dac0adf7fbfca9fd55074e&amp;chksm=976d4e45a01ac753ccf761953e834fc540e8738a5640f0edbc51ae86746666150890db2a2655&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 07:42:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>太卷了！今年的 AAAI 顶会有点猛。。。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=1&amp;sn=4fa9b508aca05cd585daceb7ecbf1036&amp;chksm=976d4e2ca01ac73a2be5e07f6ec4c02d6efce7845f5b008eab7b63cc9bc363d1e519c30b205c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2024 QS 排名发布！计算机 MIT 霸榜，清华 11，北大 15</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560113&amp;idx=2&amp;sn=d78170011fe15eb60af1f9690a81360e&amp;chksm=976d4e2ca01ac73a5e131b0ebec5af3c606e4fc533be71ec9ecb20d7ed0da7606608655d747e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 19 Apr 2024 01:12:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>EI 检索稳定！人工智能、建模、自然语言处理、机器学习、计算机视觉、机器人与自动化工程类方向征稿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=1&amp;sn=ec8aff2f45cba3c7bea8c0fb80e4d80c&amp;chksm=976d4e03a01ac71530f3471c32a8de4472a90d33e248c30dc23d79afda2604d301706ceb622c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>革命新架构掀翻 Transformer！无限上下文处理，2 万亿 token 碾压 Llama 2</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247560094&amp;idx=2&amp;sn=0d5c398f71caab476b531104edbf2441&amp;chksm=976d4e03a01ac7154d94262bb425b59f91993237ed6431ccd1d2a653204507deea8bc54d5038&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 02:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>炸裂！最新CVPR2024、ACL2024、AAAI2024、ICML2023汇总，论文、源码一应俱全！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=1&amp;sn=3cc60736ba54eb44bdf1b1c36d7af903&amp;chksm=976d4ea8a01ac7beff60ca52bfe9b072b25b3ea533eb31165d820d5f19a0bc460cf084726088&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>寒门要不要读博？看看群友的回答</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559989&amp;idx=2&amp;sn=b0bdceeb6e6a9bfc0de53cc4138e8524&amp;chksm=976d4ea8a01ac7be1a2871ab327564ce1ec9a73fca07b724131725a2b34baf1bec13e0c2bfdc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 01:06:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>中国永远不会倒闭的四个行业</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=1&amp;sn=a8e2351cd36e56134a20e1d311182190&amp;chksm=976d4ebda01ac7ab69bdd229d497b60e5ad6a21a94d6ab134adccd262ef83ce970f491715515&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最新 955 不加班的公司名单</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559968&amp;idx=2&amp;sn=da40e33c1522e47556f97d97138d33ba&amp;chksm=976d4ebda01ac7ab461d9a4d9f41c3448aea2ae34f46de71237f716e5887e2c2cc54876f8800&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 02:18:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>21 个深度学习调参技巧，一定要看到最后一个</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559941&amp;idx=2&amp;sn=c4445cac10e0c6e0bc291315378379ba&amp;chksm=976d4e98a01ac78ed0d752158542391d5b32143328f9eb7777a37c2f3edd510d05acab2601f1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 15 Apr 2024 02:16:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>这是雷军的简历，落魄时卡里只有冰冷的 40 亿...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=1&amp;sn=9a03ae6045b5e86a0e069049ab18109f&amp;chksm=976d4f7aa01ac66ca64c57936b32570b841cf08a500f5a0275a489dd0147f58cd2566ebfe031&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>NeurIPS 开辟高中赛道引爆争议！网友：代理人战争要开始了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247559911&amp;idx=2&amp;sn=39eccb955c657d67c0f0fd9936e10fe9&amp;chksm=976d4f7aa01ac66cbe4312fa94b2143bd3629b04fd31f7dd992e6b0931d9e61881421cc9ebde&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 14 Apr 2024 02:35:33 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+  </channel>
+</rss>
+
