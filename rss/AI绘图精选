@@ -5,9 +5,13 @@
     <link>https://github.com/Aceysx/mp_rss</link>
     <description />
     <language>zh-cn</language>
-    <pubDate>Wed, 01 May 2024 04:55:52 GMT</pubDate>
-    <lastBuildDate>Wed, 01 May 2024 04:55:52 GMT</lastBuildDate>
+    <pubDate>Wed, 01 May 2024 05:27:13 GMT</pubDate>
+    <lastBuildDate>Wed, 01 May 2024 05:27:13 GMT</lastBuildDate>
     <ttl>5</ttl>
+    <image>
+      <title>AI绘图精选</title>
+      <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5VwLg5jcOkqEPPgtqsvD4DKbwW5IP1cw6NnRv4Wnsn9Q/0</url>
+    </image>
     <item>
       <title>Stable Diffusion 3 终于可以用了！但是...</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489022&amp;idx=1&amp;sn=0fce452619662aea4ebae4c8fde99285&amp;chksm=9bef06e1ac988ff7b799aa5a4f3e619fc49c45dd8244a744e1a7279c5a5326b0c07396aa12ac&amp;scene=58&amp;subscene=0#rd</link>
