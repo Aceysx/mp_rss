@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>AI绘图精选</title>
     <link>https://github.com/Aceysx/mp_rss</link>
     <description />
     <language>zh-cn</language>
     <pubDate>Thu, 02 May 2024 13:54:21 GMT</pubDate>
-    <lastBuildDate>Thu, 02 May 2024 13:54:21 GMT</lastBuildDate>
-    <ttl>5</ttl>
+    <dc:date>2024-05-02T13:54:21Z</dc:date>
+    <dc:language>zh-cn</dc:language>
     <image>
       <title>AI绘图精选</title>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5VwLg5jcOkqEPPgtqsvD4DKbwW5IP1cw6NnRv4Wnsn9Q/0</url>
@@ -15,362 +15,798 @@
     <item>
       <title>Stable Diffusion 3 终于可以用了！但是...</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489022&amp;idx=1&amp;sn=0fce452619662aea4ebae4c8fde99285&amp;chksm=9bef06e1ac988ff7b799aa5a4f3e619fc49c45dd8244a744e1a7279c5a5326b0c07396aa12ac&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489022&amp;idx=1&amp;sn=0fce452619662aea4ebae4c8fde99285&amp;chksm=9bef06e1ac988ff7b799aa5a4f3e619fc49c45dd8244a744e1a7279c5a5326b0c07396aa12ac&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>CosXL 一张图片一句话，实现图片”编辑重绘”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489002&amp;idx=1&amp;sn=d5e21289d78243fdb47c5ae5c43e9eb6&amp;chksm=9bef06f5ac988fe3f597d82b7f721c62dbd85c16db67f86062d0fd47eaf202ba3f4c42712ac6&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489002&amp;idx=1&amp;sn=d5e21289d78243fdb47c5ae5c43e9eb6&amp;chksm=9bef06f5ac988fe3f597d82b7f721c62dbd85c16db67f86062d0fd47eaf202ba3f4c42712ac6&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 69 巨丑头像免费在线生成</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488983&amp;idx=1&amp;sn=d848d70ed081f022a5aa8c7e9c712ae8&amp;chksm=9bef06c8ac988fde2aa453192f1ba5146a7852e7306de0965caee66188f64ca44e281610b64a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488983&amp;idx=1&amp;sn=d848d70ed081f022a5aa8c7e9c712ae8&amp;chksm=9bef06c8ac988fde2aa453192f1ba5146a7852e7306de0965caee66188f64ca44e281610b64a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>AI二维码｜我的世界风格 傻瓜式一键生成｜实战</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488968&amp;idx=1&amp;sn=76d07facff470b186a2d84547091cf75&amp;chksm=9bef06d7ac988fc1e9cccddfb1b6b17d7d1eb4e5cfd4555e7f082acb2568c8d375d617107238&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488968&amp;idx=1&amp;sn=76d07facff470b186a2d84547091cf75&amp;chksm=9bef06d7ac988fc1e9cccddfb1b6b17d7d1eb4e5cfd4555e7f082acb2568c8d375d617107238&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 68 救命????这头像要把我丑哭咯</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488951&amp;idx=1&amp;sn=49aa0c40a3715d5b4d4b2c7025b43ea4&amp;chksm=9bef06a8ac988fbe95952524a67dc433d62fd1d4f155243911056a405ee86b1b6ce45a1d52f4&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488951&amp;idx=1&amp;sn=49aa0c40a3715d5b4d4b2c7025b43ea4&amp;chksm=9bef06a8ac988fbe95952524a67dc433d62fd1d4f155243911056a405ee86b1b6ce45a1d52f4&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 为数不多的贼实用的插件 ComfyUI-N-Sidebar</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=1&amp;sn=80d1cd5c7059447965610598cd079b34&amp;chksm=9bef06b6ac988fa0b0d9baab7b99a1060bcdc195d6274d87c50b54bc5e6359892a81cdbfea14&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=1&amp;sn=80d1cd5c7059447965610598cd079b34&amp;chksm=9bef06b6ac988fa0b0d9baab7b99a1060bcdc195d6274d87c50b54bc5e6359892a81cdbfea14&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 66 我的世界之二维码</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=2&amp;sn=77905037f1aeca0cddb19753f4e6a7d4&amp;chksm=9bef06b6ac988fa034afc7d58d2f88cd7a46c6a2796a40bf9f24fbeab781adf606016db6ec28&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=2&amp;sn=77905037f1aeca0cddb19753f4e6a7d4&amp;chksm=9bef06b6ac988fa034afc7d58d2f88cd7a46c6a2796a40bf9f24fbeab781adf606016db6ec28&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>PhotoMaker 数字分身｜ 几秒钟内为任何人创建任何风格的照片、绘画、头像</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488915&amp;idx=1&amp;sn=0c2dd0f93c2a209175b51e2c8ece96f0&amp;chksm=9bef068cac988f9a70724ed9497de946713fbe703609e7d5666876f5882e5441305ee1950f82&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488915&amp;idx=1&amp;sn=0c2dd0f93c2a209175b51e2c8ece96f0&amp;chksm=9bef068cac988f9a70724ed9497de946713fbe703609e7d5666876f5882e5441305ee1950f82&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>字节大招 AnimateDiff-Lightning 视频生成效率提升10倍｜ 开启视频创作新纪元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488894&amp;idx=1&amp;sn=78952d958876a56dd8a35112f2d8ed3a&amp;chksm=9bef0661ac988f776393391deda6d527c7fe58728a477c6db1562f4c05b90593280d1dd6ff80&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488894&amp;idx=1&amp;sn=78952d958876a56dd8a35112f2d8ed3a&amp;chksm=9bef0661ac988f776393391deda6d527c7fe58728a477c6db1562f4c05b90593280d1dd6ff80&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 65｜90年代插画简约头像</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488865&amp;idx=1&amp;sn=b974ce9c886601783f734e2469b4e5f5&amp;chksm=9bef067eac988f685d7bfcf704eb76a50f99f7262687eaed9e4b4771ff41f4c7c571ec96904c&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488865&amp;idx=1&amp;sn=b974ce9c886601783f734e2469b4e5f5&amp;chksm=9bef067eac988f685d7bfcf704eb76a50f99f7262687eaed9e4b4771ff41f4c7c571ec96904c&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>惊呆了！AI为我做了一首诗，我膜拜了 一晚上</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=1&amp;sn=f0bdf99d9bcec80e89e8a35bd72a6928&amp;chksm=9bef064cac988f5afa48279db384ff6ec8d563c683c13bcb570529e4ceb27ca597a2ec8d7565&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=1&amp;sn=f0bdf99d9bcec80e89e8a35bd72a6928&amp;chksm=9bef064cac988f5afa48279db384ff6ec8d563c683c13bcb570529e4ceb27ca597a2ec8d7565&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 64 | AI: 此时此刻，我想吟诗一首！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=2&amp;sn=06379cff40b933dba3ca50b639ef5503&amp;chksm=9bef064cac988f5a27c7f6cd24aa3ce2357dfd0e041dc6ab066263b18853acf524abcfab1f0b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=2&amp;sn=06379cff40b933dba3ca50b639ef5503&amp;chksm=9bef064cac988f5a27c7f6cd24aa3ce2357dfd0e041dc6ab066263b18853acf524abcfab1f0b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Stable Diffusion 1.8 新版本最强功能，内置丝滑重绘效果，毫无违和感</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488805&amp;idx=1&amp;sn=2ad3b0643cdfde358fa3e0cfde4f3bff&amp;chksm=9bef063aac988f2cf3eb26eb3f47ffab6bc22e9a8fb3c74799e8293f4bab89810e9e9864ad0a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488805&amp;idx=1&amp;sn=2ad3b0643cdfde358fa3e0cfde4f3bff&amp;chksm=9bef063aac988f2cf3eb26eb3f47ffab6bc22e9a8fb3c74799e8293f4bab89810e9e9864ad0a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>工具速递 | 一个可以生成人物动漫贴纸的在线免费工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=1&amp;sn=3b2bc80d8063b93b46641122ee6ca4e1&amp;chksm=9bef07e2ac988ef48796e46f1365fb14ee67b11418d2516f2d3afabec979ef9a1a53b71b9ba5&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=1&amp;sn=3b2bc80d8063b93b46641122ee6ca4e1&amp;chksm=9bef07e2ac988ef48796e46f1365fb14ee67b11418d2516f2d3afabec979ef9a1a53b71b9ba5&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol63 | 可爱的贴纸哇????</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=2&amp;sn=5062d1c4f3167095eaf53e25270a1939&amp;chksm=9bef07e2ac988ef4746b425224636ad56e5723eb69548ff6ac3b0ed5054338c55ee6b737a16a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=2&amp;sn=5062d1c4f3167095eaf53e25270a1939&amp;chksm=9bef07e2ac988ef4746b425224636ad56e5723eb69548ff6ac3b0ed5054338c55ee6b737a16a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 模型&amp;工作流管理大师安排起来</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=1&amp;sn=6975638eccb66b54477f547e74865473&amp;chksm=9bef07f6ac988ee024542f2f8b9bfa0835335a130a668335971a2724da63ec9d5d2cd40f42b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=1&amp;sn=6975638eccb66b54477f547e74865473&amp;chksm=9bef07f6ac988ee024542f2f8b9bfa0835335a130a668335971a2724da63ec9d5d2cd40f42b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 62｜MajicMIX realistic 麦橘写实</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=2&amp;sn=48fed9bd50970c09538696d6b8913aaf&amp;chksm=9bef07f6ac988ee011779bec071aa4649b60d22853b30af276bab2911d496c42605bdcbbd396&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=2&amp;sn=48fed9bd50970c09538696d6b8913aaf&amp;chksm=9bef07f6ac988ee011779bec071aa4649b60d22853b30af276bab2911d496c42605bdcbbd396&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 第五节 极其好用的 效率节点插件</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=1&amp;sn=da6da2a492277da1ece5ebacb2cae734&amp;chksm=9bef07d8ac988eceb53f8c9a89753683ba0601febfcc8c23048b3d55a0f21a0b67491de6c81a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=1&amp;sn=da6da2a492277da1ece5ebacb2cae734&amp;chksm=9bef07d8ac988eceb53f8c9a89753683ba0601febfcc8c23048b3d55a0f21a0b67491de6c81a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 61｜MajicMIX realistic 写实</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=2&amp;sn=6aff25378a54edf30ebee5f5fdfb6762&amp;chksm=9bef07d8ac988ece686f04703a7de3c5a79528f608fcfe401bbf6daca4c601f7701f023156f7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=2&amp;sn=6aff25378a54edf30ebee5f5fdfb6762&amp;chksm=9bef07d8ac988ece686f04703a7de3c5a79528f608fcfe401bbf6daca4c601f7701f023156f7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 第四节 从裁剪到重绘，完整图生图工作流搭建</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488684&amp;idx=1&amp;sn=8d8bfe61f040304981a7ab153d76b386&amp;chksm=9bef07b3ac988ea5639ae4723c67404eccf27bad4762abc6025a59556497a03a99e340437ea7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488684&amp;idx=1&amp;sn=8d8bfe61f040304981a7ab153d76b386&amp;chksm=9bef07b3ac988ea5639ae4723c67404eccf27bad4762abc6025a59556497a03a99e340437ea7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Sora的到来 视频生成领域的重大转变｜Sora Pika Runway SDV 差距在哪？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488620&amp;idx=1&amp;sn=3017586b78806cac6460a77e4325dd8e&amp;chksm=9bef0773ac988e655f466be53d3bfb1fbbaa9251fe793d0cf101cbb825e53eb547e111d7d360&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488620&amp;idx=1&amp;sn=3017586b78806cac6460a77e4325dd8e&amp;chksm=9bef0773ac988e655f466be53d3bfb1fbbaa9251fe793d0cf101cbb825e53eb547e111d7d360&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>爬起来上个厕所，和 GPT-5 肩比肩的怪东西来了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488619&amp;idx=1&amp;sn=bf43c93cbff04133a741d247560c9443&amp;chksm=9bef0774ac988e6260861697009512c66773ed438f63b70a4d452d01b26efdad642c6b67ec7b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488619&amp;idx=1&amp;sn=bf43c93cbff04133a741d247560c9443&amp;chksm=9bef0774ac988e6260861697009512c66773ed438f63b70a4d452d01b26efdad642c6b67ec7b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>LayerDiffusion 分层控图新突破！生成透明图片&amp;前后景图片融合</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488566&amp;idx=1&amp;sn=ae0e1ca4da0eec9e4b7b1ecceaa28681&amp;chksm=9bef0729ac988e3f0a3818ba0a23ec98e62f856ecafcc00b4f9c8661f80851657c378bdf8d22&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488566&amp;idx=1&amp;sn=ae0e1ca4da0eec9e4b7b1ecceaa28681&amp;chksm=9bef0729ac988e3f0a3818ba0a23ec98e62f856ecafcc00b4f9c8661f80851657c378bdf8d22&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Stable Diffusion 3 终于可以用了！但是...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489022&amp;idx=1&amp;sn=0fce452619662aea4ebae4c8fde99285&amp;chksm=9bef06e1ac988ff7b799aa5a4f3e619fc49c45dd8244a744e1a7279c5a5326b0c07396aa12ac&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489022&amp;idx=1&amp;sn=0fce452619662aea4ebae4c8fde99285&amp;chksm=9bef06e1ac988ff7b799aa5a4f3e619fc49c45dd8244a744e1a7279c5a5326b0c07396aa12ac&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>CosXL 一张图片一句话，实现图片”编辑重绘”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489002&amp;idx=1&amp;sn=d5e21289d78243fdb47c5ae5c43e9eb6&amp;chksm=9bef06f5ac988fe3f597d82b7f721c62dbd85c16db67f86062d0fd47eaf202ba3f4c42712ac6&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489002&amp;idx=1&amp;sn=d5e21289d78243fdb47c5ae5c43e9eb6&amp;chksm=9bef06f5ac988fe3f597d82b7f721c62dbd85c16db67f86062d0fd47eaf202ba3f4c42712ac6&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 69 巨丑头像免费在线生成</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488983&amp;idx=1&amp;sn=d848d70ed081f022a5aa8c7e9c712ae8&amp;chksm=9bef06c8ac988fde2aa453192f1ba5146a7852e7306de0965caee66188f64ca44e281610b64a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488983&amp;idx=1&amp;sn=d848d70ed081f022a5aa8c7e9c712ae8&amp;chksm=9bef06c8ac988fde2aa453192f1ba5146a7852e7306de0965caee66188f64ca44e281610b64a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>AI二维码｜我的世界风格 傻瓜式一键生成｜实战</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488968&amp;idx=1&amp;sn=76d07facff470b186a2d84547091cf75&amp;chksm=9bef06d7ac988fc1e9cccddfb1b6b17d7d1eb4e5cfd4555e7f082acb2568c8d375d617107238&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488968&amp;idx=1&amp;sn=76d07facff470b186a2d84547091cf75&amp;chksm=9bef06d7ac988fc1e9cccddfb1b6b17d7d1eb4e5cfd4555e7f082acb2568c8d375d617107238&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 68 救命🆘这头像要把我丑哭咯</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488951&amp;idx=1&amp;sn=49aa0c40a3715d5b4d4b2c7025b43ea4&amp;chksm=9bef06a8ac988fbe95952524a67dc433d62fd1d4f155243911056a405ee86b1b6ce45a1d52f4&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488951&amp;idx=1&amp;sn=49aa0c40a3715d5b4d4b2c7025b43ea4&amp;chksm=9bef06a8ac988fbe95952524a67dc433d62fd1d4f155243911056a405ee86b1b6ce45a1d52f4&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 为数不多的贼实用的插件 ComfyUI-N-Sidebar</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=1&amp;sn=80d1cd5c7059447965610598cd079b34&amp;chksm=9bef06b6ac988fa0b0d9baab7b99a1060bcdc195d6274d87c50b54bc5e6359892a81cdbfea14&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=1&amp;sn=80d1cd5c7059447965610598cd079b34&amp;chksm=9bef06b6ac988fa0b0d9baab7b99a1060bcdc195d6274d87c50b54bc5e6359892a81cdbfea14&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 66 我的世界之二维码</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=2&amp;sn=77905037f1aeca0cddb19753f4e6a7d4&amp;chksm=9bef06b6ac988fa034afc7d58d2f88cd7a46c6a2796a40bf9f24fbeab781adf606016db6ec28&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=2&amp;sn=77905037f1aeca0cddb19753f4e6a7d4&amp;chksm=9bef06b6ac988fa034afc7d58d2f88cd7a46c6a2796a40bf9f24fbeab781adf606016db6ec28&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>PhotoMaker 数字分身｜ 几秒钟内为任何人创建任何风格的照片、绘画、头像</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488915&amp;idx=1&amp;sn=0c2dd0f93c2a209175b51e2c8ece96f0&amp;chksm=9bef068cac988f9a70724ed9497de946713fbe703609e7d5666876f5882e5441305ee1950f82&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488915&amp;idx=1&amp;sn=0c2dd0f93c2a209175b51e2c8ece96f0&amp;chksm=9bef068cac988f9a70724ed9497de946713fbe703609e7d5666876f5882e5441305ee1950f82&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>字节大招 AnimateDiff-Lightning 视频生成效率提升10倍｜ 开启视频创作新纪元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488894&amp;idx=1&amp;sn=78952d958876a56dd8a35112f2d8ed3a&amp;chksm=9bef0661ac988f776393391deda6d527c7fe58728a477c6db1562f4c05b90593280d1dd6ff80&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488894&amp;idx=1&amp;sn=78952d958876a56dd8a35112f2d8ed3a&amp;chksm=9bef0661ac988f776393391deda6d527c7fe58728a477c6db1562f4c05b90593280d1dd6ff80&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 65｜90年代插画简约头像</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488865&amp;idx=1&amp;sn=b974ce9c886601783f734e2469b4e5f5&amp;chksm=9bef067eac988f685d7bfcf704eb76a50f99f7262687eaed9e4b4771ff41f4c7c571ec96904c&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488865&amp;idx=1&amp;sn=b974ce9c886601783f734e2469b4e5f5&amp;chksm=9bef067eac988f685d7bfcf704eb76a50f99f7262687eaed9e4b4771ff41f4c7c571ec96904c&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>惊呆了！AI为我做了一首诗，我膜拜了 一晚上</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=1&amp;sn=f0bdf99d9bcec80e89e8a35bd72a6928&amp;chksm=9bef064cac988f5afa48279db384ff6ec8d563c683c13bcb570529e4ceb27ca597a2ec8d7565&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=1&amp;sn=f0bdf99d9bcec80e89e8a35bd72a6928&amp;chksm=9bef064cac988f5afa48279db384ff6ec8d563c683c13bcb570529e4ceb27ca597a2ec8d7565&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 64 | AI: 此时此刻，我想吟诗一首！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=2&amp;sn=06379cff40b933dba3ca50b639ef5503&amp;chksm=9bef064cac988f5a27c7f6cd24aa3ce2357dfd0e041dc6ab066263b18853acf524abcfab1f0b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=2&amp;sn=06379cff40b933dba3ca50b639ef5503&amp;chksm=9bef064cac988f5a27c7f6cd24aa3ce2357dfd0e041dc6ab066263b18853acf524abcfab1f0b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Stable Diffusion 1.8 新版本最强功能，内置丝滑重绘效果，毫无违和感</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488805&amp;idx=1&amp;sn=2ad3b0643cdfde358fa3e0cfde4f3bff&amp;chksm=9bef063aac988f2cf3eb26eb3f47ffab6bc22e9a8fb3c74799e8293f4bab89810e9e9864ad0a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488805&amp;idx=1&amp;sn=2ad3b0643cdfde358fa3e0cfde4f3bff&amp;chksm=9bef063aac988f2cf3eb26eb3f47ffab6bc22e9a8fb3c74799e8293f4bab89810e9e9864ad0a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>工具速递 | 一个可以生成人物动漫贴纸的在线免费工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=1&amp;sn=3b2bc80d8063b93b46641122ee6ca4e1&amp;chksm=9bef07e2ac988ef48796e46f1365fb14ee67b11418d2516f2d3afabec979ef9a1a53b71b9ba5&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=1&amp;sn=3b2bc80d8063b93b46641122ee6ca4e1&amp;chksm=9bef07e2ac988ef48796e46f1365fb14ee67b11418d2516f2d3afabec979ef9a1a53b71b9ba5&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol63 | 可爱的贴纸哇🐶</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=2&amp;sn=5062d1c4f3167095eaf53e25270a1939&amp;chksm=9bef07e2ac988ef4746b425224636ad56e5723eb69548ff6ac3b0ed5054338c55ee6b737a16a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=2&amp;sn=5062d1c4f3167095eaf53e25270a1939&amp;chksm=9bef07e2ac988ef4746b425224636ad56e5723eb69548ff6ac3b0ed5054338c55ee6b737a16a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 模型&amp;工作流管理大师安排起来</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=1&amp;sn=6975638eccb66b54477f547e74865473&amp;chksm=9bef07f6ac988ee024542f2f8b9bfa0835335a130a668335971a2724da63ec9d5d2cd40f42b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=1&amp;sn=6975638eccb66b54477f547e74865473&amp;chksm=9bef07f6ac988ee024542f2f8b9bfa0835335a130a668335971a2724da63ec9d5d2cd40f42b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 62｜MajicMIX realistic 麦橘写实</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=2&amp;sn=48fed9bd50970c09538696d6b8913aaf&amp;chksm=9bef07f6ac988ee011779bec071aa4649b60d22853b30af276bab2911d496c42605bdcbbd396&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=2&amp;sn=48fed9bd50970c09538696d6b8913aaf&amp;chksm=9bef07f6ac988ee011779bec071aa4649b60d22853b30af276bab2911d496c42605bdcbbd396&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 第五节 极其好用的 效率节点插件</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=1&amp;sn=da6da2a492277da1ece5ebacb2cae734&amp;chksm=9bef07d8ac988eceb53f8c9a89753683ba0601febfcc8c23048b3d55a0f21a0b67491de6c81a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=1&amp;sn=da6da2a492277da1ece5ebacb2cae734&amp;chksm=9bef07d8ac988eceb53f8c9a89753683ba0601febfcc8c23048b3d55a0f21a0b67491de6c81a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Vol 61｜MajicMIX realistic 写实</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=2&amp;sn=6aff25378a54edf30ebee5f5fdfb6762&amp;chksm=9bef07d8ac988ece686f04703a7de3c5a79528f608fcfe401bbf6daca4c601f7701f023156f7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=2&amp;sn=6aff25378a54edf30ebee5f5fdfb6762&amp;chksm=9bef07d8ac988ece686f04703a7de3c5a79528f608fcfe401bbf6daca4c601f7701f023156f7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>ComfyUI 第四节 从裁剪到重绘，完整图生图工作流搭建</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488684&amp;idx=1&amp;sn=8d8bfe61f040304981a7ab153d76b386&amp;chksm=9bef07b3ac988ea5639ae4723c67404eccf27bad4762abc6025a59556497a03a99e340437ea7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488684&amp;idx=1&amp;sn=8d8bfe61f040304981a7ab153d76b386&amp;chksm=9bef07b3ac988ea5639ae4723c67404eccf27bad4762abc6025a59556497a03a99e340437ea7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Sora的到来 视频生成领域的重大转变｜Sora Pika Runway SDV 差距在哪？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488620&amp;idx=1&amp;sn=3017586b78806cac6460a77e4325dd8e&amp;chksm=9bef0773ac988e655f466be53d3bfb1fbbaa9251fe793d0cf101cbb825e53eb547e111d7d360&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488620&amp;idx=1&amp;sn=3017586b78806cac6460a77e4325dd8e&amp;chksm=9bef0773ac988e655f466be53d3bfb1fbbaa9251fe793d0cf101cbb825e53eb547e111d7d360&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>爬起来上个厕所，和 GPT-5 肩比肩的怪东西来了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488619&amp;idx=1&amp;sn=bf43c93cbff04133a741d247560c9443&amp;chksm=9bef0774ac988e6260861697009512c66773ed438f63b70a4d452d01b26efdad642c6b67ec7b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488619&amp;idx=1&amp;sn=bf43c93cbff04133a741d247560c9443&amp;chksm=9bef0774ac988e6260861697009512c66773ed438f63b70a4d452d01b26efdad642c6b67ec7b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>LayerDiffusion 分层控图新突破！生成透明图片&amp;前后景图片融合</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488566&amp;idx=1&amp;sn=ae0e1ca4da0eec9e4b7b1ecceaa28681&amp;chksm=9bef0729ac988e3f0a3818ba0a23ec98e62f856ecafcc00b4f9c8661f80851657c378bdf8d22&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488566&amp;idx=1&amp;sn=ae0e1ca4da0eec9e4b7b1ecceaa28681&amp;chksm=9bef0729ac988e3f0a3818ba0a23ec98e62f856ecafcc00b4f9c8661f80851657c378bdf8d22&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>火爆全网的毛绒 App Logo ，手把手教你如何替换</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489061&amp;idx=1&amp;sn=e44c86b65e390779b9baa07626987388&amp;chksm=9bef053aac988c2c5dcd27938fae8ede8b60f58deb98892e11be6268c5774399dfb8a70ffa25&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Thu, 02 May 2024 13:58:55 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489061&amp;idx=1&amp;sn=e44c86b65e390779b9baa07626987388&amp;chksm=9bef053aac988c2c5dcd27938fae8ede8b60f58deb98892e11be6268c5774399dfb8a70ffa25&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-02T13:58:55Z</dc:date>
+    </item>
+    <item>
+      <title>Stable Diffusion 3 终于可以用了！但是...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489022&amp;idx=1&amp;sn=0fce452619662aea4ebae4c8fde99285&amp;chksm=9bef06e1ac988ff7b799aa5a4f3e619fc49c45dd8244a744e1a7279c5a5326b0c07396aa12ac&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 17 Apr 2024 16:50:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-17T16:50:11Z</dc:date>
     </item>
     <item>
       <title>CosXL 一张图片一句话，实现图片”编辑重绘”</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489002&amp;idx=1&amp;sn=d5e21289d78243fdb47c5ae5c43e9eb6&amp;chksm=9bef06f5ac988fe3f597d82b7f721c62dbd85c16db67f86062d0fd47eaf202ba3f4c42712ac6&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 15 Apr 2024 16:02:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-15T16:02:24Z</dc:date>
     </item>
     <item>
       <title>Vol 69 巨丑头像免费在线生成</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488983&amp;idx=1&amp;sn=d848d70ed081f022a5aa8c7e9c712ae8&amp;chksm=9bef06c8ac988fde2aa453192f1ba5146a7852e7306de0965caee66188f64ca44e281610b64a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 12:25:31 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T12:25:31Z</dc:date>
     </item>
     <item>
       <title>AI二维码｜我的世界风格 傻瓜式一键生成｜实战</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488968&amp;idx=1&amp;sn=76d07facff470b186a2d84547091cf75&amp;chksm=9bef06d7ac988fc1e9cccddfb1b6b17d7d1eb4e5cfd4555e7f082acb2568c8d375d617107238&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 01 Apr 2024 13:37:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-01T13:37:11Z</dc:date>
     </item>
     <item>
       <title>Vol 68 救命????这头像要把我丑哭咯</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488951&amp;idx=1&amp;sn=49aa0c40a3715d5b4d4b2c7025b43ea4&amp;chksm=9bef06a8ac988fbe95952524a67dc433d62fd1d4f155243911056a405ee86b1b6ce45a1d52f4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 28 Mar 2024 15:14:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-28T15:14:33Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 为数不多的贼实用的插件 ComfyUI-N-Sidebar</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=1&amp;sn=80d1cd5c7059447965610598cd079b34&amp;chksm=9bef06b6ac988fa0b0d9baab7b99a1060bcdc195d6274d87c50b54bc5e6359892a81cdbfea14&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 27 Mar 2024 13:37:32 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-27T13:37:32Z</dc:date>
     </item>
     <item>
       <title>Vol 66 我的世界之二维码</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=2&amp;sn=77905037f1aeca0cddb19753f4e6a7d4&amp;chksm=9bef06b6ac988fa034afc7d58d2f88cd7a46c6a2796a40bf9f24fbeab781adf606016db6ec28&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 27 Mar 2024 13:37:32 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-27T13:37:32Z</dc:date>
     </item>
     <item>
       <title>PhotoMaker 数字分身｜ 几秒钟内为任何人创建任何风格的照片、绘画、头像</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488915&amp;idx=1&amp;sn=0c2dd0f93c2a209175b51e2c8ece96f0&amp;chksm=9bef068cac988f9a70724ed9497de946713fbe703609e7d5666876f5882e5441305ee1950f82&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 24 Mar 2024 13:11:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-24T13:11:07Z</dc:date>
     </item>
     <item>
       <title>字节大招 AnimateDiff-Lightning 视频生成效率提升10倍｜ 开启视频创作新纪元</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488894&amp;idx=1&amp;sn=78952d958876a56dd8a35112f2d8ed3a&amp;chksm=9bef0661ac988f776393391deda6d527c7fe58728a477c6db1562f4c05b90593280d1dd6ff80&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 21 Mar 2024 15:52:39 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-21T15:52:39Z</dc:date>
     </item>
     <item>
       <title>Vol 65｜90年代插画简约头像</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488865&amp;idx=1&amp;sn=b974ce9c886601783f734e2469b4e5f5&amp;chksm=9bef067eac988f685d7bfcf704eb76a50f99f7262687eaed9e4b4771ff41f4c7c571ec96904c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 19 Mar 2024 14:16:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-19T14:16:50Z</dc:date>
     </item>
     <item>
       <title>惊呆了！AI为我做了一首诗，我膜拜了 一晚上</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=1&amp;sn=f0bdf99d9bcec80e89e8a35bd72a6928&amp;chksm=9bef064cac988f5afa48279db384ff6ec8d563c683c13bcb570529e4ceb27ca597a2ec8d7565&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 18 Mar 2024 14:46:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-18T14:46:50Z</dc:date>
     </item>
     <item>
       <title>Vol 64 | AI: 此时此刻，我想吟诗一首！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=2&amp;sn=06379cff40b933dba3ca50b639ef5503&amp;chksm=9bef064cac988f5a27c7f6cd24aa3ce2357dfd0e041dc6ab066263b18853acf524abcfab1f0b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 18 Mar 2024 14:46:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-18T14:46:50Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 1.8 新版本最强功能，内置丝滑重绘效果，毫无违和感</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488805&amp;idx=1&amp;sn=2ad3b0643cdfde358fa3e0cfde4f3bff&amp;chksm=9bef063aac988f2cf3eb26eb3f47ffab6bc22e9a8fb3c74799e8293f4bab89810e9e9864ad0a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 17 Mar 2024 10:43:39 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-17T10:43:39Z</dc:date>
     </item>
     <item>
       <title>工具速递 | 一个可以生成人物动漫贴纸的在线免费工具</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=1&amp;sn=3b2bc80d8063b93b46641122ee6ca4e1&amp;chksm=9bef07e2ac988ef48796e46f1365fb14ee67b11418d2516f2d3afabec979ef9a1a53b71b9ba5&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 15 Mar 2024 12:47:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-15T12:47:35Z</dc:date>
     </item>
     <item>
       <title>Vol63 | 可爱的贴纸哇????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=2&amp;sn=5062d1c4f3167095eaf53e25270a1939&amp;chksm=9bef07e2ac988ef4746b425224636ad56e5723eb69548ff6ac3b0ed5054338c55ee6b737a16a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 15 Mar 2024 12:47:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-15T12:47:35Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 模型&amp;工作流管理大师安排起来</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=1&amp;sn=6975638eccb66b54477f547e74865473&amp;chksm=9bef07f6ac988ee024542f2f8b9bfa0835335a130a668335971a2724da63ec9d5d2cd40f42b9&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 12 Mar 2024 13:01:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-12T13:01:16Z</dc:date>
     </item>
     <item>
       <title>Vol 62｜MajicMIX realistic 麦橘写实</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=2&amp;sn=48fed9bd50970c09538696d6b8913aaf&amp;chksm=9bef07f6ac988ee011779bec071aa4649b60d22853b30af276bab2911d496c42605bdcbbd396&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 12 Mar 2024 13:01:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-12T13:01:16Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 第五节 极其好用的 效率节点插件</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=1&amp;sn=da6da2a492277da1ece5ebacb2cae734&amp;chksm=9bef07d8ac988eceb53f8c9a89753683ba0601febfcc8c23048b3d55a0f21a0b67491de6c81a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 11 Mar 2024 16:04:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-11T16:04:36Z</dc:date>
     </item>
     <item>
       <title>Vol 61｜MajicMIX realistic 写实</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=2&amp;sn=6aff25378a54edf30ebee5f5fdfb6762&amp;chksm=9bef07d8ac988ece686f04703a7de3c5a79528f608fcfe401bbf6daca4c601f7701f023156f7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 11 Mar 2024 16:04:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-11T16:04:36Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 第四节 从裁剪到重绘，完整图生图工作流搭建</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488684&amp;idx=1&amp;sn=8d8bfe61f040304981a7ab153d76b386&amp;chksm=9bef07b3ac988ea5639ae4723c67404eccf27bad4762abc6025a59556497a03a99e340437ea7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 07 Mar 2024 15:58:48 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-07T15:58:48Z</dc:date>
     </item>
     <item>
       <title>Sora的到来 视频生成领域的重大转变｜Sora Pika Runway SDV 差距在哪？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488620&amp;idx=1&amp;sn=3017586b78806cac6460a77e4325dd8e&amp;chksm=9bef0773ac988e655f466be53d3bfb1fbbaa9251fe793d0cf101cbb825e53eb547e111d7d360&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 06 Mar 2024 00:35:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-06T00:35:05Z</dc:date>
     </item>
     <item>
       <title>爬起来上个厕所，和 GPT-5 肩比肩的怪东西来了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488619&amp;idx=1&amp;sn=bf43c93cbff04133a741d247560c9443&amp;chksm=9bef0774ac988e6260861697009512c66773ed438f63b70a4d452d01b26efdad642c6b67ec7b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 04 Mar 2024 18:40:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-04T18:40:14Z</dc:date>
     </item>
     <item>
       <title>LayerDiffusion 分层控图新突破！生成透明图片&amp;前后景图片融合</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488566&amp;idx=1&amp;sn=ae0e1ca4da0eec9e4b7b1ecceaa28681&amp;chksm=9bef0729ac988e3f0a3818ba0a23ec98e62f856ecafcc00b4f9c8661f80851657c378bdf8d22&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 03 Mar 2024 10:56:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-03T10:56:36Z</dc:date>
     </item>
     <item>
       <title>AI Arc Search：颠覆传统浏览器搜索方式 ｜ 下一个浏览器何必还是浏览器</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488409&amp;idx=1&amp;sn=ad30c9182fe4446da477fa1d803e9b49&amp;chksm=9bef0086ac9889908fa3929cd3781121f5aeebfced3483955fd266e2826d1d67cf520f3422d4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 03 Mar 2024 08:25:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-03T08:25:16Z</dc:date>
     </item>
     <item>
       <title>李一舟博士 199 AI商业课程 ｜ 限时免费领！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488381&amp;idx=1&amp;sn=08042b7f49ecb5d9434afe466381a09b&amp;chksm=9bef0062ac988974b842b0be0ce432b628b51d7ee9360b89cbaaa77f6ce6ee580d1e306612ab&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 29 Feb 2024 15:52:30 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-29T15:52:30Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 3层 16倍 终极高清放大，三千字详解高清放大工作流｜附工作流 文件</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488379&amp;idx=1&amp;sn=6fa7994846ef4f5d7837a41bb3352473&amp;chksm=9bef0064ac988972e922eac3857d7d61a43ae6b40ca4aca32aa1838430e43623c4af5649558b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 28 Feb 2024 18:09:30 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-28T18:09:30Z</dc:date>
     </item>
     <item>
       <title>4步高清出图！C站最受欢迎的模型 DreamShaper 推出 XL Lightning 版本 ｜ 附下载链接</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488345&amp;idx=1&amp;sn=3c79b1276ef215cb10fd65ce12198172&amp;chksm=9bef0046ac9889503f42028a7e045fbd115869016a36e44c5d41de9677b0676a678a8ae2e172&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 27 Feb 2024 03:03:06 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-27T03:03:06Z</dc:date>
     </item>
     <item>
       <title>Vol 60 模型推荐｜majicMIX realistic 麦橘写实</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488345&amp;idx=2&amp;sn=7d3ea7c23d4a603e2d4c4dbfc7c760c7&amp;chksm=9bef0046ac988950183f892499237e8528dc54504ea50b999aaacd89ea5b361129b0ed388009&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 27 Feb 2024 03:03:06 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-27T03:03:06Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 第四节 刚好能看懂的Stable Diffusion原理串讲文生图和图生图</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488312&amp;idx=1&amp;sn=1dde6fc035328d8626a6c35543e89509&amp;chksm=9bef0027ac98893161acf98e1e5c3e3a5cf5f46bd3cd46e934f6829e02b510e78b778640ce53&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 25 Feb 2024 11:32:22 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-25T11:32:22Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画 ???? Vol 59 | Pop Art 波普艺术</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488312&amp;idx=2&amp;sn=bb1636f6f66a0b9673e25ce1599026c7&amp;chksm=9bef0027ac988931efc8ce3b45af975fcd37947ba7d015bf931f888385dbaee5063c3af88dea&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 25 Feb 2024 11:32:22 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-25T11:32:22Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 3 发布 吹爆 ｜ 更好的细节、多元素控图、生成文字</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488247&amp;idx=1&amp;sn=984a728ea428234fbf0783f2541df3b8&amp;chksm=9bef01e8ac9888fef74d2f1f49b02b5ba76fd936e4ab2b0215fe9ffecbc25d7459349ff336bf&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 24 Feb 2024 10:25:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-24T10:25:38Z</dc:date>
     </item>
     <item>
       <title>字节跳动 王炸 SDXL-Lightning！只需一步生成1024高清大图，效果超Turbo&amp;LCM</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488222&amp;idx=1&amp;sn=ce5f5212138b597b254e4511c4fed341&amp;chksm=9bef01c1ac9888d7cb2ca27c52b9cc87bc86f49397e6c913a6d98f7fa543526b718d7ea00135&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 22 Feb 2024 16:32:23 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-22T16:32:23Z</dc:date>
     </item>
     <item>
       <title>​每日AI绘画 ???? Vol 58 | ????壁纸｜每一只都是独一无二的狗子????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488222&amp;idx=2&amp;sn=4190dcbb58ca5963ae4eed37cf287328&amp;chksm=9bef01c1ac9888d7b66f830a413097fc9af015b1eeec28fe4fcaffcc944dc594bca2a2c7c91b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 22 Feb 2024 16:32:23 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-22T16:32:23Z</dc:date>
     </item>
     <item>
       <title>​每日AI绘画 ???? Vol 57 | 救命???? 怎么会有这么酷的????桌面壁纸！第五张最可爱????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488190&amp;idx=1&amp;sn=dcdc9ab45151a6c268663b7865d89da3&amp;chksm=9bef01a1ac9888b7dec04fd612859c283931085a09635efe7dc908480f9eff96cc7b72e523a1&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 21 Feb 2024 15:19:59 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-21T15:19:59Z</dc:date>
     </item>
     <item>
       <title>电商要变天了！虚拟在线试衣间来了，模特又双叒叕失业了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488173&amp;idx=1&amp;sn=9f9adada44b61dba0e62e9b408f6cc0e&amp;chksm=9bef01b2ac9888a454513381177ff81f7b5d40abb916af1e0b13e09385b3f42b82a282c6d405&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 21 Feb 2024 00:57:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-21T00:57:44Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画 ???? Vol 56 | ????喵星人～ 壁纸壁纸</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488173&amp;idx=2&amp;sn=f22589584104b5f7eed6591b90a663c0&amp;chksm=9bef01b2ac9888a4bd94f8530cbc248d04505e7223761b6e0f28f9ba0e9e86379ac6fd9e4f91&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 21 Feb 2024 00:57:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-21T00:57:44Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 第二节 开始玩之前，一定要把这些插件都装上</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488087&amp;idx=1&amp;sn=86b45c1a12d7147e339092ab673f805c&amp;chksm=9bef0148ac98885ee495399519769f0e9df516e351594f9149a4e1d82ce9031ffb9b48fb3b4c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 19 Feb 2024 14:55:45 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-19T14:55:45Z</dc:date>
     </item>
     <item>
       <title>新篇章启航  ComfyUI 第一节从零开始 保姆级搭建教程｜最后一次从头学习的机会了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488069&amp;idx=1&amp;sn=2a639228274743cbfa7f6e14badbece9&amp;chksm=9bef015aac98884c6b9ae48d328a3efe40ba042f049df6bfdff65244963e83a4c2a9097e4d7b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 18 Feb 2024 12:17:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-18T12:17:20Z</dc:date>
     </item>
     <item>
       <title>AI工具铺 小程序免费玩了｜图像风格转换、试唇、年龄转换、图片处理...</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488069&amp;idx=2&amp;sn=8559677a8c1cb66de74d712187ac69b4&amp;chksm=9bef015aac98884c7af39dbbbff319c85fd283b9a4aec193ff597588731997be2c1753a7eb21&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 18 Feb 2024 12:17:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-18T12:17:20Z</dc:date>
     </item>
     <item>
       <title>薅羊毛了～可以免费在线使用的 Stable Diffusion 和 ComfyUI ｜ AI工具铺 上线 试唇间</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488036&amp;idx=1&amp;sn=8fa715df51fbd3fbd1d8728d81546c0f&amp;chksm=9bef013bac98882d19f054fcc7a0d54301aca523057a408d5a661359ba7f4fed0b98618d355a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 08 Feb 2024 01:39:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-08T01:39:14Z</dc:date>
     </item>
     <item>
       <title>创意红包封面免费领  转发给你的小伙伴吧～</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488036&amp;idx=2&amp;sn=db9fd18c4783c6cb3b81385ff36561b7&amp;chksm=9bef013bac98882da602ad05939e93f09394e4cbb3321672f1e31dc407ead1e3db3a44beaaac&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 08 Feb 2024 01:39:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-08T01:39:14Z</dc:date>
     </item>
     <item>
       <title>分享一个我自己开发的AI工具小程序</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488036&amp;idx=3&amp;sn=8af0e35e054173952078833d4b6d12a7&amp;chksm=9bef013bac98882ddb27ae90b8bc49e58589d76afa65b32668cdc52279d9e26197289e833877&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 08 Feb 2024 01:39:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-08T01:39:14Z</dc:date>
     </item>
     <item>
       <title>年前最后一波福利！前五免费做同款</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488020&amp;idx=1&amp;sn=84d08505df36c5e116bbe9c1294eff69&amp;chksm=9bef010bac98881d65919e3d8022513142dac3a0db1f58a55afb25cf5a838f75db8d1abbb812&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 06 Feb 2024 16:54:00 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-06T16:54:00Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 跑图神器 ｜ LCM-LoRA  4 步出图 ｜ 实战</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488014&amp;idx=1&amp;sn=834882b228591533022953688bf0cbd0&amp;chksm=9bef0111ac9888070f2c71935ef0e923bb8eed927b5ca5f3674f81b493c856f0a975fd493ee8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 05 Feb 2024 10:37:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-05T10:37:26Z</dc:date>
     </item>
     <item>
       <title>红包可以迟到，但不能缺席 ｜ 创意红包封面免费领 ｜ 第一波</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488014&amp;idx=2&amp;sn=ee737a119c2772ad7c5d2f9e9ca5bc18&amp;chksm=9bef0111ac98880762de12c021d56887a61d549ee5fcead660198a1f9296329c1597a4109e35&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 05 Feb 2024 10:37:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-05T10:37:26Z</dc:date>
     </item>
     <item>
       <title>分享一个我自己开发的AI工具小程序</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488014&amp;idx=3&amp;sn=3ccc39029a53dd0cc0ab0ba1648549dd&amp;chksm=9bef0111ac98880789e6a325dfb59e1205bc7f8563fe18170e816fdc860ba345e31ecf1e40a7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 05 Feb 2024 10:37:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-05T10:37:26Z</dc:date>
     </item>
     <item>
       <title>一分钟把Siri 打造成 AI人工智能！ 闲聊必备</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487999&amp;idx=1&amp;sn=a531e0983ff9eebc34ae472a3c6ed105&amp;chksm=9bef02e0ac988bf6fc0478c34dc8855d0e26e18420406fbbd09177526be0bf716d5d2700881d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 04 Feb 2024 17:01:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-04T17:01:20Z</dc:date>
     </item>
     <item>
       <title>红包可以迟到，但不能缺席 ｜ 创意红包封面免费领 ｜ 第一波</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487997&amp;idx=1&amp;sn=3d90a5d64e6cb131468b68d07315488e&amp;chksm=9bef02e2ac988bf4f925707eb0a345e0e931fd6f3d961153caabee58cccecc80679a0b3e86a0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 04 Feb 2024 03:28:06 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-04T03:28:06Z</dc:date>
     </item>
     <item>
       <title>分享一个我自己开发的AI工具小程序</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487997&amp;idx=2&amp;sn=8cb5f1e9029dff53ee103e5f9cd6b7d7&amp;chksm=9bef02e2ac988bf454a59cd98d8aa2cc4b1bd1875b6bc5d6f4e5feba1b2e994fb1e1b4c6e884&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 04 Feb 2024 03:28:06 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-04T03:28:06Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion InstantID 炸裂！只需要一张图就可以换脸 ｜ 详细教程</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487991&amp;idx=1&amp;sn=5f997dd81d7f956054d1e1512f7e6203&amp;chksm=9bef02e8ac988bfecd2249b40824a97b2e36c237155d460acfd3e40a7edef2c3376a2e05c964&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 02 Feb 2024 12:36:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-02T12:36:50Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画 ???? Vol 55</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487991&amp;idx=2&amp;sn=8feab3a22e40b8430b18cdbace85c5de&amp;chksm=9bef02e8ac988bfed636f5d554503a7974741cf409c06f53caa45fdf8c030be3a3c71d650c5f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 02 Feb 2024 12:36:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-02-02T12:36:50Z</dc:date>
     </item>
     <item>
       <title>分享一个我自己开发的AI工具小程序</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487899&amp;idx=1&amp;sn=285747501f3091823aaec922f6e8eeef&amp;chksm=9bef0284ac988b929be70144249cbd5159cca292f805c062fa4f79fa9f3b540b4e2a96747e41&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 31 Jan 2024 17:26:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-01-31T17:26:11Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 55 ｜领头像了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487899&amp;idx=2&amp;sn=ac029ad3ff9d78c061b49dba4b392259&amp;chksm=9bef0284ac988b929f338deb4e07452d08fa7f982d3e8c29dc3fac74b1587ff5008a9fdcabac&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 31 Jan 2024 17:26:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-01-31T17:26:11Z</dc:date>
     </item>
     <item>
       <title>回来啦  ｜ Stable Diffusion 图片背景完美替换</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487861&amp;idx=1&amp;sn=aa6012cfed75262091595139b9cfbcdb&amp;chksm=9bef026aac988b7c0d450cbf436a4c9602f6df11bb08673890380c2ad9631a23a790c5f33179&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Jan 2024 16:08:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-01-30T16:08:29Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 54 ｜领头像了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487861&amp;idx=2&amp;sn=86c4299e64eb9b89aa9a084667d4052e&amp;chksm=9bef026aac988b7cd2ee2dee2e3cd586d9b52e5871b23c6fac1922f7c7202e0650709e821c8f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Jan 2024 16:08:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-01-30T16:08:29Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 又是一个史诗级增强、出图效率暴增 5 倍</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487824&amp;idx=1&amp;sn=b1669f0c93d36f800d8e7dc2e961c142&amp;chksm=9bef024fac988b59159107d1f80ba897f3d15492e15f7dc42b272764838e49856d8bcc0ff06b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 21 Nov 2023 15:23:01 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-11-21T15:23:01Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion LightFlow 作弊插件！一键复用工作流</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487811&amp;idx=1&amp;sn=0dbf1aff0227972eb538d97a4b5c4a78&amp;chksm=9bef025cac988b4a81af582ae3823d18399e9f9dddc46824c4b613cec39b8e71dbe820d28ad5&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 16 Nov 2023 13:49:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-11-16T13:49:37Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 53 满分10分 你打几分？ |  原图已上传自取</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487811&amp;idx=2&amp;sn=f15b3be8fc5e0bb8617ca18d7be2dbb3&amp;chksm=9bef025cac988b4ad0731eab540d0a8a166d2ae092be8239f9ff6ce0e80b5c3bbdd0698116be&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 16 Nov 2023 13:49:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-11-16T13:49:37Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 有了这个方法，以后下载插件再也不求人了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487789&amp;idx=1&amp;sn=f836195887231ac05a2f513afa132657&amp;chksm=9bef0232ac988b24bbbb60f8f3342aff338ca9dceccc7b1a91853bea66fdf1bf8476ce5ffd9c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 13 Nov 2023 13:48:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-11-13T13:48:07Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 30分钟打造AI 写真照片生成器｜海马体照相馆这次真的要木得了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487782&amp;idx=1&amp;sn=438ae099ac5654f11ba5874fceb240da&amp;chksm=9bef0239ac988b2fd324db24b25acb4c25a705afb55721fcf9a41948d19268768d1196efc5d2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 10 Nov 2023 13:58:06 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-11-10T13:58:06Z</dc:date>
     </item>
     <item>
       <title>悄咪咪的更新下团队开发的AI工具小程序预览版。这个样式爱了爱了！
@@ -379,630 +815,735 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487766&amp;idx=1&amp;sn=808d127555bf2d7f6ddc278dcbabb5e8&amp;chksm=9bef0209ac988b1f1b0582849aa1e019f647954d3787ff6cab2c1d29d8bde65b8ca4fad9c3c3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 02 Nov 2023 14:52:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-11-02T14:52:57Z</dc:date>
     </item>
     <item>
       <title>最近比较忙????来波福利 免费代做同款二维码！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487762&amp;idx=1&amp;sn=8e5202f26021d5a792351a81bbab7192&amp;chksm=9bef020dac988b1be39e6140e19df8eb929bc5747845d6c28dd67a6f93f481833257a8486680&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 30 Oct 2023 14:38:54 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-30T14:38:54Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 5款最佳电商必备模型、Lora推荐</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487752&amp;idx=1&amp;sn=ce04e680290a5df9f0f85e77d60237cf&amp;chksm=9bef0217ac988b0104a867ec1a2b4e527bf2109a875c405ca41b978d0b45ad2f38feaf57149e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 24 Oct 2023 12:06:13 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-24T12:06:13Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 52  水墨简约 | 原图已上传自取</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487737&amp;idx=1&amp;sn=010837b3d1594dfc0a11d5582656497c&amp;chksm=9bef03e6ac988af03122a732854f97715aaae9a4f6f3ab6a884d0f3e17d6d1c79e1e3a0167c1&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 23 Oct 2023 12:15:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-23T12:15:58Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion Lora | 景深滑块、精细化控制景深</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487718&amp;idx=1&amp;sn=d77ae9f2469c2595a0a078c7056dbab9&amp;chksm=9bef03f9ac988aefd8d63c5693ad60705110e52613f13e7361a24dd5ee04c1aed81d7f0cd236&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 22 Oct 2023 10:49:52 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-22T10:49:52Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 51 | 原图已上传自取</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487718&amp;idx=2&amp;sn=02d87120a7f0a027b73b97982d82b95f&amp;chksm=9bef03f9ac988aef5ef91f2bcbbca98f751a2a5d418f5399374bb566717eee01c1c72caf685e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 22 Oct 2023 10:49:52 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-22T10:49:52Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 快速创作角色三视图</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487688&amp;idx=1&amp;sn=d103b917ac0ad78e6931f74c67ea8ee3&amp;chksm=9bef03d7ac988ac17bfc5282f0080de9f995d420ce4fd3c4d02d0df1036c5aa3f02955f0b0d3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 17 Oct 2023 16:03:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-17T16:03:20Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 抽卡必备神器！Agent Scheduler</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487664&amp;idx=1&amp;sn=5190db153d317a5326b407406fc14cf5&amp;chksm=9bef03afac988ab9822034893f75bd637a8af86cc0809ccbf4151cee500e2ebd43f18bcfb0d2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 15 Oct 2023 09:57:22 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-15T09:57:22Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 50 | 水墨风！原图已上传自取</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487664&amp;idx=2&amp;sn=1bc6987064f612df44aeb7e9339cb330&amp;chksm=9bef03afac988ab9837c7d2e744870109b0b12790d9949436dfad0976e8d983596a15ffb9182&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 15 Oct 2023 09:57:22 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-15T09:57:22Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 情绪滑块、定制情绪表情的最好方法</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487639&amp;idx=1&amp;sn=91fcceebbc15cbcda3f7da6c4e1ac370&amp;chksm=9bef0388ac988a9e77185ecedac1be3bb4e958d1a16b2e87b440d050a3bf0e0c8e4528f081c2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 10 Oct 2023 15:09:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-10T15:09:05Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 49 | 有点杂！原图已上传自取</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487639&amp;idx=2&amp;sn=8acc97b169dead9551335b9f124a18a4&amp;chksm=9bef0388ac988a9e496805e9a48a9a449150cbf03cb554337c1dc2ce896b7a6d4fec778de4bb&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 10 Oct 2023 15:09:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-10T15:09:05Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion AnimateDiff | 最稳定的基于文本生成视频的方法</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487608&amp;idx=1&amp;sn=60ce07f484ffe78d379d5a7736980bd0&amp;chksm=9bef0367ac988a712e7a5482685d67d58291a647ca810994ed5c8d1adb850e529658d6a2e64b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 08 Oct 2023 15:26:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-08T15:26:24Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 48 | 优雅！原图已上传自取</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487608&amp;idx=2&amp;sn=076d97e35ffd227462c80316bdd0c8e5&amp;chksm=9bef0367ac988a7146032cc0190d84c812613df91dd61ff70d24a8b9861124b812463d5ead85&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 08 Oct 2023 15:26:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-08T15:26:24Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 47 |  电脑罢工中... 教程还得等等????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487577&amp;idx=1&amp;sn=9ca45147217328cf30dfc154a8ad169a&amp;chksm=9bef0346ac988a509f628d984eb0565462f277819a8716e6bf3cabda6e5468b17a49f2bb3e5c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 07 Oct 2023 12:59:52 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-07T12:59:52Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 46 | 收假???? | 电脑罢工</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487558&amp;idx=1&amp;sn=b6ce886e6139e28aa44476189079cb85&amp;chksm=9bef0359ac988a4f500ac9cf5dfe46d046ff7547d6c58d1dad525587e5714c2dc3fa9423bf3e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 06 Oct 2023 14:56:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-10-06T14:56:58Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 一键抄作业，以后再也不用找别人要咒语了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487521&amp;idx=1&amp;sn=66ee42a08617f3ea8a9ddb473b88c7ca&amp;chksm=9bef033eac988a283e8babd9f49ededf53fba988c59bbe07aa3af117a0bdd423d80a10b1c5ae&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 27 Sep 2023 14:18:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-27T14:18:36Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 45 | 吊带裙，浅色开衫，极简主义运动鞋！ 图已上传，自取！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487521&amp;idx=2&amp;sn=7e8911a2b5d533d6b5bd1781471df4cc&amp;chksm=9bef033eac988a28de28135f3a05eac9d9d221391b2e91521407bdd1b3a2b783a8d61eb33533&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 27 Sep 2023 14:18:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-27T14:18:36Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 工作流 | 中秋艺术字海报</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487496&amp;idx=1&amp;sn=8d335592ac506e3edaa2ef8d55d3061f&amp;chksm=9bef0317ac988a0147e31abe8f2d31b9e04910bb2450d6dc1c3b9a5ecce64d45c5d7a5decad0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 26 Sep 2023 13:49:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-26T13:49:58Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 44 | 喇叭牛仔裤，波西米亚衬衫，楔形凉鞋！ 图已上传，自取！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487496&amp;idx=2&amp;sn=479674aeae4f9de983df62715fe4e3f9&amp;chksm=9bef0317ac988a0159491681decfb123f8ce88ca1a6f026104f3fe6020216b80dcf5f677b65d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 26 Sep 2023 13:49:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-26T13:49:58Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 43 | 粗花呢夹克！有提示词</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487466&amp;idx=1&amp;sn=8545047677b79264b94b7872cbd6fda5&amp;chksm=9bef1cf5ac9895e37d6933f7278025ea6e60d4b719e723036e07fd4b8628935819cde49c70c8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 25 Sep 2023 15:01:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-25T15:01:03Z</dc:date>
     </item>
     <item>
       <title>公众号回复 插件 获取离线安装包</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487449&amp;idx=1&amp;sn=41e020d3d443b57b253737049f0e2d94&amp;chksm=9bef1cc6ac9895d0c6b0f4dbc4c9c45579f8f6659fa7ddd21cde30dcfbaf89521422e82191b0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 25 Sep 2023 14:41:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-25T14:41:26Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 42 |  图已上传，自取！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487447&amp;idx=1&amp;sn=876a341ab469d691ec502c1f742f1617&amp;chksm=9bef1cc8ac9895de9c3eee1f639435e807c5485c0ea5e4afcc9900818a31878674faf7d1eb76&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 19 Sep 2023 15:19:59 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-19T15:19:59Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 崩脸修复神器！为什么你出的全身照脸部总是惨不忍睹</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487431&amp;idx=1&amp;sn=d4937041239a1021998a2b4be8a1d187&amp;chksm=9bef1cd8ac9895cec39d188641ab0da672a2180510f5ee99de9cac797e878449595c17092f75&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 18 Sep 2023 14:45:43 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-18T14:45:43Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 41 | 三种风格！你喜欢哪种？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487431&amp;idx=2&amp;sn=696c86f4f02cbf997a9e00dbbb98e652&amp;chksm=9bef1cd8ac9895ce3bc0e18d4ef2936b30d48a0436e299c1c106d707d844671e5d8788807e11&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 18 Sep 2023 14:45:43 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-18T14:45:43Z</dc:date>
     </item>
     <item>
       <title>这可能是最细的免费AI绘画课程内容了！还在不断地持续更新中⏰</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487393&amp;idx=1&amp;sn=b4d2c9100810a7969ea3e8410552098a&amp;chksm=9bef1cbeac9895a80b16e44ef7d0824f2ad5c433b6bd3dd441831407e42c89429b91cc6a9351&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 17 Sep 2023 10:54:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-17T10:54:57Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 40 | 水墨风！有提示词</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487393&amp;idx=2&amp;sn=9b7cf54e5bc81ea11ffb8d9c408e6901&amp;chksm=9bef1cbeac9895a8eb9f66f986b4b341c5d168793031f5722e89ad4f4eb690f5d7d4926502da&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 17 Sep 2023 10:54:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-17T10:54:57Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 39 | 周末 ????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487370&amp;idx=1&amp;sn=5e5b3691790a68be34b06fdf7d31b9df&amp;chksm=9bef1c95ac9895832c30bae9cd1194c1289073aef3462f7ffd020334bd33efde6408ddc26ee7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 16 Sep 2023 02:51:42 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-16T02:51:42Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 38 |  Happy Friday! 有提示词哦~</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487223&amp;idx=1&amp;sn=6bd5a15fe9ff7110bd2c99b8257e6a43&amp;chksm=9bef1de8ac9894fe6828b05f61f7647eaf2cdd196c63fc6ecb4c790037815c4f22d0239ff82b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 14 Sep 2023 16:39:08 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-14T16:39:08Z</dc:date>
     </item>
     <item>
       <title>CodeFormer 图片修复神器 包浆、面部细节、颜色增强、脸部损失</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487164&amp;idx=1&amp;sn=44ecf49fe632ccffb6d264ea4b6cbf94&amp;chksm=9bef1da3ac9894b5560dd4a05a24682c77b8f7771e552854c09da43e1a35ae925c52e9b41fe6&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 12 Sep 2023 14:32:18 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-12T14:32:18Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 37 | 短发也很耐看！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487142&amp;idx=1&amp;sn=6fb3a2d7d7616534a81da5843bb4adda&amp;chksm=9bef1db9ac9894afd53e17c170cd03cd50be6298791b89d33ec3a3bbf7f7d46a7956cf234cf6&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 11 Sep 2023 14:08:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-11T14:08:36Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 喂饭教程来啦！价值上万的模特AI换装方法</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487104&amp;idx=1&amp;sn=14c10fb1ef787cbb48a1d60e5926ae92&amp;chksm=9bef1d9fac9894891189709b50aef406dba8d1f34b54ee074709aa655e66a6659e09ecc73fcd&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 10 Sep 2023 11:44:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-10T11:44:03Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 36 | 水墨大头迪士尼宝儿????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487079&amp;idx=1&amp;sn=614a88fc25d797b9c3bd89076cf22fdb&amp;chksm=9bef1d78ac98946e63257be30d5f21258a99696f55199c8ef96fef1e85b81ea9451c78f1cf07&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 09 Sep 2023 11:50:23 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-09T11:50:23Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 35 | 大头宝宝????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487071&amp;idx=1&amp;sn=6464874ad57153f8aada08ededa53284&amp;chksm=9bef1d40ac9894566a57cedf7cd89bba577206fdc7985d346b4d42544bd6cf49942d575ec010&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 09 Sep 2023 11:48:46 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-09T11:48:46Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 34 | 上次全身照的提示词来了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487047&amp;idx=1&amp;sn=f603156e04d8fc3fe468e4f40113e984&amp;chksm=9bef1d58ac98944e30db97678f4b64873ab040ed57dbbe3507d370259eb5805ff00105db21fe&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 07 Sep 2023 15:33:49 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-07T15:33:49Z</dc:date>
     </item>
     <item>
       <title>❤️不定期福利又来啦！前五名免费代做随机款艺术二维码</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247487012&amp;idx=1&amp;sn=f4b14bc091ea623f6936cd6846ee47d1&amp;chksm=9bef1d3bac98942dda7641cb52ee402f83aee4905db6716bce2546c5d71e215a23ac9e87f4a0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 06 Sep 2023 13:19:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-06T13:19:57Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion ControlNet 姿势约束终篇，解锁任意手部形状，实现手部自由</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486996&amp;idx=1&amp;sn=1222261567ae7fc5398e33836c5202ab&amp;chksm=9bef1d0bac98941d86bcf424340634eb110f77f14ca1c8a84479b0b5c145b48d8c2cd404b20e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 05 Sep 2023 11:37:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-05T11:37:58Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 33 | Disney 版高清修复！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486996&amp;idx=2&amp;sn=328852dd5f970a3ec92b077994303d73&amp;chksm=9bef1d0bac98941d884919299bfab1f01ab76772281e0bc4fd1ff75feeee28cb01599ca07e9a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 05 Sep 2023 11:37:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-05T11:37:58Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 32 | 升级后出图效果太棒了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486958&amp;idx=1&amp;sn=641c5b2717cc313a89c215b35ea92e5e&amp;chksm=9bef1ef1ac9897e747526c41abcd0e42ed85732744c50301eb76ba115efa0a356f1f3a53b6cb&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 04 Sep 2023 15:46:48 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-04T15:46:48Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion WebUI 1.6 新版本迎来大量新功能，快进来看看有没有你期待的！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486940&amp;idx=1&amp;sn=9b5af9049988fe8241008ce016157621&amp;chksm=9bef1ec3ac9897d5d2845d7bc5cd835a99c532fac522ad51811d2f55871d6b6e074c114e5bb3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 03 Sep 2023 10:02:31 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-03T10:02:31Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 31 | 12生肖-????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486940&amp;idx=2&amp;sn=463d1d3862e68f99785e203acd1fac54&amp;chksm=9bef1ec3ac9897d5625d82ee41d04250937d7acdd6b5f907f8d5de0214fda94463e945836e5d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 03 Sep 2023 10:02:31 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-09-03T10:02:31Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion Lora 国风篇 vol1 | 家喻户晓的国风 Lora，你是不是还不知道？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486895&amp;idx=1&amp;sn=6924661825fcfa815890b468bc3943fc&amp;chksm=9bef1eb0ac9897a6babcf5c4e9b0b640a3dacb68e71e3f60c49fdb27e82ad7b9734604d65c7d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 31 Aug 2023 14:25:42 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-31T14:25:42Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 30 | 转卡通baby！你喜欢哪一个？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486869&amp;idx=1&amp;sn=3bd650e4f4c12da7dd249948965c99e2&amp;chksm=9bef1e8aac98979cdf5d838b0b6f8baa581085537794a03773ec0408e5d73c3c5f9d3fde868b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 30 Aug 2023 13:49:18 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-30T13:49:18Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion ControlNet OpenPose  | 以后出图姿势自由了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486821&amp;idx=1&amp;sn=6003f19228db6b57a4029db4deae005e&amp;chksm=9bef1e7aac98976cf3e500d9caf278bed3e12b8c268099f5c4b3ce7a8dd7f4aad85777536147&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 29 Aug 2023 13:16:56 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-29T13:16:56Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 28 | 一对情头</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486736&amp;idx=1&amp;sn=dbe82172f7e82116ce3157f3fd5395aa&amp;chksm=9bef1e0fac98971949fef61c6f958a9e86b270c45c257c17570ceed6a7d092769ed4d9564dc9&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 28 Aug 2023 14:18:34 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-28T14:18:34Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 必装插件查缺补漏，你还有哪个没装？(下）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486711&amp;idx=1&amp;sn=275bc9d01bc40583c2737afefafb1310&amp;chksm=9bef1fe8ac9896fe12382d88f42d6738dae871ccd2bd172a10efec9fdd39c8b96b54553ccf6e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 27 Aug 2023 10:04:23 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-27T10:04:23Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 27 | 水墨卡通????</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486711&amp;idx=2&amp;sn=46085a4d1e8f7a02eb5d53da45e7f1a5&amp;chksm=9bef1fe8ac9896fee59ad22cca6ac6a87063fab9c8599b733fd4cf6bbb9a81d21412d84205b4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 27 Aug 2023 10:04:23 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-27T10:04:23Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion ControlNet DW openpose 手部识别再升级、还你一个完美的手部！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486676&amp;idx=1&amp;sn=040b145189dc133ec91356bb2d522e57&amp;chksm=9bef1fcbac9896dd5126afb662684d81f3ebdebdd602c8ba5665d5b6da234808efa85288273d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 24 Aug 2023 13:49:56 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-24T13:49:56Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 27 | Happy Friday！你pick哪一个？第一张点在看，第二张点个赞！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486676&amp;idx=2&amp;sn=35278661feb92495c0a97c5322b02853&amp;chksm=9bef1fcbac9896ddf9b535121fb4cf9798524bb4e5e0516024346f60cddc1a1ded4f61c6b927&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 24 Aug 2023 13:49:56 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-24T13:49:56Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 必装插件查缺补漏，你还有哪个没装？(上）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486627&amp;idx=1&amp;sn=b1b467cfa57801531753613266dc873a&amp;chksm=9bef1fbcac9896aa3e617be933508b1b219791de70ce467d20c3ed6be6b9d8f35770d6e64e84&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 23 Aug 2023 13:41:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-23T13:41:24Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 26 | 赛瑞尔达风</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486575&amp;idx=1&amp;sn=d339495c715a2694c4189608f862a19b&amp;chksm=9bef1f70ac9896668fa11fbe3af6c00045e93e4c2a7ef9e65050c60d1d1048776a3042552b23&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 21 Aug 2023 14:44:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-21T14:44:36Z</dc:date>
     </item>
     <item>
       <title>FaceChain 10分钟打造专属写真馆、妙鸭相机的免费平替版、这一次海马体相机馆真的要完了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486546&amp;idx=1&amp;sn=9bdfc87de65b07df5b1855684462f4e0&amp;chksm=9bef1f4dac98965b7cbd08615193869c0d8b5e65d449e47a0f963d815d3d6b7b9ee180f2c8c2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 20 Aug 2023 08:48:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-20T08:48:24Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 25 | 水墨风景！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486515&amp;idx=1&amp;sn=28c1bcbbbca050cb2b969c978aa3aa43&amp;chksm=9bef1f2cac98963ae76b4c578c2c5948859a59d6b1f821a1550edce18ee4ceccce85ce25257d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 20 Aug 2023 08:00:15 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-20T08:00:15Z</dc:date>
     </item>
     <item>
       <title>DragGAN P图方式的降维打击|革命性变革 | 一拖一拽就完事儿</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486494&amp;idx=1&amp;sn=9c55c0879ac219e9ab03d4755d38870c&amp;chksm=9bef1f01ac98961768f57709262d2e1acd17c0fe37319835ef440825bb2c3cb5b1f151139a59&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 17 Aug 2023 15:04:40 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-17T15:04:40Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 24 | 又到周五咯，Happy Friday ~~</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486494&amp;idx=2&amp;sn=97c77a834d180d2f4bd53cad8d544c10&amp;chksm=9bef1f01ac9896175b8030f9d4575685e89ed7a8f1a782dbfc3bcaeb429d301c8182e84494ac&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 17 Aug 2023 15:04:40 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-17T15:04:40Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 23 | 彩虹????girl</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486447&amp;idx=1&amp;sn=c3dac87b8f02882a9cca66e381e85f2c&amp;chksm=9bef18f0ac9891e64305d4d944d42a235895b3591d45725fa63ab406c0a41d3bedc348942c3b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 15 Aug 2023 13:18:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-15T13:18:07Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion SDXL1.0 近100个风格 Prompt 随意选</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486424&amp;idx=1&amp;sn=8bf23e55494493a7a86b4acd94a026eb&amp;chksm=9bef18c7ac9891d128c94b473562ae4915c5a605f99aba2e7cd76d0cd93977fd13613be6b05d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 14 Aug 2023 14:53:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-14T14:53:35Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 22</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486424&amp;idx=2&amp;sn=bdd92eb602735c2f41ac1987c1ea52d5&amp;chksm=9bef18c7ac9891d13cc6fbc27817586584e9f67477cc7466338ab97191cff9ef299a5fe58729&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 14 Aug 2023 14:53:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-14T14:53:35Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion ControlNet 细节狂魔 Tile！图生图神器</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486377&amp;idx=1&amp;sn=766963a50754e30f1f7ebc0c75a90d03&amp;chksm=9bef18b6ac9891a07e93a550025e27e770393597de1d509db38f36daee846d1da1e2e220574b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 13 Aug 2023 15:10:34 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-13T15:10:34Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 21 | SDXL1.0 出图效果还是很不错的。适合做头像了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486377&amp;idx=2&amp;sn=59fc23303e256dc7b3246f1eebf5c107&amp;chksm=9bef18b6ac9891a0aae6c1c6fd2a30bbd5782e6a25def13b5aa4f9c22acc959267bf3dc512ea&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 13 Aug 2023 15:10:34 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-13T15:10:34Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 20 | 发型篇（下）你 pick 哪个？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486325&amp;idx=1&amp;sn=447d68417c6b3c8613bb0159a332c6a5&amp;chksm=9bef186aac98917cf412d9c62ad3f4daa686daea1044906114413466d361bfdc2ce81d2916b9&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 12 Aug 2023 16:00:25 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-12T16:00:25Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 19 | 发型篇（上）你 pick 哪个？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486293&amp;idx=1&amp;sn=bc598a01545225c015164670b73d3e35&amp;chksm=9bef184aac98915ce1a7e0f38f29116abb32087a10df2a71530df6ca43ac76900f1a02059b12&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 12 Aug 2023 14:01:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-12T14:01:14Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 18 &amp; Happy Friday</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486250&amp;idx=1&amp;sn=dea6f73b818c83f21b437a468670ec81&amp;chksm=9bef1835ac989123611afea2392f246e8e4b1a42597054aa87753fbbac7ee413e5c3dd6c3c05&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 11 Aug 2023 01:11:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-11T01:11:35Z</dc:date>
     </item>
     <item>
       <title>❤️不定期福利帖！前五名免费代做随机款二维码</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486226&amp;idx=1&amp;sn=5bb9d1b9a6c3c5e9a0df3a5b95374a6c&amp;chksm=9bef180dac98911bd61e279b383f028e1b4f925fd5031fbb2b313fe5c8cd0c6b6121973609ba&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 09 Aug 2023 16:33:59 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-09T16:33:59Z</dc:date>
     </item>
     <item>
       <title>ControlNet 姿势约束，想要什么姿势都可以！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486197&amp;idx=1&amp;sn=f57441407528561926c7e6e7981fa25e&amp;chksm=9bef19eaac9890fcaa78b3184eaf5645277c239c6474f421a4b1d7189ae86108b6832ff505ad&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 08 Aug 2023 14:09:55 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-08T14:09:55Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 17 &amp; prompts</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486197&amp;idx=2&amp;sn=153f3a5692f04a662cb43a06a668f030&amp;chksm=9bef19eaac9890fc5771d3f34ea20ed0f9ab77c26dc9bb1e5a4aa02bd6f96f31082eac696f91&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 08 Aug 2023 14:09:55 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-08T14:09:55Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion XL 1.0 出图风格鉴赏</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486156&amp;idx=1&amp;sn=0df4da09b5536d3eb2ae8aafeb53c228&amp;chksm=9bef19d3ac9890c550786166df84dd7d2b42ee4206bde5bfcb92e0bc4fc19de235bf3eb5f1a3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 07 Aug 2023 12:20:59 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-07T12:20:59Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion XL 1.0 史诗级增强！WEB UI 集成 &amp; 在线使用</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486119&amp;idx=1&amp;sn=761e0e8399ad8000b602e8a0eb067d62&amp;chksm=9bef19b8ac9890ae8caeb14f73d6e61088fddecc3641df95cb99ab826a9428a1d6476cbe52c7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 06 Aug 2023 10:31:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-06T10:31:07Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 16 &amp; prompts</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486119&amp;idx=2&amp;sn=8d6f6614d7374a1b66b41d753a155433&amp;chksm=9bef19b8ac9890aef445680950f475f22a48fb05bb43900afeb42bbf4a00391a0be2171f6a48&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 06 Aug 2023 10:31:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-06T10:31:07Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 15 | 最近加班！！你们加班嘛 伙计们？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486045&amp;idx=1&amp;sn=2950df203bb1c9d29f8d3d9bb72de1f6&amp;chksm=9bef1942ac989054f473f9e537d389433ec679a2ed069ebecd4d2ac3c13b900afa9ba96a3af4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 02 Aug 2023 15:03:02 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-08-02T15:03:02Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 还可以这么玩？一键穿衣脱衣！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486014&amp;idx=1&amp;sn=41be1a29bc2714e4ba3b32a50f59418d&amp;chksm=9bef1921ac98903737ff774334a0da87eb2c32e7f4a3a6c596ac5217aef554791490ed30afcf&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 27 Jul 2023 14:37:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-27T14:37:29Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 14</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247486014&amp;idx=2&amp;sn=3006ad560fe43809ba5f283cb3ed7492&amp;chksm=9bef1921ac989037aa84a06d87b67a7d0e72bb50dfb2dfafb54b209d49e05fc462b5b180744e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 27 Jul 2023 14:37:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-27T14:37:29Z</dc:date>
     </item>
     <item>
       <title>AIGC 周周报 Vol 6 | Meta 来搅局了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485881&amp;idx=1&amp;sn=fba3764a9abd86335b3b356e356067e5&amp;chksm=9bef1aa6ac9893b04507f39f7ec54493efc5434867ee729e5a69bc60bef7f2bde5f8fbfee306&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 26 Jul 2023 15:26:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-26T15:26:37Z</dc:date>
     </item>
     <item>
       <title>ChatGPT 5个 Prompt 5分钟读懂一本书</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485845&amp;idx=1&amp;sn=68c487acff40af33532d877f28488b6f&amp;chksm=9bef1a8aac98939c7e98eff3cd800ac204fb89cb12a44a85d75b40d5e4a7bf3afe30e7c08f71&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 24 Jul 2023 14:48:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-24T14:48:33Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 13 | 那位同学，你要的全身照来了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485845&amp;idx=2&amp;sn=600f254b38194e51780b0d06e327e3e2&amp;chksm=9bef1a8aac98939c14c48dfc507de08790d0499be5927b116622dd159269d152bbe7a7e1ab7b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 24 Jul 2023 14:48:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-24T14:48:33Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 年龄转换神器，一键变大变小</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485817&amp;idx=1&amp;sn=b775f097032b0db3ad2e662ec3f2da60&amp;chksm=9bef1a66ac989370a7c327990a729333bd329757c29e4a973f462e8a5e47267babac7fa3785d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 24 Jul 2023 14:21:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-24T14:21:11Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 12 | 滴，久等咯...这两天有点忙</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485817&amp;idx=2&amp;sn=8d77cf20b2c124401a05a9857cfdc66d&amp;chksm=9bef1a66ac989370cb87126b7b9ba26e2774852b2e66653b03c9298a3c378132220f00e24fba&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 24 Jul 2023 14:21:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-24T14:21:11Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 11 | 昨天有人说想看小姐姐！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485717&amp;idx=1&amp;sn=a4c56d3c332d9648778a22e403b7d2e4&amp;chksm=9bef1a0aac98931cbef4088a88efbf0eee40f529441ffec993b26cc6f1227d3d08392e748c77&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 19 Jul 2023 14:24:17 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-19T14:24:17Z</dc:date>
     </item>
     <item>
       <title>AIGC 周周报 Vol 5 | 又是一波大更新！AI 生成可视化用户旅程地图&amp;精益画布</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485684&amp;idx=1&amp;sn=c17784ff08b159bb1692ac049050b11c&amp;chksm=9bef1bebac9892fde0c3150acbf77d723a6be2ea9f4831b44c583c27bcddaee1966f6b57ba22&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 18 Jul 2023 14:28:48 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-18T14:28:48Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 10</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485684&amp;idx=2&amp;sn=b863409f2093cc7f6168a2e358e90e46&amp;chksm=9bef1bebac9892fdb7e8fa74e69b1fbd0c3e7b8366f04b22a83ee4c2c600521232db154d69a1&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 18 Jul 2023 14:28:48 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-18T14:28:48Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion ControlNet 语义分割到底是干什么用的</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485647&amp;idx=1&amp;sn=3087fdbe5cec3159821bfc4737c583dd&amp;chksm=9bef1bd0ac9892c6339fbc99371e408ed296d025dd58de8744d95cadffdd3b014cbe6dc3bb6b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 17 Jul 2023 14:15:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-17T14:15:05Z</dc:date>
     </item>
     <item>
       <title>每日AI绘画???? Vol 9</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247485647&amp;idx=2&amp;sn=17741fc45f35e0e9217972e3dd40eaed&amp;chksm=9bef1bd0ac9892c6df108b9835d17410e63cf523a95e3dc8c74468fce77597a3785fda39d68b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 17 Jul 2023 14:15:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2023-07-17T14:15:05Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 3 终于可以用了！但是...</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489022&amp;idx=1&amp;sn=0fce452619662aea4ebae4c8fde99285&amp;chksm=9bef06e1ac988ff7b799aa5a4f3e619fc49c45dd8244a744e1a7279c5a5326b0c07396aa12ac&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 17 Apr 2024 16:50:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-17T16:50:11Z</dc:date>
     </item>
     <item>
       <title>CosXL 一张图片一句话，实现图片”编辑重绘”</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247489002&amp;idx=1&amp;sn=d5e21289d78243fdb47c5ae5c43e9eb6&amp;chksm=9bef06f5ac988fe3f597d82b7f721c62dbd85c16db67f86062d0fd47eaf202ba3f4c42712ac6&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 15 Apr 2024 16:02:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-15T16:02:24Z</dc:date>
     </item>
     <item>
       <title>Vol 69 巨丑头像免费在线生成</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488983&amp;idx=1&amp;sn=d848d70ed081f022a5aa8c7e9c712ae8&amp;chksm=9bef06c8ac988fde2aa453192f1ba5146a7852e7306de0965caee66188f64ca44e281610b64a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 12:25:31 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T12:25:31Z</dc:date>
     </item>
     <item>
       <title>AI二维码｜我的世界风格 傻瓜式一键生成｜实战</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488968&amp;idx=1&amp;sn=76d07facff470b186a2d84547091cf75&amp;chksm=9bef06d7ac988fc1e9cccddfb1b6b17d7d1eb4e5cfd4555e7f082acb2568c8d375d617107238&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 01 Apr 2024 13:37:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-01T13:37:11Z</dc:date>
     </item>
     <item>
       <title>Vol 68 救命🆘这头像要把我丑哭咯</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488951&amp;idx=1&amp;sn=49aa0c40a3715d5b4d4b2c7025b43ea4&amp;chksm=9bef06a8ac988fbe95952524a67dc433d62fd1d4f155243911056a405ee86b1b6ce45a1d52f4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 28 Mar 2024 15:14:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-28T15:14:33Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 为数不多的贼实用的插件 ComfyUI-N-Sidebar</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=1&amp;sn=80d1cd5c7059447965610598cd079b34&amp;chksm=9bef06b6ac988fa0b0d9baab7b99a1060bcdc195d6274d87c50b54bc5e6359892a81cdbfea14&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 27 Mar 2024 13:37:32 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-27T13:37:32Z</dc:date>
     </item>
     <item>
       <title>Vol 66 我的世界之二维码</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488937&amp;idx=2&amp;sn=77905037f1aeca0cddb19753f4e6a7d4&amp;chksm=9bef06b6ac988fa034afc7d58d2f88cd7a46c6a2796a40bf9f24fbeab781adf606016db6ec28&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 27 Mar 2024 13:37:32 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-27T13:37:32Z</dc:date>
     </item>
     <item>
       <title>PhotoMaker 数字分身｜ 几秒钟内为任何人创建任何风格的照片、绘画、头像</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488915&amp;idx=1&amp;sn=0c2dd0f93c2a209175b51e2c8ece96f0&amp;chksm=9bef068cac988f9a70724ed9497de946713fbe703609e7d5666876f5882e5441305ee1950f82&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 24 Mar 2024 13:11:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-24T13:11:07Z</dc:date>
     </item>
     <item>
       <title>字节大招 AnimateDiff-Lightning 视频生成效率提升10倍｜ 开启视频创作新纪元</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488894&amp;idx=1&amp;sn=78952d958876a56dd8a35112f2d8ed3a&amp;chksm=9bef0661ac988f776393391deda6d527c7fe58728a477c6db1562f4c05b90593280d1dd6ff80&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 21 Mar 2024 15:52:39 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-21T15:52:39Z</dc:date>
     </item>
     <item>
       <title>Vol 65｜90年代插画简约头像</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488865&amp;idx=1&amp;sn=b974ce9c886601783f734e2469b4e5f5&amp;chksm=9bef067eac988f685d7bfcf704eb76a50f99f7262687eaed9e4b4771ff41f4c7c571ec96904c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 19 Mar 2024 14:16:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-19T14:16:50Z</dc:date>
     </item>
     <item>
       <title>惊呆了！AI为我做了一首诗，我膜拜了 一晚上</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=1&amp;sn=f0bdf99d9bcec80e89e8a35bd72a6928&amp;chksm=9bef064cac988f5afa48279db384ff6ec8d563c683c13bcb570529e4ceb27ca597a2ec8d7565&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 18 Mar 2024 14:46:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-18T14:46:50Z</dc:date>
     </item>
     <item>
       <title>Vol 64 | AI: 此时此刻，我想吟诗一首！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488851&amp;idx=2&amp;sn=06379cff40b933dba3ca50b639ef5503&amp;chksm=9bef064cac988f5a27c7f6cd24aa3ce2357dfd0e041dc6ab066263b18853acf524abcfab1f0b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 18 Mar 2024 14:46:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-18T14:46:50Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 1.8 新版本最强功能，内置丝滑重绘效果，毫无违和感</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488805&amp;idx=1&amp;sn=2ad3b0643cdfde358fa3e0cfde4f3bff&amp;chksm=9bef063aac988f2cf3eb26eb3f47ffab6bc22e9a8fb3c74799e8293f4bab89810e9e9864ad0a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 17 Mar 2024 10:43:39 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-17T10:43:39Z</dc:date>
     </item>
     <item>
       <title>工具速递 | 一个可以生成人物动漫贴纸的在线免费工具</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=1&amp;sn=3b2bc80d8063b93b46641122ee6ca4e1&amp;chksm=9bef07e2ac988ef48796e46f1365fb14ee67b11418d2516f2d3afabec979ef9a1a53b71b9ba5&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 15 Mar 2024 12:47:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-15T12:47:35Z</dc:date>
     </item>
     <item>
       <title>Vol63 | 可爱的贴纸哇🐶</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488765&amp;idx=2&amp;sn=5062d1c4f3167095eaf53e25270a1939&amp;chksm=9bef07e2ac988ef4746b425224636ad56e5723eb69548ff6ac3b0ed5054338c55ee6b737a16a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 15 Mar 2024 12:47:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-15T12:47:35Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 模型&amp;工作流管理大师安排起来</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=1&amp;sn=6975638eccb66b54477f547e74865473&amp;chksm=9bef07f6ac988ee024542f2f8b9bfa0835335a130a668335971a2724da63ec9d5d2cd40f42b9&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 12 Mar 2024 13:01:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-12T13:01:16Z</dc:date>
     </item>
     <item>
       <title>Vol 62｜MajicMIX realistic 麦橘写实</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488745&amp;idx=2&amp;sn=48fed9bd50970c09538696d6b8913aaf&amp;chksm=9bef07f6ac988ee011779bec071aa4649b60d22853b30af276bab2911d496c42605bdcbbd396&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 12 Mar 2024 13:01:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-12T13:01:16Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 第五节 极其好用的 效率节点插件</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=1&amp;sn=da6da2a492277da1ece5ebacb2cae734&amp;chksm=9bef07d8ac988eceb53f8c9a89753683ba0601febfcc8c23048b3d55a0f21a0b67491de6c81a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 11 Mar 2024 16:04:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-11T16:04:36Z</dc:date>
     </item>
     <item>
       <title>Vol 61｜MajicMIX realistic 写实</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488711&amp;idx=2&amp;sn=6aff25378a54edf30ebee5f5fdfb6762&amp;chksm=9bef07d8ac988ece686f04703a7de3c5a79528f608fcfe401bbf6daca4c601f7701f023156f7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 11 Mar 2024 16:04:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-11T16:04:36Z</dc:date>
     </item>
     <item>
       <title>ComfyUI 第四节 从裁剪到重绘，完整图生图工作流搭建</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488684&amp;idx=1&amp;sn=8d8bfe61f040304981a7ab153d76b386&amp;chksm=9bef07b3ac988ea5639ae4723c67404eccf27bad4762abc6025a59556497a03a99e340437ea7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 07 Mar 2024 15:58:48 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-07T15:58:48Z</dc:date>
     </item>
     <item>
       <title>Sora的到来 视频生成领域的重大转变｜Sora Pika Runway SDV 差距在哪？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488620&amp;idx=1&amp;sn=3017586b78806cac6460a77e4325dd8e&amp;chksm=9bef0773ac988e655f466be53d3bfb1fbbaa9251fe793d0cf101cbb825e53eb547e111d7d360&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 06 Mar 2024 00:35:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-06T00:35:05Z</dc:date>
     </item>
     <item>
       <title>爬起来上个厕所，和 GPT-5 肩比肩的怪东西来了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488619&amp;idx=1&amp;sn=bf43c93cbff04133a741d247560c9443&amp;chksm=9bef0774ac988e6260861697009512c66773ed438f63b70a4d452d01b26efdad642c6b67ec7b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 04 Mar 2024 18:40:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-04T18:40:14Z</dc:date>
     </item>
     <item>
       <title>LayerDiffusion 分层控图新突破！生成透明图片&amp;前后景图片融合</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488566&amp;idx=1&amp;sn=ae0e1ca4da0eec9e4b7b1ecceaa28681&amp;chksm=9bef0729ac988e3f0a3818ba0a23ec98e62f856ecafcc00b4f9c8661f80851657c378bdf8d22&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 03 Mar 2024 10:56:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-03T10:56:36Z</dc:date>
     </item>
     <item>
       <title>AI Arc Search：颠覆传统浏览器搜索方式 ｜ 下一个浏览器何必还是浏览器</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAxNjg2MDc4NA==&amp;mid=2247488409&amp;idx=1&amp;sn=ad30c9182fe4446da477fa1d803e9b49&amp;chksm=9bef0086ac9889908fa3929cd3781121f5aeebfced3483955fd266e2826d1d67cf520f3422d4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 03 Mar 2024 08:25:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-03T08:25:16Z</dc:date>
     </item>
   </channel>
 </rss>
