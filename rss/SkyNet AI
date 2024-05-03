@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyNet AI</title>
+    <link>https://github.com/Aceysx/mp_rss</link>
+    <description>人工智能内容生成的相关资讯和应用，包括但不限于AI搜索、AI绘画、AI写作等</description>
+    <language>zh-cn</language>
+    <pubDate>Fri, 03 May 2024 08:05:42 GMT</pubDate>
+    <lastBuildDate>Fri, 03 May 2024 08:05:42 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <image>
+      <title>SkyNet AI</title>
+      <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM79kBTNQFzEQQ0WczP3G98WdLplCLyibMrOWZhqHndria3A/0</url>
+    </image>
+    <item>
+      <title>我用AI让爽文动漫变可动视频，分分钟成为爆款</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280187&amp;idx=1&amp;sn=377edbe57634ccce9f2c333498dab250&amp;chksm=f2dd1945c5aa9053eb66a094a291ce63e657b98b7ea17b7c92b354a46f5c4b7652fe4966dda6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 00:43:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-我的心开始想你了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280187&amp;idx=3&amp;sn=3533983f01dbf78cc58732d3ffb1a382&amp;chksm=f2dd1945c5aa905341ce056b8e70fba20ff0e9d1da932226e5891ca0aba7385720adfc8f9022&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 00:43:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-前尘往事成云烟</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280187&amp;idx=4&amp;sn=7f578a72d04b32d1e99c4e7496e8bb13&amp;chksm=f2dd1945c5aa90538ca5f6a85f3fb9142d1289e844581384faa230be86fc4393be62613da2c0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 00:43:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-安能辨我是雄雌</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280187&amp;idx=5&amp;sn=bb2e93106ffdb98cec56032e219f97f2&amp;chksm=f2dd1945c5aa9053013763adf20c20d7d947e57d3a4e33a99ae836c016b13e8767b3644b4b72&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 00:43:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-洛丽塔</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280187&amp;idx=6&amp;sn=b068d9d3c58496b0728a7ee747f509ac&amp;chksm=f2dd1945c5aa9053dc3601191e2a97f015e85bfa62e54b6348dff4ba5214e157101c46d5b859&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 00:43:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-古典的魅力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280187&amp;idx=7&amp;sn=9361fafc1f83a8df836cfdbd32f308f1&amp;chksm=f2dd1945c5aa90536e34bdaa54709e96a989c64475de8480f437701503ceb2c5f86be0140139&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 00:43:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-星光下的少女</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280187&amp;idx=8&amp;sn=e4f0578a76ee8ab5d3ed162992971d5c&amp;chksm=f2dd1945c5aa90535628ce7412ffe027e231677e3d00974f355b9d4635611c4d4ad4a0081b2f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 11 Apr 2024 00:43:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>国内版终上线！免费！一行代码不用写，3分钟搞定自己的微信机器人？！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=1&amp;sn=cfed5bab38417814b2989df2fd1c5041&amp;chksm=f2dd1944c5aa9052c89e12a4d45b278cee2a78ce04dac2d8ec697206fbab6e9caf2f6b233a65&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-一双手轻轻抚你的脸</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=2&amp;sn=7a84761ea994da7b9793f2c25829c963&amp;chksm=f2dd1944c5aa90525d3d44ab8e77763a45ee21696296bea3b666d181b01a7a0603fa0b257f90&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-察觉身后路人是你~</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=3&amp;sn=d3d77aa4fdf38e2f3c6780f554801c13&amp;chksm=f2dd1944c5aa9052454fa4c5dffe4fc5a0403bfabc932ef8439b21b7e16667fc43c48cfe4d04&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-她来听我的演唱会</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=4&amp;sn=fbff91defee138627d1d9474a9963cb3&amp;chksm=f2dd1944c5aa90526bd4e78ef0d8c8919fef62dc4e24bb86b64fa7a369aa9aeeee44235f0880&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这个冬天不太冷</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=5&amp;sn=0372598ebd30305ad350d890652bf982&amp;chksm=f2dd1944c5aa9052736980e84aa19256bd9e4962a1080cfbaed981a4af576e2f12354d13b3ef&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-我心因何恼春风</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=6&amp;sn=b296f5bc0a95b2e1fa8a24f3df982071&amp;chksm=f2dd1944c5aa9052ace839692b66e957b7aa4a73c50ca25b5147f04bffef05b28805d449d058&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-情网</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=7&amp;sn=e157ab731c7b83924da0fcfca6ab67eb&amp;chksm=f2dd1944c5aa9052e9b806960edd1ed6adb81173a56b2121d756804a33c6c45be8c75694d3ec&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-天气这么热我哪里统统不想去</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280186&amp;idx=8&amp;sn=c7f60f96d3137ae84658c0023969025c&amp;chksm=f2dd1944c5aa905292c48b6dd329f71c430debd055840f55ad51ef3f6a58d8e510a8ad891dea&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 10 Apr 2024 00:15:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>低显存的救星，比 WebUI 更好用的 Forge，它来了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280185&amp;idx=1&amp;sn=458cc70423deb2f6dac642ae2fb754f8&amp;chksm=f2dd1947c5aa9051416fdb290a14dfc916215c6df35c4ddcf7fd4740b736ba3810cdbc99d769&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:56:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-戴项圈的女子</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280185&amp;idx=2&amp;sn=8392b2ce814d868c9547c320b577c27c&amp;chksm=f2dd1947c5aa9051edc973b613e69a7d1847360d0c34886f0edc92576884e80310dc90c00b8d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:56:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-黑金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280185&amp;idx=3&amp;sn=5592746c8bfb2b2e806092dbf03dc5d2&amp;chksm=f2dd1947c5aa90511033b8e38f7c19fe3b63b17b0b0728ae2b0d9841fa5c2c8b5e0e57a221c3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:56:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-别傻了！谁会想当一只泰迪熊？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280185&amp;idx=4&amp;sn=313acb89def074b903ecae9e8c6d1f4e&amp;chksm=f2dd1947c5aa90516814294b55f1345bd812ff472a3935dd9c0c0d524296a1f9e25d124a2b9d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:56:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-穿过你的秀发的我的手</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280185&amp;idx=5&amp;sn=7bac2019fb65f2a57a88f7f53dee0500&amp;chksm=f2dd1947c5aa905141d2483942855cb14d4dee7b7d95269c24b9fc8c603964795b180cec708c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:56:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>ControlNet作者新作LayerDiffusion，让SD直接生成生成透明图像，堪比商用抠图软件</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280184&amp;idx=1&amp;sn=0a2a0ca9a07ceba6047d64f74050fd54&amp;chksm=f2dd1946c5aa90502e0800ce9f197654e840f8af94e2459d24f2058a6456891e294cac77bf85&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:54:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-大A标配深V套装！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280184&amp;idx=2&amp;sn=396c377b09033f6715c9dc5d57b0543d&amp;chksm=f2dd1946c5aa90505a6767b43505077935fefce0fe6453c86a7639c77de09a34d5caceb77665&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:54:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-沙滩清凉一下！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280184&amp;idx=3&amp;sn=c669d2d1066a1c569b855e6c576087f3&amp;chksm=f2dd1946c5aa905095b6da557c717f76370d3fedbcda5872b98af91d787af87a1e026f626bb5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Apr 2024 00:54:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-夜色中的蓝调风情：长袖露肩毛衣搭配随风摆动的秀发</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280175&amp;idx=1&amp;sn=e64ed041286877c02ca3767662e9aab9&amp;chksm=f2dd1951c5aa90473776add30a0b640db0b83d0bd83d3919c633565ac6b9b6ecc2e8c5405eb2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:38:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-那一段不可追忆的时光</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280175&amp;idx=3&amp;sn=690b1ed8a64221faf8de674576cb4384&amp;chksm=f2dd1951c5aa90473c5fc930a3774b4f5037618b5ff53f23ccbdfd79129cada464d330289725&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:38:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-离别时，那期盼的目光让人心碎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280175&amp;idx=4&amp;sn=e729f853c78acbbcf3be688160f37a39&amp;chksm=f2dd1951c5aa904724722ff0f0dbde8ff1ef8e787f82345619117745c88cedbfe690246068ef&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:38:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源文生图大模型Playground v2.5来了，比肩Midjourney v5.2！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280175&amp;idx=5&amp;sn=f610f5d1882b8e3353d8273daba3fe73&amp;chksm=f2dd1951c5aa9047034580c4eca20192aac8a84f77d5948c3740e832988c46b82e1dddb7b054&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:38:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-画中的深情凝视：一幅浅褐色调的细致绘作，揭示女子凌乱长发下精致面容的故事。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280129&amp;idx=2&amp;sn=3d473293f74071a1ad1d0617db2319c8&amp;chksm=f2dd197fc5aa906978dcd244df13adf6ff0ed9842e33af623b6c493dd10b4c0ec879713b822d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:04:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-教堂中的红色神秘：东方女子如何以红、黑、金交织的西式长袍和斗篷，演绎跨文化风情！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280129&amp;idx=3&amp;sn=0086fb56dae06a80df81e33832782eb7&amp;chksm=f2dd197fc5aa90698a0bf2936951c07cbdb4789228e9827a782e4d282d4b41c095e0bf0120da&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:04:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-北郡修道院中捡来的一群新手小可爱魔法师</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280129&amp;idx=4&amp;sn=cacdd76e196c3273c2118444fb04385d&amp;chksm=f2dd197fc5aa9069c069d98d767f877546a540c358c9db7f324c1bfad282b55adb85753933d5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:04:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Sora开源平替：Stable Video Diffusion1.1整合包</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280129&amp;idx=5&amp;sn=4bad35f567d98a2328ef05ebc3c9ebbd&amp;chksm=f2dd197fc5aa90691e0a7860a6e013dd7b3ef6dfc738e78065cf82dd255997166037d6d14548&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 03 Mar 2024 00:04:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-冬日暖阳下的青春倩影：一缕笑容，一抹精致，长发女子如何用毛衣演绎时尚温柔！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280077&amp;idx=1&amp;sn=14d163ca038f8843387af4408a5dae49&amp;chksm=f2dd18b3c5aa91a5fe584e31cf31c398dbe52d4b1e9212849ec811174195ecd46ba890d1451e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:44:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-纯白时尚，长发飘逸：一张全身照片展现女性在夏日如何以轻盈短裙捕捉无尽魅力！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280077&amp;idx=2&amp;sn=1d0d55262a205b45b4529fe5aacef883&amp;chksm=f2dd18b3c5aa91a5a24f72bdfe930ddda8ac603c52440378b88667149182b3f4b994307a0c90&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:44:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-涂鸦艺术与彩色梦境的交汇：探索浓妆女孩如何用缤纷色彩和个性染发定义自我风格！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280077&amp;idx=3&amp;sn=2ebcacbe1e0be320c3e4bba9299155e5&amp;chksm=f2dd18b3c5aa91a5c475a8cda2b927fcdfc4783efa7051b3869cb4da11b8b854d8ce0fc0d8ee&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:44:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-金发女神的奢华盛宴：如何以白纱长裙与金色服饰，在华贵场景中演绎皇室般的优雅！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280077&amp;idx=4&amp;sn=2a57fa21be064a2ef36caf4cc79fa28e&amp;chksm=f2dd18b3c5aa91a51b11717aa8c9ab7717ed0fd3d88d154a2fcdc3f2a8eca46c421999958755&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:44:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI如何批量创造情感语录视频，轻松破10万点赞？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280077&amp;idx=5&amp;sn=8dd1665f0077def37a5e5d16f86aabe2&amp;chksm=f2dd18b3c5aa91a597e5709f42a49618f1f83fde768bce9940bd9da2cf220ea94cd3abaf8f7e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:44:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-魅力长发：一张特写照片揭示现代女性如何用秀发诉说个性与风采！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280030&amp;idx=1&amp;sn=019355629453284a8e03d4a48c6cdfdb&amp;chksm=f2dd18e0c5aa91f6b1ad5a4de0dea7a6832ce1ebd253fd24cb12a56c56c61de9d2b8bf7553ad&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:29:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-花海穿越时空，汉服女子漫步古风之旅 —— 领略千年绽放的经典之美！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280030&amp;idx=2&amp;sn=59424d3d154f185d8d070bd827ed966b&amp;chksm=f2dd18e0c5aa91f6980b3eccdc6b5ebf81e26002d01611cd12cdf5cd767a57accc8b0fe0ba19&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:29:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-星辰之下的彩发女神：如何用珠宝头冠和斑斓长发编织梦境般的夜空传说！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280030&amp;idx=3&amp;sn=2d3d35c6dfc0db6feeb870e847e12f47&amp;chksm=f2dd18e0c5aa91f6b379e28b0ea77587f6d00457e0437ab6c58832076f2f2970df293c8c6644&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:29:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-奇迹与力量的化身：神奇女侠如何在战火与和平间书写女性英雄的不朽篇章！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280030&amp;idx=4&amp;sn=6ca7c3767c3e8b4258f8a82849e71e35&amp;chksm=f2dd18e0c5aa91f620e33bfd293a8d19f7e822c2e21cd6569e0c408f94c28450f7f61702a8ac&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:29:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>所想即所得，AI 绘画告别抽卡时代了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651280030&amp;idx=5&amp;sn=8f09dc5a5393fcb1e6cfa2da2de8ace4&amp;chksm=f2dd18e0c5aa91f6d09f89b19fb76cec320aeaca2f0b1fde75699ce6bd6ecf74f764fb57066e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 01 Mar 2024 00:29:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-深V魅力：现代女性如何通过连衣裙展现自信与时尚的完美融合！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279972&amp;idx=1&amp;sn=f4d3eefec3d2ff545af1945b60263dc2&amp;chksm=f2dd181ac5aa910c3d82ec35d34f82251b8659165d9a19ba0b80de27fdced78f39b91163df0e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 01:08:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-圣光之下的女武神：揭秘《魔兽世界》中女圣骑士的勇气传说与荣耀征程！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279972&amp;idx=2&amp;sn=2ac24f647996b52c3965c3099b6cc91a&amp;chksm=f2dd181ac5aa910ccc5aa5f5a3089e8f49433377d2647bf8158f33ecc73be22808b2b674ea16&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 01:08:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-门槛上的华美倩影：长裙女子如何以优雅姿态，开启家门背后的生活艺术！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279972&amp;idx=3&amp;sn=028c93555f317e28a35b304efabcced2&amp;chksm=f2dd181ac5aa910c4396b1a9591f026d64412f503bf723b9cf9ba2706d55183014d4108970e3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 01:08:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-春节后的办公室复苏：怎样的青春笑容让女性白领在工作中焕发新活力！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279972&amp;idx=4&amp;sn=8e4282c0251890d25b3f6a906d4530e0&amp;chksm=f2dd181ac5aa910c9b7287d9e623af0ac2db7758ee58b49813c54a9ff23a4d804d2bc24076cb&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 01:08:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>电商福音~！AI模特稳定换衣的comfy工作流来了~</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279972&amp;idx=5&amp;sn=1737fc6c5c1a3b177bf43defa1ce73f1&amp;chksm=f2dd181ac5aa910c465c8aa8fb2b01ac0e80a427e76ba5e0c57a240e2bed742d74913faa5923&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 01:08:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-"古风美女与晨光之舞：揭秘扇中隐秘的生活哲学，让你每日迎接阳光心情好！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279918&amp;idx=1&amp;sn=b3ee59ab9beda3e3bda336c44e4debaf&amp;chksm=f2dd1850c5aa9146fbfb469e14133f50ed4b2a229e7b088afd7dd708452927f983c7784ccbb6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 00:48:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-冰霜与火焰的史诗传奇：吉安娜大法师如何在《魔兽世界》书写不朽篇章！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279918&amp;idx=2&amp;sn=78651642a84ccd48659544f199a574d2&amp;chksm=f2dd1850c5aa9146c9e89e6fe3e5cda5f063acb225a03ab8b3e7ee81a38cd221c4be986e93b8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 00:48:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-冰封王座的新主宰：探秘《魔兽世界》首位女性巫妖王的崛起之路！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279918&amp;idx=3&amp;sn=fd09d0883253443b3ba3c8060dd4abea&amp;chksm=f2dd1850c5aa9146e4d743cd368a8d51c5ef66e1609f8eb3c831912c753c809ae8c6818c2b5e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 00:48:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-锦鲤映衣红，神秘女子与运气的奇遇</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279918&amp;idx=4&amp;sn=b7f6799f4225607b1ee542b13f21ca9b&amp;chksm=f2dd1850c5aa9146a3e441f4ef40f8857291b8fd2f4b5124813655bb38117ad79e58b3c4afc6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 00:48:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI写作：如何在AI的协助下，写成清晰流畅的优质文章？（含提示词）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279918&amp;idx=5&amp;sn=9882e9a664cb7f55f8996954e9102589&amp;chksm=f2dd1850c5aa91466173aa9c75d22bc872575af5fcb5ea071f85f718a57eb3634d4a867a2e6f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 00:48:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-深V连衣裙备受瞩目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279848&amp;idx=3&amp;sn=0b35ee8068b77ce54afe83bc772988bd&amp;chksm=f2dd1b96c5aa928034e6813576c81bb32f2bc0d926fd48fb6868116155c821e37ee780967292&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 01:00:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-复活吧我的勇士</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279848&amp;idx=4&amp;sn=c51c78e1334bbdc156997a9e17d32b46&amp;chksm=f2dd1b96c5aa92800a2c70ee2781dd4a3d75873eeeef58f658919478057e53488f620e00ebb8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 01:00:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Stability AI发布自家最强文生图模型Stable Diffusion 3！想体验的快来填写内测申请！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279848&amp;idx=5&amp;sn=3a20a8a0f665873429cff5a5a0d37998&amp;chksm=f2dd1b96c5aa9280a650aebc303363f7c5867a77dbb07dc115e5d8c433c38744dcce5e8f879a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 01:00:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这是哪个谁谁谁？？？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279848&amp;idx=1&amp;sn=d93d4ff2e0e0914867d54ce90a04dfb1&amp;chksm=f2dd1b96c5aa9280477c8694e383c468bf2cecfd8e3d9ccf7f8ccf06966578a9d1fd24b8883c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 01:00:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-云南普者黑惊现荷花仙子</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279848&amp;idx=2&amp;sn=e0c8173520a066bb12ba90cc0b1b4ba1&amp;chksm=f2dd1b96c5aa928093522a260897b454c271865c85fb9b4117b67fbe7e2485320344e64aea0f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 01:00:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-妄图做海贼王的女人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279787&amp;idx=1&amp;sn=db7b5e89a2f5e117f2b1d9be3db3458d&amp;chksm=f2dd1bd5c5aa92c34b4787c618a7b41c343106a4e53381033c4e9cf93526674bcd75451f2f9b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 00:40:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-紧身皮衣的气质</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279787&amp;idx=2&amp;sn=6d347d3ef175a3cabb3ff1197d4ef13c&amp;chksm=f2dd1bd5c5aa92c30db0defd405d703bfc2cc2dcca817ee8bc5a9134e5cf78cb4f376dc4bdbd&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 00:40:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-等待王子的公主</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279787&amp;idx=3&amp;sn=da65411d616d3024ccead5002162e465&amp;chksm=f2dd1bd5c5aa92c331e9c9b114171108691e09edb4d61936c5a66cd4606f13462dfe38509e40&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 00:40:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-东北旅游带火了大花袄</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279787&amp;idx=4&amp;sn=28d210fb8a10cb35ced11739d18ed615&amp;chksm=f2dd1bd5c5aa92c3e9c0c0ba0f10173d71e36ba2a8b15859c8a886b347a87bbb1cf8bdb62b20&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 00:40:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>​OpenAI Sora已开放对外申请，大家可以申请了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279787&amp;idx=5&amp;sn=3b360a514779bfb6e79a83d03c77935f&amp;chksm=f2dd1bd5c5aa92c38455588fbc8e8f9f497fe4359b54b00746e32a7ef83181d6055dcd11d144&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 00:40:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-最爱毛衣</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279729&amp;idx=1&amp;sn=4eae16178ac6654e06b33a3ce167b76f&amp;chksm=f2dd1b0fc5aa92196d64268c059c8c00754f309de4105df65b5f39129b36a080cb9cdd7555f2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 24 Feb 2024 09:06:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-出水芙蓉</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279729&amp;idx=2&amp;sn=ecfc804b948b13bf9053489f8f5763f3&amp;chksm=f2dd1b0fc5aa9219e8d0d231b3aafbb3720eef7fe6928347061ca135ad5316ce9e1ee72a0da4&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 24 Feb 2024 09:06:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-看起来有点纯</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279729&amp;idx=3&amp;sn=de78f9c07ae00cc793da1dc919860643&amp;chksm=f2dd1b0fc5aa9219f5be140bad68b86e195420c5657517155f861de4260eec20e011d7ee3740&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 24 Feb 2024 09:06:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-不爱红妆</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279729&amp;idx=4&amp;sn=00c517837e5549bb8882bec215dfbd74&amp;chksm=f2dd1b0fc5aa9219c4b4fd87d3b4cb1bcee24ffeacf673e2c3aacc401bd15994e6701bd91b31&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 24 Feb 2024 09:06:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>免费使用全能GPT4微软copilot手机版</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279729&amp;idx=5&amp;sn=617760f90428af425d3d181442acc2a0&amp;chksm=f2dd1b0fc5aa92197da0df34438215cf7570c52bc838cfec95f4503688d710fc1aff7b7dc7f9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 24 Feb 2024 09:06:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-元宵节的灯笼挂起来了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279675&amp;idx=1&amp;sn=6ea8b8de6dd8f4c746c55685ba36c667&amp;chksm=f2dd1b45c5aa9253b28afe820c34c367ec682eb093e6f7b42db3cb37d7636cb592e47762e345&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:40:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-喜庆的红色妖娆</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279675&amp;idx=2&amp;sn=f4a91ae1bd3c1b184bd7b0c51ee0d476&amp;chksm=f2dd1b45c5aa9253db09049de587c0ce6f8eab749a174c24d2c8094e13a940c09738075d8593&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:40:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-信仰一跃</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279675&amp;idx=3&amp;sn=20100e5b34c6d50e48348b0f4d332545&amp;chksm=f2dd1b45c5aa9253393277c90c3dade7ce1402630ec2f7519d446ff1f8cfc2cc43cf45404012&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:40:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-好大的蜘蛛啊！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279675&amp;idx=4&amp;sn=98092cac4176f804f81d1b8f61d76a48&amp;chksm=f2dd1b45c5aa925376a4b8931d3b841b399f6ca56779f41322637d92fdc57f80ae8fb8760b24&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:40:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Stable Video正式开放公测 - 珍惜AI视频4s时代的余晖吧</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279675&amp;idx=5&amp;sn=437697a801572332c270a29f213a368d&amp;chksm=f2dd1b45c5aa9253021cb38fcbe6d3ec90ce7bb4ed294128bd42896fe122e4d976d6270018f0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:40:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-樱花树下</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279674&amp;idx=1&amp;sn=a2dff2f5c7d0a008c88987cbc7691ef5&amp;chksm=f2dd1b44c5aa9252e8a414a02ec9e2703d3d6b0b0985a9a6be747de419a3e5d936ae12c788f5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:39:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-斑竹林中</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279674&amp;idx=2&amp;sn=ad2cd76cb9f4929478dfc21da1e0fbe1&amp;chksm=f2dd1b44c5aa92522620d7cbdc68c10135c328b105545233efa63b9fbc277d670726be54ca96&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:39:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-破阵之前</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279674&amp;idx=3&amp;sn=74737f7688be97df1fa15cbfd307e454&amp;chksm=f2dd1b44c5aa9252a920064771bdc1fc1ffa5c6ae39da5d9ad0fa59e17a311c446d38e75474e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:39:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-盛宴之上</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279674&amp;idx=4&amp;sn=81bcdc65888235274c74783db7ca19ac&amp;chksm=f2dd1b44c5aa9252a410d3035a0aca1c827f90502fc2a01db13afb399c0291e1ee218decdac3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:39:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>和Sora类似的模型架构！Stable Diffusion 3模型发布+StableVideo公测开启！快倒闭的SD又行了！？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279674&amp;idx=5&amp;sn=f5e99d14eca46d2900605e250bd3b4b2&amp;chksm=f2dd1b44c5aa925285e11f1ed3bf87fbd2d821a560d75ae63418547014ab56dd1ade2399fa53&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 23 Feb 2024 00:39:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-拍这腿模不得1万1天？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279564&amp;idx=1&amp;sn=5fb86b795dfdd356f79ed0428a4bf349&amp;chksm=f2dd1ab2c5aa93a43c1a817c4cf3223e0a45cc0ab1957862d61e4243eb1d221e048333b4bf1a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 01:11:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-谁家的小家碧玉</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279564&amp;idx=2&amp;sn=16ec35d9b44547bba86c24b2fd3c3ee4&amp;chksm=f2dd1ab2c5aa93a4412bef29918b41cdaaf165a7028aba34332203fef22e6667afbfdada7d3e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 01:11:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-繁花似锦</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279564&amp;idx=3&amp;sn=ae93f5c4b71a076f61e0fe9efbb4bb34&amp;chksm=f2dd1ab2c5aa93a4026eca0ad6cdfa390e2e045d2fcd526e452a10deed9a00a7ad3fbd1052ac&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 01:11:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-金色长发</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279564&amp;idx=4&amp;sn=610c80abcff32f1281ee6c5ce0818eb6&amp;chksm=f2dd1ab2c5aa93a4a1b943199c66b3623feece20f6ba7100c64b4e5789dd47ea981f2d372123&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 01:11:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>用GPT制作AI绘画搞笑视频，7天涨粉4W+</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279564&amp;idx=5&amp;sn=1391aefcd404edd8c2bfca59cef83624&amp;chksm=f2dd1ab2c5aa93a43c967667e6d7d30db34909547d76459ac9197005634452797430a7facbaf&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 01:11:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-洞房花烛夜</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279524&amp;idx=1&amp;sn=9287799d4f1f18c89a0d96b9264ee913&amp;chksm=f2dd1adac5aa93cc01dd1a0ab3fb58999a5c9f54c8aaf31041f7de02785ff16d9081831efc71&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 00:59:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-新买的黑丝套装</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279524&amp;idx=2&amp;sn=ac6fd479c90dbefb743d44632bfe51b4&amp;chksm=f2dd1adac5aa93ccb8e12656c78de310146fd2563c1eec310d249974b72c746840fb73cf21a2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 00:59:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-在云端</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279524&amp;idx=3&amp;sn=edea5a8bbb54f091f4bc1549449af5d9&amp;chksm=f2dd1adac5aa93cc9e495f5fe20ad97644cc4d1717620f0d5212a76cf9067ea1e914e9efd3e8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 00:59:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-科幻的赛博世界</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279524&amp;idx=4&amp;sn=311eca8322f9e27c440d098c8b07ed5b&amp;chksm=f2dd1adac5aa93cc96717053b60775aceef4c8c1395b28082084682066c6d1c39f57efbbccb0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 00:59:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>完全免费！PS 2024 25.4蓝猫仙鹤版，轻松解决PS 2024生成式填充无法使用的问题</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279524&amp;idx=5&amp;sn=9b0278c6f3679ef00b5dcc52fe8aab09&amp;chksm=f2dd1adac5aa93cc98ba3d45f86af193871f6cb31782c3373d4a5b4af88ce1b0b3f77a82738c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 21 Feb 2024 00:59:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-红彤彤的开年大吉！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279468&amp;idx=1&amp;sn=35fc27704b0665f36ffeb71d2c53967e&amp;chksm=f2dd1a12c5aa930484b096719760b4f17d8f9e18e56e80449198a8b968f2630ff38ab6323234&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 01:12:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-新来的班花</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279468&amp;idx=2&amp;sn=91b3b5018d1b881c84a6a0a14dc9e832&amp;chksm=f2dd1a12c5aa9304632bf0818766777fd743b8bdd56e69cb2b9720e25550dfde4da501f17228&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 01:12:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-清纯的青春</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279468&amp;idx=3&amp;sn=8238b7516ecd4a170fa7ff5e312c41a1&amp;chksm=f2dd1a12c5aa930449b5f829511e6bca4f3497bf3b36cb757934eecb2053e61f27098de41780&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 01:12:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-过年的商场好热闹啊</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279468&amp;idx=4&amp;sn=a7460a4b9d9cdec1d766a506a68b5c31&amp;chksm=f2dd1a12c5aa9304045c9327ae56709c251163bb1d16a3dbb686fd8102aaeefed38f626ccd1d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 01:12:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>从Sora爆火看AI圈的乱象 - 不要当新时代的“韭菜”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279468&amp;idx=5&amp;sn=1ea86d6c75471349372a3ed6102e7ec4&amp;chksm=f2dd1a12c5aa93044bde8cd4d408fd1e45d26400a3316bd4b0c4dc6a96340b783984aae24cd9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 01:12:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-相公让奴家等的好辛苦</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279413&amp;idx=1&amp;sn=0b95f6fb352ac4dbbdb545cfad777065&amp;chksm=f2dd1a4bc5aa935d6871e44c03e4956e6055a3187b63d50b729b0787739df6917cf83a931191&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 00:53:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-春天已经悄悄来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279413&amp;idx=2&amp;sn=acc19aa0f8a9b7ff1960f9b7f1027e2b&amp;chksm=f2dd1a4bc5aa935d2f0cf891083db120e9f4f3b24feeece05de276ea25d1c71f17a94c19503b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 00:53:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-敢不敢来大战三个回合</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279413&amp;idx=3&amp;sn=ad7aafe65b05ff364ca1158c7d870481&amp;chksm=f2dd1a4bc5aa935d87ac217ed2c947cf0823cb7287c6c0641548fde20c06f9916fe1cc0de784&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 00:53:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-连围裙都能衬托风情</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279413&amp;idx=4&amp;sn=8e3488e9f8b6465aa31e2ea7b8dfc98c&amp;chksm=f2dd1a4bc5aa935d66407f06ef08c46b9fc1d9f23be03e754410392a2c53a42256a0e769e96d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 00:53:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI全新发布文生视频模型Sora - 现实，不存在了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279413&amp;idx=5&amp;sn=36ac77ecdf4fcd35dca458198f9b5589&amp;chksm=f2dd1a4bc5aa935d1fc56500eac0dc171e19fae37636218171ebf6e3bd87c794bf3bc6d259f5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 19 Feb 2024 00:53:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>今天在瑞丽姐告口岸，旅游人很多</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279412&amp;idx=1&amp;sn=cb7b574f1412fca279ca5cdbe3401199&amp;chksm=f2dd1a4ac5aa935c5ff9d9895ead368e0dad2bb9cfed554b53d2974f5687fd94dfa146b679ce&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 15 Feb 2024 05:46:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这南方小土豆笑的也太甜美了吧？！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279406&amp;idx=1&amp;sn=a63f26700389e07e6760881ccd553069&amp;chksm=f2dd1a50c5aa93465b56c12263c12c0052a7c25aec7512c2d9b522c8098636c183337baf4a83&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 11 Feb 2024 10:30:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>分享图片</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279404&amp;idx=1&amp;sn=dc2aacbe2680d9716479feda894b7c72&amp;chksm=f2dd1a52c5aa9344adb5f9b754c3e86fbec9165c6b2ed7f75d4a3104ffee88ece7bbf7e70511&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 10 Feb 2024 12:14:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-高领毛衣也很好看啊</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279367&amp;idx=2&amp;sn=70e4e34487830c51f5209592506e77c5&amp;chksm=f2dd1a79c5aa936f2a73a616ec307eff13103db6b73f6230bd1498f9c25c1e7f6b47767b0467&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Jan 2024 00:38:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-独特的赛博风格</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279367&amp;idx=4&amp;sn=0e72e5e698273b55b26c35b286b6402d&amp;chksm=f2dd1a79c5aa936f150bfc1aa3e1cc7bcf07ad53745b1f21b69d5ee3ad2cd8b85554dec0e32c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Jan 2024 00:38:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>用AI制作爆火的情侣头像，走在别人前面（免费工具教程）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279367&amp;idx=5&amp;sn=a4920d3bd2709ba28fb6cdaea3149d32&amp;chksm=f2dd1a79c5aa936fe1edfe05829a1fee8803e34986feeaa1e4959edab261ad17d0a74cb83737&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 08 Jan 2024 00:38:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-秋之叶叶如此多彩</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279329&amp;idx=1&amp;sn=c9bfb0cda4a1238f773c9baeaea7fc62&amp;chksm=f2dd059fc5aa8c896ce3d13b9e49e8a5ce10b734de5955a1bea4b084c050d54710e8818dcc2b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 07 Jan 2024 00:23:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-最终幻想10尤娜COSPLAY</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279329&amp;idx=2&amp;sn=f206f5d913d88539e66b7e06153e40db&amp;chksm=f2dd059fc5aa8c892c6e27cdebd5372e01f63420353150c1890b61efc5c441363bf94913c985&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 07 Jan 2024 00:23:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-美丽婚纱</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279329&amp;idx=3&amp;sn=5528c5730b9db0d0f354c873332e8b25&amp;chksm=f2dd059fc5aa8c8938ab877ff4e48c74b9b3c35a5c66c94b4c10b4b402c8bd0a855f85e122f8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 07 Jan 2024 00:23:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-青春的毛衣</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279329&amp;idx=4&amp;sn=122cd4621418e8b07b4d449c34021bdf&amp;chksm=f2dd059fc5aa8c89ae504f61235a6a352c6712d32677698798acc8fa04039e1cb6e71f27a58c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 07 Jan 2024 00:23:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>超级干货，自学stable diffusion，看完这篇就够了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279329&amp;idx=5&amp;sn=970507dd106fe24d375c86c73044b4f8&amp;chksm=f2dd059fc5aa8c89b033ab188408ae9be3764c1192037b4cbd35bc64bcb17bc95d6c13f39f17&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 07 Jan 2024 00:23:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这南方小土豆笑的也太甜美了吧？！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279327&amp;idx=1&amp;sn=6292364ee797586950eb37e9ea668a65&amp;chksm=f2dd05a1c5aa8cb7cf209234d69eb48cc6ec7b6ac70a18521a3b101b3e8c7440b7f43c13cab9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-周末的乡村旅行</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279327&amp;idx=2&amp;sn=f40d0528b4922023d2ca83801b376dd4&amp;chksm=f2dd05a1c5aa8cb767f86d7d97e43a55e558681b27d590ecdea955858cd00087a3e808e46649&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-蕾丝和牛仔裤最搭</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279327&amp;idx=3&amp;sn=5b70bea3171c2e0fca1ae31ccad33216&amp;chksm=f2dd05a1c5aa8cb7f78c3b3819bd3708434c3770c11e3fab7251db16c0842ce4be54f68ede17&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-商场街拍多图慎入！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279327&amp;idx=4&amp;sn=f4f1d87cc3b7a6949f7f918ddbc48c16&amp;chksm=f2dd05a1c5aa8cb7b3f59809dc76251fecc2f5be7d5c0c3fdc0e26b9126d2c606dd8fe74de4f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI视频界的Midjourney，效果不输Runway，关键是免费！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279327&amp;idx=5&amp;sn=248650afc2dbdefc91096f4605e6cd90&amp;chksm=f2dd05a1c5aa8cb732f8713bce7b24db3c8641338e181cb01b404b4cc82dde97280c79d30dc7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-新一批小土豆已经在路上！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279326&amp;idx=1&amp;sn=456729580653c196ca583a90ea785296&amp;chksm=f2dd05a0c5aa8cb6c1bbfa2cd15f9af561c68c7f88ad71766afca1c90c3cb93f9ea30f38f994&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-艳丽色彩-黑与金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279326&amp;idx=2&amp;sn=ac270a7b3af7fd1e2caab8ef4d6c8e07&amp;chksm=f2dd05a0c5aa8cb63bcffb27e851800602d05f549eb27b632ffa99b92de717e716e01f575a50&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-艳丽色彩-白与绿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279326&amp;idx=3&amp;sn=81790d2c71db3ab818ba5dcf453ae6a3&amp;chksm=f2dd05a0c5aa8cb66e9ed84b9c3a7f82c7ac1c8b330200f97a6ead88336e98be0c462bccb2ce&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-艳丽色彩-蓝与红</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279326&amp;idx=4&amp;sn=eccb9abfa08ef9fe070b4bf07815a31e&amp;chksm=f2dd05a0c5aa8cb63a6008b6410e84e1290babc30f787401e2f99bc549db9c877ee8a479f0d1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>超级干货，自学stable diffusion，看完这篇就够了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279326&amp;idx=5&amp;sn=4fe9c9b95701bf41de8c4ed27e590187&amp;chksm=f2dd05a0c5aa8cb60ba3763c95612bffe5ba3648578e15080c020f43d307e7c4ee835c388a16&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 05 Jan 2024 01:37:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-我不是小孩我不去那边！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279274&amp;idx=1&amp;sn=ab518a9f4bac369ed1d6e9521bbb24b9&amp;chksm=f2dd05d4c5aa8cc26778a2798257b725ee7f2a6565b522e0a9f279bcc348cb4fbc77667940a0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 04 Jan 2024 01:23:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这个大钳子可奈不？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279274&amp;idx=2&amp;sn=9272c963b7230a11c1d0d4d4ba7f4f90&amp;chksm=f2dd05d4c5aa8cc293190d035839465eec40d2e3f691712f1fb3e0e7f181e5a16b0c0ec92a65&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 04 Jan 2024 01:23:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-街拍美丽风景</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279274&amp;idx=3&amp;sn=d06b952a8de14d940804f964aab0d07e&amp;chksm=f2dd05d4c5aa8cc21353935f33bfd4c4bb8486bdc1f3d4ebaf01d3b75cd572dcb939759e63c1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 04 Jan 2024 01:23:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-敦煌飞天</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279274&amp;idx=4&amp;sn=33d7b26becc971a438f46778d4c1f891&amp;chksm=f2dd05d4c5aa8cc2525b32b7c2321afb0def17a79c6dfb02fafa6d6bff42bee7f34cf6893578&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 04 Jan 2024 01:23:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>GPT4免费了！GPTs也免费了！不需要魔法，直接就能用！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279274&amp;idx=5&amp;sn=44705a5d6db3ae115b318e95684aad84&amp;chksm=f2dd05d4c5aa8cc254bf07e55becb1ddcc4aa4570df36ae2e8b7763eb2fc6689e8d854106705&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 04 Jan 2024 01:23:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-人面桃花相映红</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279229&amp;idx=1&amp;sn=7c34db3774e6db9dd2c294aaad534e3b&amp;chksm=f2dd0503c5aa8c1558b2239785f41009da83ef144046573706e5affbe2e8c2f2ecf93ac3dc53&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 02:57:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-晚礼服衬托的娇艳</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279229&amp;idx=2&amp;sn=d69a18f7e167cd95a353d8ae8acf2095&amp;chksm=f2dd0503c5aa8c15e8b2559b6b1b1bcc7d3bba2f25f6c7124d3d6564ce70bcb7026fc78a5cfc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 02:57:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-课堂的美好记忆</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279229&amp;idx=3&amp;sn=88df1ca79022febdefddbb1d26f38698&amp;chksm=f2dd0503c5aa8c154143864283767b055497ccea05c8ef94a68fab6c9ac30c8fbf7a541c19ef&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 02:57:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-一个弱女子的强大伪装？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279229&amp;idx=4&amp;sn=815769878d81683a551be940d4bfb432&amp;chksm=f2dd0503c5aa8c154e6c2d2bf30b0e8970f08b6679a074290f185e294628ef8d2c2df487383e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 02:57:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>3D生成将迎来 “Midjourney 时刻”，影视制作技术大爆炸，Luma实现手机拍大片</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279229&amp;idx=5&amp;sn=f1d0c8f710428ab81012dc4b11e69a20&amp;chksm=f2dd0503c5aa8c159c283a00904a86f5f576a308d35359bc7616fd8d7fe5ca4473547b0cb9c3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 02:57:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这礼服会不会太暴露？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279195&amp;idx=1&amp;sn=e59b825157bca2a74e3aabde17366846&amp;chksm=f2dd0525c5aa8c334a2dda3111e5b859e0e35b92ee7042b4fa9958cbc3b10bc326ec51f98d6a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 01:27:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-黑色和白色哪个好看？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279195&amp;idx=2&amp;sn=fe09697d35dfff5903198c958077e259&amp;chksm=f2dd0525c5aa8c33fe997f62d0776aa3a4aa846d412c4c6bbf2ab995848b60cd8ad1e180614a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 01:27:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI视频工具三巨头：NeverEnds、Runway、Pika将创造视听新时代！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279195&amp;idx=5&amp;sn=a082f4ba6316176ec2dd9046e8e0a2a2&amp;chksm=f2dd0525c5aa8c33198f2e2388311e84d99d7bf89305e717734fd9f9c6ab06a1f2f3d4f5d6a4&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 02 Jan 2024 01:27:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-跨年夜的烟花绚烂！2024新年快乐！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=1&amp;sn=94af4a728efdb09985ec8516625d7ad3&amp;chksm=f2dd0530c5aa8c26ab9cc58cc44bb5a46fde26ae95e52f60d3464ab74f62feee5eda6bd62e3c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-谁还说南方的都是小土豆？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=2&amp;sn=bda0365765741816655bb16f188e2a3b&amp;chksm=f2dd0530c5aa8c26c655ac23d3e2e44ebc20ca6169fca6b5ee23e63085ab0c87e82e02a7384d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-东北大澡堂子住宿条件这么好呢？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=3&amp;sn=42c72a60e8307abdda1b79b4b7fe4327&amp;chksm=f2dd0530c5aa8c266aa455b34e5525bfb47c69f59c9fc650cddc9abc4161d87ec3b1f16cc3ba&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-与雪乡的雪终究相遇</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=4&amp;sn=94a9798fdbb1ec7d469af2869005f235&amp;chksm=f2dd0530c5aa8c2664b46e1b787824f16891813b92edcc619975d6eaaf2c90916db7e18bee82&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-俄罗斯美女爱吃马迭尔雪糕？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=5&amp;sn=1c4e95bb5708e0cf192523d00533075d&amp;chksm=f2dd0530c5aa8c2642420a7fcb3c74b71521539917ef882b7411a20b9847535471fd3f105af2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-冰雪大世界终于排到我了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=6&amp;sn=8be8dd26fc593785dd570cfb79eb512b&amp;chksm=f2dd0530c5aa8c265e48926885b836143466303598a6ccc09c0a2b35fb6ea3a5e5cbcadadff1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-小土豆为拍雪景真敢拼啊！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=7&amp;sn=612d75ad260e69feb430ff0e23006a83&amp;chksm=f2dd0530c5aa8c267f306059b92fef7f374f9e41c9142669910fe4cfc0f167fe6a05717b8ce2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这北方妹子真是霸气！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279182&amp;idx=8&amp;sn=82ff56a971fffb9d470b631ac0763810&amp;chksm=f2dd0530c5aa8c26f3aaa9787bda236f33083b248454ffecf14800eef25707be3110a9be41f5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Jan 2024 01:26:47 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-京剧也能这么好看？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279082&amp;idx=1&amp;sn=fe3690dfe4a28b05fd6705324d9a1dd1&amp;chksm=f2dd0494c5aa8d8274f69e5a869a2dbd8e9dac572fb8f2e3554000ac23ab81d9fad730126d3a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 30 Dec 2023 06:33:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>45个 DALL-E 3 使用案例 (附提示词) ，人人都是设计师</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279082&amp;idx=2&amp;sn=adeebc99470381cb33b47ca57f61f78b&amp;chksm=f2dd0494c5aa8d82c02d17984eb2ad1f760484aa76b8bace7594ecd8b02d29cfabfe024f5326&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 30 Dec 2023 06:33:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-风情万种的裙你喜欢哪个？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279081&amp;idx=1&amp;sn=936c5388ac97055cfe90a658f4d988ea&amp;chksm=f2dd0497c5aa8d813049cbd30413e7d9d2fb02998bbbbadab9a64b8d1f99b97ad316c02cb695&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 30 Dec 2023 06:30:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>9 种免费 AI 动画工具：让图像变视频动起来</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279081&amp;idx=2&amp;sn=46e757577ea33fa45ee1a4f3dbfdb260&amp;chksm=f2dd0497c5aa8d81a4d648977bf07298580ce4020e55baf1ce260610744f8a0aa6db66aa3cd0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 30 Dec 2023 06:30:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-站在历史的高墙下</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279079&amp;idx=1&amp;sn=4388b55ec57862ba4f44fd297166a578&amp;chksm=f2dd0499c5aa8d8f6ce705de9ee13bdc02e1e35435d15671012b9031b87457072399bd003b3a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Dec 2023 00:29:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>非常有趣的免费无限AI画板工具—Recraft</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279079&amp;idx=2&amp;sn=1893f0c2a55dd865bd4fc79b90f65b75&amp;chksm=f2dd0499c5aa8d8ffef4f11b56520625ade2ab1f24f50f96b97aeded7265f6d700793cdc1c26&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Dec 2023 00:29:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-这样吃冰激凌简直让人受不了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279078&amp;idx=1&amp;sn=ad6cdde846311937ca5ef6b6c6c366be&amp;chksm=f2dd0498c5aa8d8ecafccc6489f128d9436b1d0ab51f994211b8f2c9ca12d771c2f750e06cce&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Dec 2023 00:28:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>五款强劲AI应用：100小时的工作，几分钟内完成！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279078&amp;idx=2&amp;sn=029a6706165bf9d078c2477fd9261c0a&amp;chksm=f2dd0498c5aa8d8e0c96229702fc4c455f38a4f56025a68ba54864383e1aa996a436dae1dd61&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Dec 2023 00:28:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-冬天还是泡温泉舒服</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279076&amp;idx=1&amp;sn=9a8ec96c52af9efc6dce3c56c3b64658&amp;chksm=f2dd049ac5aa8d8c6e3c0986785735b3cd394f8d56658a371ab5831ea1d6f0fdf828ef273e12&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Dec 2023 01:01:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>简单三步部署自己独有的Gemini Pro Chat</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279076&amp;idx=2&amp;sn=99be60fac7fa977ae9ae2580ecc6606f&amp;chksm=f2dd049ac5aa8d8cc9f0df99d2e75b9588c50d4d7149cf0b21b69d286e5d63af67a66654c868&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Dec 2023 01:01:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-典雅的蓝看起来心都平静了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279058&amp;idx=1&amp;sn=0d73a72c8c73a1457138131e9b21c58e&amp;chksm=f2dd04acc5aa8dbaa37afc6fed1a146d2bae9c54ead9b47fa5ef95da119c81f81d5b1ac3a5c3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Dec 2023 00:58:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI时代的生成式3D大模型全面评测 - “ChatGPT时刻”的前夜</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279058&amp;idx=2&amp;sn=9781b59c140e5c4d9c14202d6e128e48&amp;chksm=f2dd04acc5aa8dba8df315ac200695fbaffb768fb3dc1b37f60d6c7cd0471606953dfadf9501&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Dec 2023 00:58:44 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-圣诞礼物谁来签收？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279042&amp;idx=1&amp;sn=31459314653902308b399791aac51cac&amp;chksm=f2dd04bcc5aa8daa61147b20c34b21f8574bebec71e4816e2400cc73cfdc93b273137c98efd6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 24 Dec 2023 13:01:52 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>免费好用！用AI把图片无损放大10倍！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279042&amp;idx=2&amp;sn=ad0d7f4d78994fb9869d25a81987e412&amp;chksm=f2dd04bcc5aa8daa632276e442436426652f77a6cc031ef1ffc85ef6f2cfc346b880bad960e7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 24 Dec 2023 13:01:52 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-生活照都能这么随性么？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279040&amp;idx=2&amp;sn=3110ef4aef273381feabbf1fd9bcfa69&amp;chksm=f2dd04bec5aa8da8fba7340dcb90dceda7bfb3aa457d9eb0c15c0a23edc2e4aae5e54ec975eb&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 23 Dec 2023 05:14:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-纸醉金迷的花花世界</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279037&amp;idx=1&amp;sn=a68aa54561058e0ff4e7ed73ac16d3a8&amp;chksm=f2dd04c3c5aa8dd5dc71b5800ee6397b3555d9c13a68085cec2344f7db1dc37386320eb8f91e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 22 Dec 2023 00:47:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【普通人用AI】如何在家用PC使用本地大模型之法拉第（faraday)篇</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279037&amp;idx=2&amp;sn=bb23127fe4abeae796e9b5adcb0aeb7d&amp;chksm=f2dd04c3c5aa8dd5b3f1d5a8db70599f7407a22fb6653c817abc06cfb560a10d1aee9c7cd549&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 22 Dec 2023 00:47:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI美图-不错！只是风尘气太重~</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279036&amp;idx=1&amp;sn=b20f3a7ee15e531795e1845a41eb3a11&amp;chksm=f2dd04c2c5aa8dd49984d64bf1691a9497590834020a3d15c3c9c03c931b3caafbb8df03f80d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 22 Dec 2023 00:47:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Midjourney全新模型V6 Beta版上手评测 - 终于到来的语义革命</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzOTEyNDI0MQ==&amp;mid=2651279036&amp;idx=2&amp;sn=6176bb1b65bb90fea619790dca70185c&amp;chksm=f2dd04c2c5aa8dd4156d9b445ae876b671e1c92350d94292b8595e2e0ee05afbdb865f2c9823&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 22 Dec 2023 00:47:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+  </channel>
+</rss>
+

@@ -5,8 +5,8 @@
     <link>https://github.com/Aceysx/mp_rss</link>
     <description />
     <language>zh-cn</language>
-    <pubDate>Wed, 01 May 2024 13:00:01 GMT</pubDate>
-    <lastBuildDate>Wed, 01 May 2024 13:00:01 GMT</lastBuildDate>
+    <pubDate>Thu, 02 May 2024 14:21:49 GMT</pubDate>
+    <lastBuildDate>Thu, 02 May 2024 14:21:49 GMT</lastBuildDate>
     <ttl>5</ttl>
     <image>
       <title>鱼饼 AI</title>
@@ -106,6 +106,30 @@
       <title>周报（12.2）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzkzMDU2NjI2OA==&amp;mid=2247483726&amp;idx=1&amp;sn=6f6b44ddb900498aae1cac3a852dfee1&amp;chksm=c279185df50e914ba81457b376bf0fa605bf3aeb3cd1a02a74209921d4277f44d33b189f7a7d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 02 Dec 2023 05:02:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>周报（11.25）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkzMDU2NjI2OA==&amp;mid=2247483722&amp;idx=1&amp;sn=c2ffba5566bf4f4eb3c5564fbf500227&amp;chksm=c2791859f50e914f1c16af6e5b7a700c58e31e0c6c2ad0503d83ebc4e03120c79461299ba917&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 24 Nov 2023 15:29:28 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>周报（11.18）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkzMDU2NjI2OA==&amp;mid=2247483718&amp;idx=1&amp;sn=9e30580304379ea197a7d2a86635d551&amp;chksm=c2791855f50e9143f8b9a525310de10f1cabb85c2345fe3f6e7ed935e92c2dd99bb5aeb6f67e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 18 Nov 2023 07:24:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>周报（11.11）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkzMDU2NjI2OA==&amp;mid=2247483714&amp;idx=1&amp;sn=d54495cd4d0733eb4fe6fd7de088880f&amp;chksm=c2791851f50e91475e71235473f63f5a9f55177c34ad67db3bf206fef6da965434e034f3d7f0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 11 Nov 2023 03:16:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>周报（11.4）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkzMDU2NjI2OA==&amp;mid=2247483708&amp;idx=1&amp;sn=40dd23e3c4e60c419234bb9913b9c012&amp;chksm=c279182ff50e91393c41c06f35def7a095176e52bb23f7bb3ee725f07cc7c9e1dd0d898d1740&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 04 Nov 2023 02:46:39 GMT</pubDate>
       <guid isPermaLink="false" />
     </item>
   </channel>

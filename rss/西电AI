@@ -5,8 +5,8 @@
     <link>https://github.com/Aceysx/mp_rss</link>
     <description />
     <language>zh-cn</language>
-    <pubDate>Wed, 01 May 2024 13:00:01 GMT</pubDate>
-    <lastBuildDate>Wed, 01 May 2024 13:00:01 GMT</lastBuildDate>
+    <pubDate>Thu, 02 May 2024 14:21:52 GMT</pubDate>
+    <lastBuildDate>Thu, 02 May 2024 14:21:52 GMT</lastBuildDate>
     <ttl>5</ttl>
     <image>
       <title>西电AI</title>
@@ -118,6 +118,18 @@
       <title>空间序列递归神经网络用于高光谱图像分类</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzU0OTk1NDE3Mw==&amp;mid=2247483900&amp;idx=1&amp;sn=bef7a451c6c8dad969a94b3cd52f2cb3&amp;chksm=fba6b6eeccd13ff871a45d46ef3d59622c3042904689a84fbff4e5355f6ec2bd0444e764a6dc&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Oct 2018 09:20:59 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>基于背景和潜在异常字典构造的高光谱图像异常目标检测</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzU0OTk1NDE3Mw==&amp;mid=2247483883&amp;idx=1&amp;sn=accfbddc627d48ab259c48cbeb2a1a33&amp;chksm=fba6b6f9ccd13fefe7e669a31718269c3bef13a0a07d543e67a32984fd34e9a96ef2dac82d0d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 22 Oct 2018 16:05:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>基于动态局部搜索的免疫自动聚类算法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzU0OTk1NDE3Mw==&amp;mid=2247483859&amp;idx=1&amp;sn=3e56b41da1c6a9d34d4a9fdb260b7568&amp;chksm=fba6b6c1ccd13fd72de2da7db376d5e5ce43e54bed747e89da42a184a5d58502d9de29595706&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Oct 2018 05:38:56 GMT</pubDate>
       <guid isPermaLink="false" />
     </item>
   </channel>

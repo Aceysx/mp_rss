@@ -5,8 +5,8 @@
     <link>https://github.com/Aceysx/mp_rss</link>
     <description />
     <language>zh-cn</language>
-    <pubDate>Wed, 01 May 2024 15:00:01 GMT</pubDate>
-    <lastBuildDate>Wed, 01 May 2024 15:00:01 GMT</lastBuildDate>
+    <pubDate>Thu, 02 May 2024 14:21:50 GMT</pubDate>
+    <lastBuildDate>Thu, 02 May 2024 14:21:50 GMT</lastBuildDate>
     <ttl>5</ttl>
     <image>
       <title>微信AI</title>
@@ -112,6 +112,24 @@
       <title>两项第一！微信Embedding联合团队征战OGB斩获佳绩</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzI5MTU5OTM1NQ==&amp;mid=2247488249&amp;idx=1&amp;sn=3025d7fd9f58c9b17a39941adaaa029f&amp;chksm=ec0f746ddb78fd7b14bcafa2c281c2acf1b142f133312c01d088c0eef689352a85b3d70ffd8b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 10 Jan 2022 12:46:28 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微信AI邀你一起观看2022微信公开课PRO</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzI5MTU5OTM1NQ==&amp;mid=2247488234&amp;idx=1&amp;sn=f58acec4edec5897805747e761241e13&amp;chksm=ec0f747edb78fd68772572cf7657abc79fd734cde8b058e4973bf5d068786fb2f2a2a197b5e9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 23 Dec 2021 07:00:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微信里识别LOGO又快又准？背后有OCR模块一份功劳</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzI5MTU5OTM1NQ==&amp;mid=2247488209&amp;idx=1&amp;sn=00845b6f1351ad3ffc6dcab14b1df6ec&amp;chksm=ec0f7445db78fd53d6d9baef0c66889752d31c862e76260e1422487a435381ea910896162197&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 17 Dec 2021 03:41:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微信看一看强化学习推荐模型的知识蒸馏探索之路丨CIKM 2021</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzI5MTU5OTM1NQ==&amp;mid=2247488186&amp;idx=1&amp;sn=59aad2ced941c7e79cbb55602e411263&amp;chksm=ec0f742edb78fd3870b604a7a089ff41d7f48322d1cf684bd02ef3778144bd894e011378a37a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 02 Dec 2021 11:01:09 GMT</pubDate>
       <guid isPermaLink="false" />
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://github.com/Aceysx/mp_rss</link>
     <description />
     <language>zh-cn</language>
-    <pubDate>Wed, 01 May 2024 13:00:01 GMT</pubDate>
-    <lastBuildDate>Wed, 01 May 2024 13:00:01 GMT</lastBuildDate>
+    <pubDate>Thu, 02 May 2024 14:21:53 GMT</pubDate>
+    <lastBuildDate>Thu, 02 May 2024 14:21:53 GMT</lastBuildDate>
     <ttl>5</ttl>
     <image>
       <title>AI羊驼</title>
@@ -94,6 +94,30 @@
       <title>【Python编程入门】内建函数</title>
       <link>https://mp.weixin.qq.com/s?__biz=Mzg3NDg2ODM4Mw==&amp;mid=2247483900&amp;idx=1&amp;sn=5769681317b599d41c33d98c59b2a7bb&amp;chksm=cecb7a0cf9bcf31a7e5e19f4067e94d3f775399e5bbf7ed62e0e7cf955ed8ae1f037a20334f9&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 06 Nov 2022 10:13:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【Python编程入门】基础语法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3NDg2ODM4Mw==&amp;mid=2247483881&amp;idx=1&amp;sn=532e61ec65f6cbed809ea3b5354acecf&amp;chksm=cecb7a19f9bcf30f5f61c4cbc6017f865897e95959a28d235f7106579fa4252022166a1e808a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 03 Nov 2022 14:37:11 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【不可不知系列】编译器|编辑器|集成开发环境的区别和联系</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3NDg2ODM4Mw==&amp;mid=2247483852&amp;idx=1&amp;sn=fd08ea47cfd78eed91d1fb2b11ecbfcf&amp;chksm=cecb7a3cf9bcf32ae1a6020cf552fe069896df79181aac09fd47b544b7b2d1c3b55715414104&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 31 Oct 2022 14:34:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【Python编程入门】环境搭建</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3NDg2ODM4Mw==&amp;mid=2247483830&amp;idx=1&amp;sn=6e2f4c934e95b3f159b480acbb12de40&amp;chksm=cecb7a46f9bcf3506b6e2773e6f84d751762a755fba0cdca2715d6d7a906c3b0ab7982e5b052&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 31 Oct 2022 13:38:01 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【Python编程入门】引言</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3NDg2ODM4Mw==&amp;mid=2247483829&amp;idx=1&amp;sn=1f11100ff868798b5a3b57cb119aa866&amp;chksm=cecb7a45f9bcf3536e41748ff2d4f29b7314624ca5566a60971d461e53c2146f4e90e8b8c9d5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 30 Oct 2022 14:24:56 GMT</pubDate>
       <guid isPermaLink="false" />
     </item>
   </channel>
