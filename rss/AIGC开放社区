@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AIGC开放社区</title>
+    <link>https://github.com/Aceysx/mp_rss</link>
+    <description>专注AIGC领域的专业社区，关注微软OpenAI、百度文心一言、讯飞星火等大语言模型（LLM）的发展和应用落地，聚焦LLM的市场研究和AIGC开发者生态，欢迎关注！</description>
+    <language>zh-cn</language>
+    <pubDate>Sun, 05 May 2024 16:00:11 GMT</pubDate>
+    <lastBuildDate>Sun, 05 May 2024 16:00:11 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <image>
+      <title>AIGC开放社区</title>
+      <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5niapibfFRXMnDMhawOIamibcbtEakvpwG7hECRLvjsMjXw/0</url>
+    </image>
+    <item>
+      <title>摩根大通正式发布IndexGPT，用ChatGPT方式进行投资</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505118&amp;idx=1&amp;sn=7248ea01f084f295928b80cd65c35639&amp;chksm=cedb8af4f9ac03e27d7619b1b359f3580263fbe65a4c8a1e4c0b0da2624e38dc24a6e9d4c402&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 05 May 2024 00:24:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>英伟达推出LATTE3D：仅需400毫秒，文本生成高质量3D模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505118&amp;idx=2&amp;sn=6300271c3c4fd4951e059d072bdd7923&amp;chksm=cedb8af4f9ac03e2107926b86fca5a07c757a9b361276beda07780ed9e8b258e33d8a59dedbb&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 05 May 2024 00:24:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI下周将发布ChatGPT搜索引擎，挑战谷歌搜索！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505104&amp;idx=1&amp;sn=6378a3b04e17a222624c02c0dcbb150a&amp;chksm=cedb8afaf9ac03ec6172aca5b50693d7b28ea53ed72878f16b4737d0503b167e9d909f8113f0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 04 May 2024 00:13:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Lamini获2500万美元，主打企业生成式AI平台</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505104&amp;idx=2&amp;sn=a0b3f66af3d2807c61296e441b192da4&amp;chksm=cedb8afaf9ac03eccf385ea7e82f8a27b3a4787ab7d90863561ccd9287e258e00c3e50e2422d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 04 May 2024 00:13:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>首个Sora制作4分钟商业音乐MV，太惊艳啦！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505079&amp;idx=1&amp;sn=1c6d1ace9f2547a28be87a9a853eef05&amp;chksm=cedb8a9df9ac038b0d553608c5e43d946982226ef1420ee5a257726de2170010edd2cf8b2457&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 02 May 2024 23:58:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微软投资22亿美元，加速马来西亚AI和云计算建设</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505079&amp;idx=2&amp;sn=978727143e4f7a133d6ee47c893822ba&amp;chksm=cedb8a9df9ac038baf05be1e6d516f0dd7f9a4f2025f6a7d52fbd1bd95a40878ffa80dc874aa&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 02 May 2024 23:58:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>支持中文，免费试用！文本生成360度，物理光照3D模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505054&amp;idx=1&amp;sn=10a17209fd01448cc010a6af3d84955e&amp;chksm=cedb8ab4f9ac03a288f79ca9e3842c0504fc9158fd74658548781d45a685bd54abfb9e690c57&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 02 May 2024 00:46:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI开源Assistants API Quickstart</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505054&amp;idx=2&amp;sn=d193b49038ca82b858c8a510799683e5&amp;chksm=cedb8ab4f9ac03a215ed39a9e7eceb2ac8d9ce73717a89c0b8d687450bd652c1f7fa1a2d3bb0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 02 May 2024 00:46:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>亚马逊正式发布类ChatGPT助手—Amazon Q</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505012&amp;idx=1&amp;sn=4652b98a300a50f0747af60eddd0ac75&amp;chksm=cedb8a5ef9ac0348d07ed1d06057e0ec241d4c25392788f52063768e3f42ec1671c2ddbd7435&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 00:40:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI 与《金融时报》与签订内容许可协议</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247505012&amp;idx=2&amp;sn=36733a484bfdb35bf506cb2e2f4712f5&amp;chksm=cedb8a5ef9ac0348139886cd10c6e0b09c3d118011848899cfa9ddd6d43250642fa31b3a9860&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 01 May 2024 00:40:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI向所有ChatGPT Plus用户，开放“记忆”功能！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504969&amp;idx=1&amp;sn=3ed0740c7be51e7aba7bd8872d23b7f5&amp;chksm=cedb8a63f9ac0375f47b5f3f5cfc3252abbcc89e7b15869c75df491b54e16eef5b456613ef11&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 23:37:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>苹果推出理解、转化模型ReALM，性能超GPT-4</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504969&amp;idx=2&amp;sn=a65ae2bd37f6c3ab98d7392863afeec2&amp;chksm=cedb8a63f9ac0375628f9709a2fb38583515046bb35b33653357187720d0ea81cf2e36da32f1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 29 Apr 2024 23:37:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开源Open-Sora大更新：可生成16秒，720P高清视频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504925&amp;idx=1&amp;sn=bd812fa20d521004dc59f993a20afc7e&amp;chksm=cedb8a37f9ac03213ac8df855cd391c75be05c8fd8641af8694b98c8eb3fd9e08eeb71c72687&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 23:45:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>受ChatGPT等利好影响，微软、谷歌最新财报收入大增</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504925&amp;idx=2&amp;sn=e12a383f2d875f3beff6f02bff492028&amp;chksm=cedb8a37f9ac03211fe0eb5eb576bde8f7223fd23d52c67818245dba3fbb09b7d5b8e615e98a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 23:45:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>苹果与OpenAI洽谈，希望在iOS 18中使用ChatGPT功能</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504925&amp;idx=3&amp;sn=3d5b3fa04d760aa485ca3b13460358f4&amp;chksm=cedb8a37f9ac03214344dd9c498166262f7b75ebef6bc3f8a960fe4d816e5a3fea8f341ead94&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 23:45:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>中国首个Sora级大模型：文本生成16秒，1080p高清视频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504909&amp;idx=1&amp;sn=22cbc9af156f06bd9e1418a8abcd8738&amp;chksm=cedb8a27f9ac0331f0aeeffe5d51f4f95facf5700f85ca6de5d95dd58422419c18a11dd29133&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 27 Apr 2024 23:52:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>参赛者必看 | 拯救者杯OPENAIGC开发者大赛最全攻略指南来啦~</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504909&amp;idx=2&amp;sn=1951c617202faad914afdb70d9e5bbf6&amp;chksm=cedb8a27f9ac0331dc3ce65e809722c7730aa89c1786f5d8d95d38b6d432abf07478aad8d039&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 27 Apr 2024 23:52:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>马斯克的xAI将融资60亿美元，全面迎战OpenAI！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504893&amp;idx=1&amp;sn=2dbc29b2777f5e039b462e5817b77541&amp;chksm=cedb8dd7f9ac04c1e8d9c37a9dcb1568939a73244f6a69b38b13c4c41b1b7edaf5f75012c754&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 23:23:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>英伟达收购 Runai，增强生成式AI开发和硬件能力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504893&amp;idx=2&amp;sn=90dbee095b1f3c8bf9f5d01a5c5d685c&amp;chksm=cedb8dd7f9ac04c1ef8a1ff4e9c9362e40096fa93e2dba4b025418e3eaeb5f3f2ae7fd2a88f2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 23:23:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>大模型综述出书了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504893&amp;idx=3&amp;sn=71022dcb2dd4f500153408b830e7829c&amp;chksm=cedb8dd7f9ac04c19a34a18dc24d2a864bf351cd03f836873d532a625e5cc3727df1d6439b45&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 23:23:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Sam Altman：GPT-5，将会比现在的大模型更智能</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504825&amp;idx=1&amp;sn=7e9adeff5b8c04e3c988bc83e1c9d3e3&amp;chksm=cedb8d93f9ac04852633bf0c2a003c50175bb36a54867b8d4c45d921f6e45935570a41244b27&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 00:36:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>商汤发布“日日新SenseNova 5.0”大模型，性能对标GPT-4 Turbo</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504825&amp;idx=2&amp;sn=e1e98f7dfa198325a3f882d07fca42cf&amp;chksm=cedb8d93f9ac04854ae1681e78ccacf59ebf5be015c3e1ea3011693cd63ddb2c153e7677ab62&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 00:36:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>月之暗面创始人，套现4000万美元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504825&amp;idx=3&amp;sn=23162fddca92e7d38970d9b1d9916864&amp;chksm=cedb8d93f9ac0485e3b2aa5eaa4516dfca9721d3017a1a124d7042545fdeb20b75d87f97393d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 26 Apr 2024 00:36:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>苹果开源OpenELM，大模型开源领域再迎一巨头！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504780&amp;idx=1&amp;sn=8f14ee26a2b8ad8f1e381854be9e2378&amp;chksm=cedb8da6f9ac04b08bdedca53d97c40c1924d485d6487e2bf0a3ce21fe2489649421495da7c2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 00:05:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AIGC第一股”出门问问“，在港交所成功上市</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504780&amp;idx=2&amp;sn=9214547d72a7aa71cf0a9f0b43fab3a9&amp;chksm=cedb8da6f9ac04b0a5c02cdf4346da05e02b708b643b0e3725c7d1a2306252eb4e0b07b77bed&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 00:05:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Adobe发布Firefly Image 3模型，以及全新版Photoshop</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504780&amp;idx=3&amp;sn=65fbbf0c5972a6ff915c39542335d10d&amp;chksm=cedb8da6f9ac04b0f1f40c892f8f3225cdd11373d8bf864e8a11ee122345020d7f9686d877cf&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 00:05:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微软开源最强小参数大模型—Phi-3 Mini</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504742&amp;idx=1&amp;sn=c27b6cba451adbe472e512cfdd8c456e&amp;chksm=cedb8d4cf9ac045aa30fce58a80a49d3e2dc460c2a132d4246de449a264ec5f8a90b01682835&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 00:19:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Perplexity AI获6270万美元融资，估值10.4亿美元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504742&amp;idx=2&amp;sn=75c196624c02e79724c9dfc232ca9fdf&amp;chksm=cedb8d4cf9ac045aacdd44dad718ee55872f3fea928e66b2e63c8eefa346e3d4f111f9db390e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 24 Apr 2024 00:19:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>ChatGPT能预测未来特定事件，准确率高达97%</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504701&amp;idx=1&amp;sn=3b52e67ff3b44b582bba58c96b553ed2&amp;chksm=cedb8d17f9ac04012c0992b436c5039d1fff17f83415790f55ea227393b2254e93f7044a083b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 00:22:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Arena-Hard：开源高质量大模型评估基准</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504701&amp;idx=2&amp;sn=6a0669c6ead101965d3109d1ea2a3125&amp;chksm=cedb8d17f9ac0401b7e58be96a1389b53ab73b9573819cefe597942e46995e722dfa1472a9fc&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 00:22:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI对Assistants API 进行大量更新</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504701&amp;idx=3&amp;sn=42e376c31f35caa4dea1b18f21710be9&amp;chksm=cedb8d17f9ac04014cbe44e7b13a05d73e4eb37cb178813e7576748b259f389f6c4bd8944663&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 00:22:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>文本生成8K、360度全景世界！Model 3重磅发布</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504672&amp;idx=1&amp;sn=1f1353f8f54af1b1675b555adf43dbc3&amp;chksm=cedb8d0af9ac041c04f3c7607c4382c0a597179e267437c5b07f15bd09e7285b80285dfd3e39&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 23:04:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Leonardo新增图片样式引导，能精准控制生成图片啦！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504643&amp;idx=1&amp;sn=1b1fc232ac712ab4fb56774726479e24&amp;chksm=cedb8d29f9ac043fc2670fd9cad67ef937817b64621b347f1702b98ca56c0e5e4bee865aedb5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 01:41:43 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微软推出VASA-1：可生成会说话的，动态人物视频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504606&amp;idx=1&amp;sn=5071b60d9a67428d3f4629b9bca4bcfc&amp;chksm=cedb8cf4f9ac05e2ff7b0f2fce888b56bb5909033bf39a55cc875b4c87eb24af68fa4faacc52&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 20 Apr 2024 01:06:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>重磅！Llama-3，最强开源大模型正式发布！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504576&amp;idx=1&amp;sn=06e551cdf0e15600e072a7b13b00bff6&amp;chksm=cedb8ceaf9ac05fc90c2465f0709fe60bb47eee377e1ba87d9ef6504abb314e60c144fedefd9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 23:42:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>116 个 AI 大模型，通过国家备案</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504576&amp;idx=2&amp;sn=6452ded760d2677926416ab6fa5deab2&amp;chksm=cedb8ceaf9ac05fcb1172cd3c756a33fb3de1a4fd63a4501312b391b646df3600540763ea2d1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 23:42:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>突发！Stable Diffusion 3，可通过API使用啦</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504550&amp;idx=1&amp;sn=a51203bd0cc5b2ada9b33056b9880100&amp;chksm=cedb8c8cf9ac059ada2ee43176116a9e09f87af196ef0b2c7fd6f0a159a1ed9846cb89fe10c9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 00:53:25 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>谷歌开源专业代码模型：对硬件要求低，性能超强！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504550&amp;idx=2&amp;sn=9fc803b03a602f298511c0ae38130cd2&amp;chksm=cedb8c8cf9ac059ae7108c28c5d251f061e44a955b5272b3938564b1843e80fe9debb05c575b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 00:53:25 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微软专家分享 | 拯救者杯 OPENAIGC开发者大赛 能量加油上海站启动啦！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504550&amp;idx=3&amp;sn=127dca3d0c40836e14a8b3d56b3ccad0&amp;chksm=cedb8c8cf9ac059aa81b38932785d3347a2797929cda63eef47b1edc54f86f06b26c86ec9d0e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 18 Apr 2024 00:53:25 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>无限重生图片样式，999次也没问题！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504497&amp;idx=1&amp;sn=f79204cf7bbfe30946b4d3e567dee595&amp;chksm=cedb8c5bf9ac054dba5c845b7ea82b031ed170df1274aa5546f4253f111506350847339ff384&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 00:22:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI在API新增”项目“功能，可精细化管理模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504497&amp;idx=2&amp;sn=e4f7b58f3704927fb6a3ba41fdb20fbf&amp;chksm=cedb8c5bf9ac054d9c70e7d38413375d955bf947388a42c92eccb2647ca2b6398f98eb33c8c6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 00:22:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Adobe将Sora、Runway、Pika，集成在PR中</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504460&amp;idx=1&amp;sn=aaa199eb1d3330d548efb3685b4df9c7&amp;chksm=cedb8c66f9ac05703e42695e0caf4440686370bf2b8bc89082f4fbec4f89ca599b8a52fc1056&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 00:42:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>OpenAI在亚洲开设第一个办事处，GPT-4速度快3倍</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MjY3Nw==&amp;mid=2247504460&amp;idx=2&amp;sn=c2d5130fc2799c2fbe6461940a0d83ff&amp;chksm=cedb8c66f9ac0570cd1ec30f07c81fefb46c01b660851c8e96ac10e61b785d756a9e4a1d0382&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 00:42:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+  </channel>
+</rss>
+
