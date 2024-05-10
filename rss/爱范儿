@@ -1,502 +1,663 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>爱范儿</title>
     <link>https://github.com/Aceysx/mp_rss</link>
     <description>关注明日产品的数字潮牌</description>
     <language>zh-cn</language>
     <pubDate>Sun, 05 May 2024 16:00:11 GMT</pubDate>
-    <lastBuildDate>Sun, 05 May 2024 16:00:11 GMT</lastBuildDate>
-    <ttl>5</ttl>
+    <dc:date>2024-05-05T16:00:11Z</dc:date>
+    <dc:language>zh-cn</dc:language>
     <image>
       <title>爱范儿</title>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6C3RREiaYxFJsBRcIlxaHH1goReOibJdtedqKIP4Yxahwg/0</url>
     </image>
     <item>
+      <title>苹果或在今晚发布 Apple Pencil Pro/雷军：逛完北京车展后「很绝望」/微软或开发新模型与 OpenAI 竞争</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342858&amp;idx=1&amp;sn=aacab1f47a8c4d6ed5b2cba9b6c6c512&amp;chksm=9b611cd5ac1695c3075c3d09ad3daa9f60d8383cce338c3b3496c35867169c504b18d906b53a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342858&amp;idx=1&amp;sn=aacab1f47a8c4d6ed5b2cba9b6c6c512&amp;chksm=9b611cd5ac1695c3075c3d09ad3daa9f60d8383cce338c3b3496c35867169c504b18d906b53a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>对话 teenage engineering 联合创始人：如何创造消电产品的另一种未来？｜多样性公司</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342764&amp;idx=1&amp;sn=129dafc10a877ab288f825f0d18cab95&amp;chksm=9b611f73ac169665c1ecdc26c3e78f5b69b4f6820dea3062a9f469c22a61fba68403e4d31975&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342764&amp;idx=1&amp;sn=129dafc10a877ab288f825f0d18cab95&amp;chksm=9b611f73ac169665c1ecdc26c3e78f5b69b4f6820dea3062a9f469c22a61fba68403e4d31975&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>蔚来李斌美国会面黄仁勋/B 站回应五四短片被指抄袭/iPhone 屏下 Face ID 或推迟至 2026 年到来</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342763&amp;idx=1&amp;sn=9a12dfd0ee8b9622257b607f65a53f30&amp;chksm=9b611f74ac1696627c8bba67b0285720fd1500f1e822e820742ad9fd5cbf4640b52e7a9baca3&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342763&amp;idx=1&amp;sn=9a12dfd0ee8b9622257b607f65a53f30&amp;chksm=9b611f74ac1696627c8bba67b0285720fd1500f1e822e820742ad9fd5cbf4640b52e7a9baca3&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>可口可乐亲手「毁」掉了自家的经典 Logo | Feel Good 周报</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=1&amp;sn=14dd546ec00a6b49961bb59472df9d53&amp;chksm=9b611f7aac16966c286f484a0eb63a47a11ec7351117614d55d1b25f117d67c127cce4e8f84d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=1&amp;sn=14dd546ec00a6b49961bb59472df9d53&amp;chksm=9b611f7aac16966c286f484a0eb63a47a11ec7351117614d55d1b25f117d67c127cce4e8f84d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>影石 X4 体验：拿在手上的全景 8K，最全面的全景运动相机</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=2&amp;sn=164865fc6288410173ab9e0318a5940d&amp;chksm=9b611f7aac16966cadbbddf2f35b487dc52265c77a7f7e3eaac0c45342cb5356d1216a2d399a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=2&amp;sn=164865fc6288410173ab9e0318a5940d&amp;chksm=9b611f7aac16966cadbbddf2f35b487dc52265c77a7f7e3eaac0c45342cb5356d1216a2d399a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>苹果或在今晚发布 Apple Pencil Pro/雷军：逛完北京车展后「很绝望」/微软或开发新模型与 OpenAI 竞争</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342858&amp;idx=1&amp;sn=aacab1f47a8c4d6ed5b2cba9b6c6c512&amp;chksm=9b611cd5ac1695c3075c3d09ad3daa9f60d8383cce338c3b3496c35867169c504b18d906b53a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342858&amp;idx=1&amp;sn=aacab1f47a8c4d6ed5b2cba9b6c6c512&amp;chksm=9b611cd5ac1695c3075c3d09ad3daa9f60d8383cce338c3b3496c35867169c504b18d906b53a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>对话 teenage engineering 联合创始人：如何创造消电产品的另一种未来？｜多样性公司</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342764&amp;idx=1&amp;sn=129dafc10a877ab288f825f0d18cab95&amp;chksm=9b611f73ac169665c1ecdc26c3e78f5b69b4f6820dea3062a9f469c22a61fba68403e4d31975&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342764&amp;idx=1&amp;sn=129dafc10a877ab288f825f0d18cab95&amp;chksm=9b611f73ac169665c1ecdc26c3e78f5b69b4f6820dea3062a9f469c22a61fba68403e4d31975&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>蔚来李斌美国会面黄仁勋/B 站回应五四短片被指抄袭/iPhone 屏下 Face ID 或推迟至 2026 年到来</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342763&amp;idx=1&amp;sn=9a12dfd0ee8b9622257b607f65a53f30&amp;chksm=9b611f74ac1696627c8bba67b0285720fd1500f1e822e820742ad9fd5cbf4640b52e7a9baca3&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342763&amp;idx=1&amp;sn=9a12dfd0ee8b9622257b607f65a53f30&amp;chksm=9b611f74ac1696627c8bba67b0285720fd1500f1e822e820742ad9fd5cbf4640b52e7a9baca3&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>可口可乐亲手「毁」掉了自家的经典 Logo | Feel Good 周报</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=1&amp;sn=14dd546ec00a6b49961bb59472df9d53&amp;chksm=9b611f7aac16966c286f484a0eb63a47a11ec7351117614d55d1b25f117d67c127cce4e8f84d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=1&amp;sn=14dd546ec00a6b49961bb59472df9d53&amp;chksm=9b611f7aac16966c286f484a0eb63a47a11ec7351117614d55d1b25f117d67c127cce4e8f84d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>影石 X4 体验：拿在手上的全景 8K，最全面的全景运动相机</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=2&amp;sn=164865fc6288410173ab9e0318a5940d&amp;chksm=9b611f7aac16966cadbbddf2f35b487dc52265c77a7f7e3eaac0c45342cb5356d1216a2d399a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Tue, 07 May 2024 16:00:01 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342757&amp;idx=2&amp;sn=164865fc6288410173ab9e0318a5940d&amp;chksm=9b611f7aac16966cadbbddf2f35b487dc52265c77a7f7e3eaac0c45342cb5356d1216a2d399a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-07T16:00:01Z</dc:date>
+    </item>
+    <item>
       <title>巴菲特谈 AI 和 iPhone/苹果 Vision 标准版头显或10月定型/马斯克：部分 Model Y 可付费解锁更多里程</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342714&amp;idx=1&amp;sn=be1864d7136585f9c7c3db4806d7cdec&amp;chksm=9b611f25ac1696330780058bf1b8a0c4358b7fde1eff3e759f8db5abd9203e63c3024b865a31&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 05 May 2024 00:31:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-05T00:31:07Z</dc:date>
     </item>
     <item>
       <title>取代 iPhone 的可能是耳机、项链、眼镜，「AI手机」不是正确答案</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342708&amp;idx=1&amp;sn=a4726447147ca0538f82e626bd400eaf&amp;chksm=9b611f2bac16963df74224d13ac7cd900279eaa3964df24232076d4d5e404c71ef6f0cc3bea2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 04 May 2024 23:21:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-04T23:21:03Z</dc:date>
     </item>
     <item>
       <title>对比 10 款主流 AI 翻译工具后，我找到了最适合你的翻译神器｜AI 有用功</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342708&amp;idx=2&amp;sn=6c88dc7adda7f3367a59f8b17feed2b0&amp;chksm=9b611f2bac16963d4bcb5f35028792207de103a2fc6de0c94e804b8c7f00a0627aa5eb69c641&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 04 May 2024 23:21:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-04T23:21:03Z</dc:date>
     </item>
     <item>
       <title>苹果 5 月发布会超全爆料：首款「AI 硬件」，小尺寸或缺货，iPad 配件大更新</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342674&amp;idx=1&amp;sn=aa8616d5b5b1a793b746858060dceeb7&amp;chksm=9b611f0dac16961b03e43434e13e7d1682c77fc8d8df752ae4a7ae149b27f08a5f7d102fbf0c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 04 May 2024 10:41:17 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-04T10:41:17Z</dc:date>
     </item>
     <item>
       <title>国产新能源，不需要周鸿祎</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342642&amp;idx=1&amp;sn=6e6bc56baf969761eed7730089ce22d8&amp;chksm=9b611fedac1696fb97736d5728339cc303661e1146294a1296b5aaf22cdde1252674d4748708&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 04 May 2024 01:44:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-04T01:44:44Z</dc:date>
     </item>
     <item>
       <title>雷军救不了理想 L6</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342642&amp;idx=2&amp;sn=993d8ef156cc45608364d62ebaecac7d&amp;chksm=9b611fedac1696fb6bf28ba290b9f06d75e207b5bf9dce950e05c0390bb09ee492c949c84c8c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 04 May 2024 01:44:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-04T01:44:44Z</dc:date>
     </item>
     <item>
       <title>茶百道、华莱士就空包事件回应/库克：Vision Pro 在企业中大受欢迎/​OpenAI下周或发布ChatGPT版搜索引擎</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342633&amp;idx=1&amp;sn=43e66d9608bd2c84ac2c9da0c735069f&amp;chksm=9b611ff6ac1696e025336afdc9ee67929ae5991cb238ddd73086b9774955f8316e712b02a91a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 04 May 2024 01:02:54 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-04T01:02:54Z</dc:date>
     </item>
     <item>
       <title>新 iPad 下周就来，准备官宣 AI 的苹果，怎么卖不动 iPhone 了？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342622&amp;idx=1&amp;sn=c9b13f90bc43df3530eaf6685ec004f2&amp;chksm=9b611fc1ac1696d7628f382ea0f3e0148520790d02256b27fe296c6eec29169a75179a394180&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 03 May 2024 03:08:15 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-03T03:08:15Z</dc:date>
     </item>
     <item>
       <title>库克：上季度中国大陆的 iPhone 销量实现增长/990 万拍下周鸿祎迈巴赫当事人：已完成支付/小米回应大压铸自研问题</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342580&amp;idx=1&amp;sn=415e3272ba916c92171328e107af8a75&amp;chksm=9b611fabac1696bd9969c2383e9f96bab5152f295fbc772c3df5701ac74b842eae6da0295e25&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 02 May 2024 23:46:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-02T23:46:29Z</dc:date>
     </item>
     <item>
       <title>周鸿祎回应「迈巴赫中标者未付清余款」/鸿蒙智行连续 4 个月获新势力月销第一/OpenAI 遭八家新闻机构起诉</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342482&amp;idx=1&amp;sn=abc8fc8c5258db3c001e66ae33419138&amp;chksm=9b611e4dac16975b9f2152a26e8e5f64410949955f6b5c98c1c2ee63f8b7997b3c020e4e9f10&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 02 May 2024 00:58:06 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-02T00:58:06Z</dc:date>
     </item>
     <item>
       <title>狂卖 10 万台的最火 AI 硬件，只是给 Android 应用造了个壳？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342461&amp;idx=1&amp;sn=cb939537c1c53c0a5105a70b8796331b&amp;chksm=9b611e22ac16973462412201173c1298bebbd25ba83cae52cb484cab06ef2ced830a71a5569b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 01 May 2024 12:56:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-01T12:56:38Z</dc:date>
     </item>
     <item>
       <title>Rabbit R1 首批体验：不如做一款智能手表，有些地方不太对劲</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342461&amp;idx=2&amp;sn=8595f7f9fb17f97df4f89789feafa6fb&amp;chksm=9b611e22ac16973440611df9b766efd02cc59ffd23f6c9ccdd1bed1f7d0ef3b3fd4802f6a977&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 01 May 2024 12:56:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-01T12:56:38Z</dc:date>
     </item>
     <item>
       <title>消息称余承东卸任华为终端 BG CEO/特斯拉和百度地图独家深度定制车道级高辅地图/苹果挖走 Google 员工建立人工智能团队</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342425&amp;idx=1&amp;sn=4c8aa731eb15f751f74160a440f8815d&amp;chksm=9b611e06ac169710de6833028129f445d6a975f6966176d56075be2673ad8c1cab5d9fc9b5a4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 01 May 2024 00:37:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-01T00:37:33Z</dc:date>
     </item>
     <item>
       <title>苹果首次公布开源大模型，加紧和OpenAI谈判，我们从中找到了AI iPhone的细节</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342353&amp;idx=1&amp;sn=2683feb5386784cfb0700ff2473a9739&amp;chksm=9b611eceac1697d887c42a33d844a20b9246fa4b32761c2ea045cfb1a216d8b1913f39add272&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 11:26:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T11:26:07Z</dc:date>
     </item>
     <item>
       <title>AI 不仅会画画，还能造车</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342353&amp;idx=2&amp;sn=bd0a15d9bcb629eeff7a85001fb9194f&amp;chksm=9b611eceac1697d80cab982efab16e9b900aaf110ef86dc2cee2cb36cf53db5494b9f3f99b38&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 11:26:07 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T11:26:07Z</dc:date>
     </item>
     <item>
       <title>1999 元就能买到旗舰体验，为什么现在的千元机卷成这样？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342351&amp;idx=1&amp;sn=8f20a11e2f012dc36907b37c07d40548&amp;chksm=9b611ed0ac1697c6236e4373203f9652af270df547b10ef8a06135b46efa0ec18dcfd78c502f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 08:49:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T08:49:05Z</dc:date>
     </item>
     <item>
       <title>新 iPad Pro 会用上 M4 芯片？我们发现了这些新细节</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342351&amp;idx=2&amp;sn=eff062d2dfb93cbeb7dcc55a4b3bce23&amp;chksm=9b611ed0ac1697c661d75b528236680edcd94c001be93203eb9ef1f5d580160854e4698c21c2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 08:49:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T08:49:05Z</dc:date>
     </item>
     <item>
       <title>全国首展！inG 游戏艺术节 2024 招募开启！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342084&amp;idx=1&amp;sn=30d82cc355ddc69278e30b21d6d880a0&amp;chksm=9b6111dbac1698cd73b51a3691a5a4b3b2324eec605155fb207c597312c4ad17dba6118a83af&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 04:16:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T04:16:29Z</dc:date>
     </item>
     <item>
       <title>GPT-4.5 疑似提前泄露，Sam Altman 在线「吃瓜」| 附体验链接</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342084&amp;idx=2&amp;sn=5b5170ad21fd5dd120f9656dac573be2&amp;chksm=9b6111dbac1698cd0c983ee9f453ce4a4eb1e01e5163226bac408945e50d953adbaa04a16248&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 04:16:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T04:16:29Z</dc:date>
     </item>
     <item>
       <title>特斯拉和百度地图独家深度定制车道级高辅地图曝光， FSD 或很快落地中国</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342084&amp;idx=3&amp;sn=c7d99b21ee15fb15f63cc8abc37bf2ad&amp;chksm=9b6111dbac1698cd14ed2d78464395f6ba1c63bfbf677fe644b8b0bc2470cfd874b0c3d902d3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 04:16:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T04:16:29Z</dc:date>
     </item>
     <item>
       <title>​特斯拉中国版FSD或与百度合作/高合最晚将在 5 月初正式复工复产/小红书内测自研大模型「小地瓜」</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652342018&amp;idx=1&amp;sn=72472d29b110e3eb40dd77f9ec80124c&amp;chksm=9b61119dac16988b04a035ce0e8dcb1aae18600f76c00bdb33e2d5ccdd4bbc4acdd64da35116&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 00:13:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T00:13:16Z</dc:date>
     </item>
     <item>
       <title>ChatGPT 的对话框过时了？这款 AI 产品提供了一种很新的聊天方式</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341835&amp;idx=1&amp;sn=5f0285dd01d581b812cb021b6d1d4ab0&amp;chksm=9b6110d4ac1699c243293be499644bba8a08badaafa75748aefe971f53332779158de02e6ff2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 08:49:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T08:49:11Z</dc:date>
     </item>
     <item>
       <title>Apple Pencil 3 即将发布，苹果想让 iPad 书写拥有纸张质感</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341835&amp;idx=2&amp;sn=19c8ac79613d9ad842e4751cc768dfa1&amp;chksm=9b6110d4ac1699c2ceceeaf3ff5462159d7a86c23f68dbd428df3ab35b3155a6442a289c4cbd&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 08:49:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T08:49:11Z</dc:date>
     </item>
     <item>
       <title>国产机器人能跑起来了！世界首个，小米有份</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341835&amp;idx=3&amp;sn=2d1086ca3022f2ff5d17fdcdeec3ba6f&amp;chksm=9b6110d4ac1699c2336947bbe30c7b40ecd7dce2bc046e410b10e42361bdb538082910b0b5db&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 08:49:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T08:49:11Z</dc:date>
     </item>
     <item>
       <title>问界回应车辆起火司乘 3 人遇难一事/马斯克访华，各地将解除对特斯拉禁停禁行限制/小米辟谣已规划三款 SUV 车型</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341718&amp;idx=1&amp;sn=f00c35b95f09c8b43e866202f43dce69&amp;chksm=9b611349ac169a5f409991117cc8c9cf7f42eb105f0f3001f00816b0376763fd6b9f9c3a9c4c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 00:19:48 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T00:19:48Z</dc:date>
     </item>
     <item>
       <title>看完北京车展，我感到了一股巨大的「推背感」</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341707&amp;idx=1&amp;sn=42af3788f599f61b1c3b316836760ad0&amp;chksm=9b611354ac169a426d3a64131e60756b030b0a87b72de76c39223c33dcd692b68a7257e8033c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 11:57:55 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T11:57:55Z</dc:date>
     </item>
     <item>
       <title>看完这 13 款新车，国产高端是真成了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341707&amp;idx=2&amp;sn=39c5836bc6dc50ae9408c25b4f5f2d09&amp;chksm=9b611354ac169a422526e1c0b991e9ea5a157069038bc1bedad1f2e3b6c50753bda4b4b2a236&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 11:57:55 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T11:57:55Z</dc:date>
     </item>
     <item>
       <title>全面电动化！北京车展的 BBA 新车加速上电</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341707&amp;idx=3&amp;sn=76583c8ed9e80e26c9f3ebdae920a7eb&amp;chksm=9b611354ac169a42f587f812eebd21498738ec0c412369fdd319b1d6979d6f4a3453811fa9bf&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 11:57:55 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T11:57:55Z</dc:date>
     </item>
     <item>
       <title>苹果加紧与 OpenAI 的谈判/小米高管辟谣雷军被李想锁车里/微信文件3小时内可撤回</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341588&amp;idx=1&amp;sn=610f2c4cbb20e61ba22248b5bc98e531&amp;chksm=9b6113cbac169add9a5aad960335233da4c3d9e80912eda0959d38fe2a25e624ff242e4c3db4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 00:00:53 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T00:00:53Z</dc:date>
     </item>
     <item>
       <title>这副差点失败的智能眼镜，怎么就成了爆款？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341579&amp;idx=1&amp;sn=9b71a159fea8d59d7ad5d95b04b8b3eb&amp;chksm=9b6113d4ac169ac2426d25e097700ee532c48f61ef29f595cfc2db35f5f7ae81703e78af7602&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 14:37:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T14:37:26Z</dc:date>
     </item>
     <item>
       <title>北京车展｜纯电大G全球首秀，四电机越野越奔驰</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341579&amp;idx=2&amp;sn=346aca4ceff98c9836e76e669e86cee9&amp;chksm=9b6113d4ac169ac2b6a20f0767909126ad10f2e23517ca5c1f520d4b771194ae3eb85ba8b5f0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 14:37:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T14:37:26Z</dc:date>
     </item>
     <item>
       <title>北京车展｜BMW 新世代概念车亮相，宝马未来理念表达</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341579&amp;idx=3&amp;sn=d57d5b85d1d5c216e9b0adbcd95165bf&amp;chksm=9b6113d4ac169ac2e91465e3e9e5d1a93127f51ec4ce8fc702850c0d27569de34084a5b60a7e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 14:37:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T14:37:26Z</dc:date>
     </item>
     <item>
       <title>北京车展｜29.98 万元起，国产福特烈马发布</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341579&amp;idx=4&amp;sn=8ef4e63e7c1fea28cd46a189d8abde29&amp;chksm=9b6113d4ac169ac26779bce30c446bee367bcbcb28f50a883b3509df3e1a9a91677b644feee0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 14:37:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T14:37:26Z</dc:date>
     </item>
     <item>
       <title>华为重夺中国大陆智能手机市场第一/Altman 称 GPT-5 性能远超 GPT-4/OPPO 回应暂停 XR 探索一事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341450&amp;idx=1&amp;sn=1b1e38ad75f9a3d5697e0e06419dbd6b&amp;chksm=9b611255ac169b4336c8925aed6955493af59810c18df20745686d64c70ec9ab1fa5152cd1c8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 12:38:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T12:38:24Z</dc:date>
     </item>
     <item>
       <title>北京车展｜腾势 Z9 GT 揭开面纱，千匹马力「易三方」</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341450&amp;idx=2&amp;sn=0d96aae03e7198b332c58cc342c9600f&amp;chksm=9b611255ac169b4373acacf7d1e1f59c63fabf9393842756397ff72310ca24f0642e3e37ac0a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 12:38:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T12:38:24Z</dc:date>
     </item>
     <item>
       <title>北京车展｜保时捷 Macan EV &amp; 保时捷新 Taycan：纯电性能标杆</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341450&amp;idx=3&amp;sn=65bc6736e7bdd743d3af34c531c65341&amp;chksm=9b611255ac169b432d826848c95d37b0eb88545e4f1df1fa553aabccd4fcb700b08a118d884b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 12:38:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T12:38:24Z</dc:date>
     </item>
     <item>
       <title>ChatGPT 之父最新演讲：GPT-5 聪明程度超乎想象，一大批 AI 公司的努力将毫无意义</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341402&amp;idx=1&amp;sn=2c5067a52903630ca716f1264059f46b&amp;chksm=9b611205ac169b13aac2571cfb0e0ae5ea615933b1ef9c368983eb4d75bfb0e2647debfedd1f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 11:17:01 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T11:17:01Z</dc:date>
     </item>
     <item>
       <title>北京车展 | 极氪 MIX 实拍，「宝宝巴士」来了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341402&amp;idx=2&amp;sn=078fa3bc7fd50adf69244500c580f6f9&amp;chksm=9b611205ac169b1340d616c47313618cb4cb6f7b5d8249910f40894c3828448e56c8598d6eb4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 11:17:01 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T11:17:01Z</dc:date>
     </item>
     <item>
       <title>北京车展 | 享界 S9 首发亮相！华为设计的行政级豪华轿车</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341402&amp;idx=3&amp;sn=6d74ae4a5c02cf09b99624ab61bc35b9&amp;chksm=9b611205ac169b13c1f8c23a8771bdcf86eace3d9445ba62bcdc692211767d57f535018b7b68&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 11:17:01 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T11:17:01Z</dc:date>
     </item>
     <item>
       <title>北京车展 | 售价或超百万！比亚迪仰望 U7 首发云辇-Z，悬架可为电池充电</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341402&amp;idx=4&amp;sn=ba794a3205c80d64c18e1bba141984e9&amp;chksm=9b611205ac169b13ccdb3fcbfe2bbf4aaac854383b409b088214e39f93a13650a978c06a8306&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 11:17:01 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T11:17:01Z</dc:date>
     </item>
     <item>
       <title>北京车展 | 超跑 SUPER 9 细节实拍！方程豹全矩阵亮相北京车展</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341402&amp;idx=5&amp;sn=8f33b8cd5b364c89d05acca5b0f8d1c4&amp;chksm=9b611205ac169b134a6dacd6dc1438c466fd275e3defd1be1d5fe65730f0785c2fcc23bc76d4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 11:17:01 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T11:17:01Z</dc:date>
     </item>
     <item>
       <title>北京车展 | 风阻系数 0.198 的极越 07，争当「最美 7 系」</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341402&amp;idx=6&amp;sn=d00f145cf4795f8d4bbb6137976c9c67&amp;chksm=9b611205ac169b130e4ef3f53cde47d0cc02435319171b3f18f4fc0006f9d9909a4973892738&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 11:17:01 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T11:17:01Z</dc:date>
     </item>
     <item>
       <title>五天销量破 2 万，号称最小的​ AI 穿戴设备，会是下一个 Ai Pin 吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341064&amp;idx=1&amp;sn=215518f5306ab9aa48c49936a0227846&amp;chksm=9b6115d7ac169cc168ae3a735fdd1af9145afd2ea79f4efb2222c4fd3a96deece24d8410daab&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 02:12:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T02:12:37Z</dc:date>
     </item>
     <item>
       <title>为了拍中国空间站，我们造了一个追星星的厨房</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341064&amp;idx=2&amp;sn=25f5946784077f9163eed173d74a9d45&amp;chksm=9b6115d7ac169cc1aeae1cd4c15e247472dbb1bcb492af40b41bae35217345f0a4edef5f8bda&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 02:12:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T02:12:37Z</dc:date>
     </item>
     <item>
       <title>smart 再也不「小」了，全新精灵#5 概念车北京车展首次亮相</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341064&amp;idx=3&amp;sn=073b99dc5c370e000594efc00f9d4960&amp;chksm=9b6115d7ac169cc16be3a4f7a8e1d5e47aa68cc6689d81852c8216bd22e0c0c914d1319c9e38&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 02:12:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T02:12:37Z</dc:date>
     </item>
     <item>
       <title>小米汽车 SU7 锁单量超 75723 台/新加坡成亚洲首个试水四天工作制国家/字节跳动称没有出售 TikTok 的计划</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341063&amp;idx=1&amp;sn=e3f90102cc36f298c5e7698325936f2d&amp;chksm=9b6115d8ac169cce853e2ec88f1bf214705ee670d4690b20cc0f4851590dc900b4b9a26a23aa&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 00:31:51 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T00:31:51Z</dc:date>
     </item>
     <item>
       <title>宁德时代发布神行 PLUS，1000km 续航，10 分钟补能 600 公里</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341063&amp;idx=2&amp;sn=07e9c4ef845107607527e645d12f1c36&amp;chksm=9b6115d8ac169cce092497028e0eec5c8920206797abfd3f61a8fb774737b05d728a1c88c36c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 00:31:51 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T00:31:51Z</dc:date>
     </item>
     <item>
       <title>极氪发布浩瀚-M 架构，家庭全场景大五座极氪 MIX 全球首秀</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341063&amp;idx=3&amp;sn=09564682726208fa89346cda51baa239&amp;chksm=9b6115d8ac169cce58628f282c03228ce437c812dbcb584db0c00f08a87ed0ce124ef32a0f25&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 00:31:51 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T00:31:51Z</dc:date>
     </item>
     <item>
       <title>黄仁勋每天都用的 AI 产品，来自 Google，颠覆 Google</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341044&amp;idx=1&amp;sn=02ac2e4428cb93fdde791b2b29d9069c&amp;chksm=9b6115abac169cbdde32757ab2bf2ba4b8cf5227d77f93ce6b250b969b2a26bb47326d91d40a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 12:30:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T12:30:24Z</dc:date>
     </item>
     <item>
       <title>路特斯和蔚来达成了重磅合作，还宣布了一个新品牌</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341044&amp;idx=2&amp;sn=ff7733c3fa5bcd1a282fa38264810839&amp;chksm=9b6115abac169cbd14d8a87686ebfee14da900f05b69a99b5cfc821036bf87a8ba6b0911de07&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 12:30:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T12:30:24Z</dc:date>
     </item>
     <item>
       <title>吉利银河又发布了一款原型车「银河星舰」，AI 成了造车关键词</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341044&amp;idx=3&amp;sn=6ea2e15cf1e78914a9e38ca2ecd61ebb&amp;chksm=9b6115abac169cbd7abd8d8ceec4b304c97713c366e34954b67d390d96ab00c47d2d819c97e8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 12:30:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T12:30:24Z</dc:date>
     </item>
     <item>
       <title>小鹏 X9 AI 定义再进化，AI 天玑系统首发，新品牌 MONA 将于 6 月推出</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652341044&amp;idx=4&amp;sn=5a5c9257e9805a85013ea6e4a5a9df93&amp;chksm=9b6115abac169cbd57ad52b68b12ae05391a7364879e83071be10014d11e627a11738fc55938&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 12:30:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T12:30:24Z</dc:date>
     </item>
     <item>
       <title>华为设计的享界S9，重新定义行政级豪华旗舰</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340760&amp;idx=1&amp;sn=876b52f54e30b60ee0c28ba1e5e4dbef&amp;chksm=9b611487ac169d91ebce3b3c09e3fd7de460aabe98ab98e717e2fbd83f93e7bf990372e44016&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 09:52:59 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T09:52:59Z</dc:date>
     </item>
     <item>
       <title>高通 X Plus 芯片发布，性能超越 M3，AI 能力是亮点</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340760&amp;idx=2&amp;sn=5f8bee0d4f19eb138093253bbafca747&amp;chksm=9b611487ac169d91847364ad4c29f2fa77e937a3494e061f3860886f5c9ecde6b5ffe8380453&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 09:52:59 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T09:52:59Z</dc:date>
     </item>
     <item>
       <title>宝马 MINI 继续电动化，全球首发纯电车型 MINI Aceman</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340760&amp;idx=3&amp;sn=1aabd0bb639efaa7a61b7d68559318d4&amp;chksm=9b611487ac169d9196302715bdaf86756723133a88381c58768b8b74cb554d5ab60cce7febd7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 09:52:59 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T09:52:59Z</dc:date>
     </item>
     <item>
       <title>特斯拉被曝毁约应届生/小米或将在 2025 年推出纯电 SUV /​华为发布全新智能汽车解决方案品牌</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340531&amp;idx=1&amp;sn=26c8acfa1b343dcafdc4c7ab317fc382&amp;chksm=9b6117acac169ebab56482d33f73ac54fc3a9f4ab2eeca1d26d4453f45d68d1d714541c57cce&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 00:14:48 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T00:14:48Z</dc:date>
     </item>
     <item>
       <title>这 26 款车，就是 2024 北京车展最好看的！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340515&amp;idx=1&amp;sn=edaf20067fc147e105249c26707f1d8d&amp;chksm=9b6117bcac169eaaff3c1aac406f0ba022ed15ff42a6be0ba160534cfe12324e05043b4a385f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 07:24:40 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T07:24:40Z</dc:date>
     </item>
     <item>
       <title>顶配车钥匙？超简约的极星手机开箱上手</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340515&amp;idx=2&amp;sn=8e1bc53dc5cdeedc23680946841a752a&amp;chksm=9b6117bcac169eaaa5cc396f4c8e2a7f812c6861e6764028a4a2ca52c565a7aa1400b496a920&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 07:24:40 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T07:24:40Z</dc:date>
     </item>
     <item>
       <title>特斯拉交出十二年来最惨战绩，马斯克称正加快推出更便宜车型</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340504&amp;idx=1&amp;sn=c9fd70b47be3bd65bbc7444e909ed13a&amp;chksm=9b611787ac169e91d65fa90bcc696cd2faddcab34a3fcba8c3e2283e29d410c245d83015028e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 00:55:22 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T00:55:22Z</dc:date>
     </item>
     <item>
       <title>iPhone 16 或采用全新压感按键，新增拍摄按钮</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340504&amp;idx=2&amp;sn=622452d5701fc1ca4fba8ccff0855991&amp;chksm=9b611787ac169e91aa6c98a158e5e40fb6cd49feb5eec98296da941fc69024f55629efb24cb3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 00:55:22 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T00:55:22Z</dc:date>
     </item>
     <item>
       <title>Meta 开放 MR 操作系统，会成为头显界的 Windows 吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340504&amp;idx=3&amp;sn=1696204ce7d27c6618c859d04f029151&amp;chksm=9b611787ac169e91f3ab00fcac94ddaaca8c29ca042da39e8a5b0e6edfcf275081c4c118d905&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 00:55:22 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T00:55:22Z</dc:date>
     </item>
     <item>
       <title>苹果 5 月 7 日举行发布会，或带来新 iPad /问界新 M5 正式上市/警方介入理想 MEGA 遭水军攻击事件</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340469&amp;idx=1&amp;sn=ad3253d8ebcd1a8e97a8feb8df0688aa&amp;chksm=9b61166aac169f7c2c70f947eb1b4ef3b439aece85ddfedacfd28d1602334e92fbc93445542b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 00:07:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T00:07:20Z</dc:date>
     </item>
     <item>
       <title>Sam Altman 投资的这个社交应用，怎么成了硅谷的新宠</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340327&amp;idx=1&amp;sn=f89132f25b3209b648b7687da595eb54&amp;chksm=9b6116f8ac169fee58a0bb84d2395edd2cdd045bf39c76470864bc7e9c64e2e5e476b55c1dce&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 11:44:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T11:44:14Z</dc:date>
     </item>
     <item>
       <title>中外 4 款手机实测对比，谁的 AI 消除更领先？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340327&amp;idx=2&amp;sn=195d323935db84fb0df5b4a11f314a7c&amp;chksm=9b6116f8ac169fee5964c7ff9f2f0c1a8ed057380d261070feae5a22776c3bc50ce782e081a6&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 11:44:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T11:44:14Z</dc:date>
     </item>
     <item>
       <title>华为 Pura 70 / Pro+ 开售/ 雷军称着急购车可考虑智界蔚来小鹏/ 理想汽车宣布降价</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340107&amp;idx=1&amp;sn=742585dc6c28f6dcc2cf1d6942961d37&amp;chksm=9b61e914ac166002990080a87cb39fb8f612c1f9e289d72a9118065a50abbb0a163ee0f180bb&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 00:04:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T00:04:03Z</dc:date>
     </item>
     <item>
       <title>华为 Pura70 Ultra，为什么能卖 10000 元？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340094&amp;idx=1&amp;sn=c829db5d2f7bc968c770788f2ae8531a&amp;chksm=9b61e9e1ac1660f770044dc9c090cca0c5787dfa6d9fe411e4f63ee3d02e8ec0b088d42b0739&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 22 Apr 2024 11:32:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-22T11:32:33Z</dc:date>
     </item>
     <item>
       <title>苹果听劝了？备受吐槽的配件被曝停产</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652340094&amp;idx=2&amp;sn=d69a0f9d7e44978d0160b1519153fe3a&amp;chksm=9b61e9e1ac1660f7d5e08a34e840deb92db770ad83f9f80cfe9b3d7a426ffc7efbe61419e27f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 22 Apr 2024 11:32:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-22T11:32:33Z</dc:date>
     </item>
     <item>
       <title>特斯拉中国全系降价/极氪副总裁称不会跟进降价/苹果 Apple Watch X 智能手表渲染图曝光</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339887&amp;idx=1&amp;sn=d502c9f90cee0f714d67fb3353fbedb3&amp;chksm=9b61e830ac166126241a37ca7ba57ec29ebc369b2caaa98086c972cda79548bab939994f851f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 21 Apr 2024 23:43:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-21T23:43:33Z</dc:date>
     </item>
     <item>
       <title>怕你的手机太好玩，它们做了款「无聊手机」| Feel Good 周报</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339874&amp;idx=1&amp;sn=947a7d8f449f47b5b30f84d441b07f5f&amp;chksm=9b61e83dac16612bb39bf7e7a170925a639a8e168806dd5ab8fe9987494ee7a4a154370546ed&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 21 Apr 2024 10:35:53 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-21T10:35:53Z</dc:date>
     </item>
     <item>
       <title>拍下苹果 Vision Pro 最美 X 光图的公司，「iPod 之父」也有投资</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339779&amp;idx=1&amp;sn=62c009d772572a153ec8b5562527402b&amp;chksm=9b61e8dcac1661ca3dead7a5b83925252da61b195754f8fda976635e9b7317debd5201312e52&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 20 Apr 2024 05:24:52 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-20T05:24:52Z</dc:date>
     </item>
     <item>
       <title>12.9 英寸 iPad Air，曝出将使用 Mini-LED 屏幕，下月或亮相</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339779&amp;idx=2&amp;sn=0a91decd16f08fca3f218f7013e280d1&amp;chksm=9b61e8dcac1661cad2ba128ce4d09cec19737f195bb5bc9c098157b5eb5744ac4dbc5cb09d2d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 20 Apr 2024 05:24:52 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-20T05:24:52Z</dc:date>
     </item>
     <item>
       <title>特斯拉大调整：All in 带来的灾难，用再一次 All in 解决</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339728&amp;idx=1&amp;sn=38a28addd3c54684d3d985f210a99094&amp;chksm=9b61e88fac166199464538624d63922d069538637d03723a07595697d9fbd740c6a3b1c96174&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 23:59:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T23:59:38Z</dc:date>
     </item>
     <item>
       <title>Marshall Major V 体验：100 小时续航！目前佩戴最舒服、续航最夸张的贴耳式头戴耳机</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339728&amp;idx=2&amp;sn=16b8fefc51b57bb1241f792f500c114a&amp;chksm=9b61e88fac166199307c7f96e481de4588398feadee3151bf4decf7060bc15eecda76d36fe81&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 23:59:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T23:59:38Z</dc:date>
     </item>
     <item>
       <title>苹果要给 HomePod 装上显示屏？新盖板曝光</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339728&amp;idx=3&amp;sn=fedeb4ebf144c8c517ea71b1a5cb5060&amp;chksm=9b61e88fac166199ff5bfc610956346a6e2c87e64557b68e57ef8b7d427602711a96b257da9d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 23:59:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T23:59:38Z</dc:date>
     </item>
     <item>
       <title>机构预测华为今年重回国内手机市场第一/美团CEO点评理想 L6/12.9 英寸 iPad Air 或搭载 mini-LED 屏幕</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339688&amp;idx=1&amp;sn=f48bc6cd0541ae81115f69100024cd8a&amp;chksm=9b61eb77ac16626154868bf97e0276665d9270931a5f3121b88186b64efcdc412b766185065c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 15:10:36 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T15:10:36Z</dc:date>
     </item>
     <item>
       <title>云鲸逍遥001扫拖机器人：把「净」这件事细分一下</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339672&amp;idx=1&amp;sn=80e4e21bcd261998309cd9121e2c2a3c&amp;chksm=9b61eb47ac1662518177fbf07af2e76aa1204ca90597788bc675cfaef790792ee4be46e5e20d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 07:54:52 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T07:54:52Z</dc:date>
     </item>
     <item>
       <title>24.98 万起的理想 L6 ，能否帮李想拉 MEGA 一把？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339672&amp;idx=2&amp;sn=85848312e5c93aa4b7cde468d4e33a6a&amp;chksm=9b61eb47ac1662511303b26f508436894d50b9dd06cee3fc8444d93179388577ed40473e6e2b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 07:54:52 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T07:54:52Z</dc:date>
     </item>
     <item>
       <title>九阳 30 年，为什么要「致敬伟大的小问题」？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339593&amp;idx=1&amp;sn=411f6f9dc0c6562fa522255a3bc1d39c&amp;chksm=9b61eb16ac166200520077eb0db24587edfc7a360958c966d43cd62aa292bafa5453a9ba903d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 02:14:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T02:14:35Z</dc:date>
     </item>
     <item>
       <title>一分钟，看懂华为 Pura 70 Ultra 的伸缩镜头</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339593&amp;idx=2&amp;sn=1db5eba3a89b61fd857ff102340583ca&amp;chksm=9b61eb16ac16620061cd311be9ee8687ae782456dc4c7849ebf2f06ad373fb61237e08e741e3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 02:14:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T02:14:35Z</dc:date>
     </item>
     <item>
       <title>华为 Pura 70 系列上架即售罄/Meta 发布全球最强开源大模型/理想汽车 L6 发布</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339466&amp;idx=1&amp;sn=e3fd436b43e7a355fa233c4c325a06f5&amp;chksm=9b61eb95ac1662830f00f418bd7620be5c648e54eb8d926523b0b98e760d3e705b555cec7aee&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 00:35:45 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T00:35:45Z</dc:date>
     </item>
     <item>
       <title>最强开源大模型深夜炸场！ Llama 3 王者归来，直逼 GPT-4， 马斯克点赞 | 附体验链接</title>
       <link>https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=2652339466&amp;idx=2&amp;sn=9c907aaba4e892c4d80c5c18d9ff271a&amp;chksm=9b61eb95ac16628336601cef6494bc62c5949878739b9af12ad12c6ba55d562ec9269aeb6cc8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 00:35:45 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T00:35:45Z</dc:date>
     </item>
   </channel>
 </rss>
