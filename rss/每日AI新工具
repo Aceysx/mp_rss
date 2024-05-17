@@ -1,256 +1,680 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>每日AI新工具</title>
     <link>https://github.com/Aceysx/mp_rss</link>
     <description>AI工具介绍，AI工具教程，AI最新资讯</description>
     <language>zh-cn</language>
     <pubDate>Sun, 05 May 2024 09:38:14 GMT</pubDate>
-    <lastBuildDate>Sun, 05 May 2024 09:38:14 GMT</lastBuildDate>
-    <ttl>5</ttl>
+    <dc:date>2024-05-05T09:38:14Z</dc:date>
+    <dc:language>zh-cn</dc:language>
     <image>
       <title>每日AI新工具</title>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM73rBmic4g36GxKbWbIZP5znbBxkqicHaIsum27pMhVpXeA/0</url>
     </image>
     <item>
+      <title>未来的语音AI模型会更像你的同事chatter；开源Chrome扩展用来总结网页内容或进行对话；为任何扩散模型添加多语言生成能力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>谷歌 I/O 2024大会全面硬刚OpenAI;腾讯宣布旗下的混元文生图大模型;阿里巴巴技术下的AI自动视频剪辑工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GPT-4o让世界再次明亮起来；不超过25美元让普通眼镜变智能；PDF自动化翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Poetry Camera照相机将照片转换成诗歌并打印出来；吴恩达新课程深入了解Mistral；科学研究AI小助手</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Shaw Talebi：十五分钟的入门大模型提示词工程</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>发布GPT-5的方式可能会与以往不同；开源vocode使用 AI 自动拨打电话；开源gpt智能对话客服工具；AI自动写提示词</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>使用LlamaIndex构建能对文档进行推理;大模型自动执行基于浏览器的工作流;ElevenLabs宣布进军音乐创作领域</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>为何预测预测蛋白质结构这么重要AlphaFold 3；阿里巴巴的开源语音转文字；抱抱脸开源LeRobot；开源天气模型运行工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>新加坡提示工程大赛冠军提示词框架；粘土制作的梵高世界；实时自由地转换您的声音Supertone;几秒钟内设计出令人惊叹的LOGO</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI API搭建的智能家居助手;私密大型语言模型(LLM)聊天机器人;视频和音频文件的自动化识别和翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大模型模型简化机器人训练；简单易用的 3D 工具Project Neo；特斯拉放出了擎天柱机器人最新训练视频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>支持LLM的Markdown笔记；ComfyUI-HiDiffusion图片生成和对图像进行高质量编辑</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>未来的语音AI模型会更像你的同事chatter；开源Chrome扩展用来总结网页内容或进行对话；为任何扩散模型添加多语言生成能力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>谷歌 I/O 2024大会全面硬刚OpenAI;腾讯宣布旗下的混元文生图大模型;阿里巴巴技术下的AI自动视频剪辑工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GPT-4o让世界再次明亮起来；不超过25美元让普通眼镜变智能；PDF自动化翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Poetry Camera照相机将照片转换成诗歌并打印出来；吴恩达新课程深入了解Mistral；科学研究AI小助手</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Shaw Talebi：十五分钟的入门大模型提示词工程</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>发布GPT-5的方式可能会与以往不同；开源vocode使用 AI 自动拨打电话；开源gpt智能对话客服工具；AI自动写提示词</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>使用LlamaIndex构建能对文档进行推理;大模型自动执行基于浏览器的工作流;ElevenLabs宣布进军音乐创作领域</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>为何预测预测蛋白质结构这么重要AlphaFold 3；阿里巴巴的开源语音转文字；抱抱脸开源LeRobot；开源天气模型运行工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>新加坡提示工程大赛冠军提示词框架；粘土制作的梵高世界；实时自由地转换您的声音Supertone;几秒钟内设计出令人惊叹的LOGO</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI API搭建的智能家居助手;私密大型语言模型(LLM)聊天机器人;视频和音频文件的自动化识别和翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大模型模型简化机器人训练；简单易用的 3D 工具Project Neo；特斯拉放出了擎天柱机器人最新训练视频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>支持LLM的Markdown笔记；ComfyUI-HiDiffusion图片生成和对图像进行高质量编辑</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>未来的语音AI模型会更像你的同事chatter；开源Chrome扩展用来总结网页内容或进行对话；为任何扩散模型添加多语言生成能力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>谷歌 I/O 2024大会全面硬刚OpenAI;腾讯宣布旗下的混元文生图大模型;阿里巴巴技术下的AI自动视频剪辑工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GPT-4o让世界再次明亮起来；不超过25美元让普通眼镜变智能；PDF自动化翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Poetry Camera照相机将照片转换成诗歌并打印出来；吴恩达新课程深入了解Mistral；科学研究AI小助手</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Shaw Talebi：十五分钟的入门大模型提示词工程</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>发布GPT-5的方式可能会与以往不同；开源vocode使用 AI 自动拨打电话；开源gpt智能对话客服工具；AI自动写提示词</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>使用LlamaIndex构建能对文档进行推理;大模型自动执行基于浏览器的工作流;ElevenLabs宣布进军音乐创作领域</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>为何预测预测蛋白质结构这么重要AlphaFold 3；阿里巴巴的开源语音转文字；抱抱脸开源LeRobot；开源天气模型运行工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>新加坡提示工程大赛冠军提示词框架；粘土制作的梵高世界；实时自由地转换您的声音Supertone;几秒钟内设计出令人惊叹的LOGO</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI API搭建的智能家居助手;私密大型语言模型(LLM)聊天机器人;视频和音频文件的自动化识别和翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大模型模型简化机器人训练；简单易用的 3D 工具Project Neo；特斯拉放出了擎天柱机器人最新训练视频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>支持LLM的Markdown笔记；ComfyUI-HiDiffusion图片生成和对图像进行高质量编辑</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>未来的语音AI模型会更像你的同事chatter；开源Chrome扩展用来总结网页内容或进行对话；为任何扩散模型添加多语言生成能力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487227&amp;idx=1&amp;sn=0acc1a64318137e43bc5a8f4b5b372d2&amp;chksm=e8fb9317df8c1a01bf481230edb903412f5b930aa7f4d67f8a777621442b5a92e17d8d84a3af&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>谷歌 I/O 2024大会全面硬刚OpenAI;腾讯宣布旗下的混元文生图大模型;阿里巴巴技术下的AI自动视频剪辑工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487193&amp;idx=1&amp;sn=f28f524e82bb7800a2c9a8a62d1d07ac&amp;chksm=e8fb9335df8c1a23901b9d938344c696fac2d9e119d543f26bafde4b2122a019e183c3198613&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GPT-4o让世界再次明亮起来；不超过25美元让普通眼镜变智能；PDF自动化翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487162&amp;idx=1&amp;sn=c304983216b6977a5c3814a4dc824f8e&amp;chksm=e8fb9356df8c1a40a9a0179a9e8685a4ae242b0e427d728681127602792ac7c54a208b60157e&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Poetry Camera照相机将照片转换成诗歌并打印出来；吴恩达新课程深入了解Mistral；科学研究AI小助手</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487128&amp;idx=1&amp;sn=42aea44e3afdb2ef2bfc2c51d2cfb798&amp;chksm=e8fb9374df8c1a6207aeda4b1444b8a0599cffbe82c223c38e104afb989de314c3c58c5b3184&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Shaw Talebi：十五分钟的入门大模型提示词工程</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487088&amp;idx=1&amp;sn=f01275f04a96137363e75f3af1cae83e&amp;chksm=e8fb939cdf8c1a8a351b67015b9c092f285e2c011e3bf3bb2fd6321440a5b9fd431478cf73a7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>发布GPT-5的方式可能会与以往不同；开源vocode使用 AI 自动拨打电话；开源gpt智能对话客服工具；AI自动写提示词</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487087&amp;idx=1&amp;sn=6cc5c3d76833908fea5bf7e0e48de290&amp;chksm=e8fb9383df8c1a95b947285d7bd845a6a9d91f6257f88365177f0c146505d5f03220e2d0559f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>使用LlamaIndex构建能对文档进行推理;大模型自动执行基于浏览器的工作流;ElevenLabs宣布进军音乐创作领域</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487066&amp;idx=1&amp;sn=e5a038c447e9fe51ee82274351b9650e&amp;chksm=e8fb93b6df8c1aa0110435a99f7be4b404f55f88cb904d8d411d5d750c5a0ae893a741d4bd7d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>为何预测预测蛋白质结构这么重要AlphaFold 3；阿里巴巴的开源语音转文字；抱抱脸开源LeRobot；开源天气模型运行工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247487034&amp;idx=1&amp;sn=67628e4fe2f6116e0ebfeeae03021d32&amp;chksm=e8fb93d6df8c1ac0ed4e6f11461caee3206af774d98a9789f982b9be729e749353bd998ea170&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>新加坡提示工程大赛冠军提示词框架；粘土制作的梵高世界；实时自由地转换您的声音Supertone;几秒钟内设计出令人惊叹的LOGO</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486999&amp;idx=1&amp;sn=52962a02fde750f9cfaf0c630f272230&amp;chksm=e8fb93fbdf8c1aed197d7085701daf2649df1af0f88b159a1c01eea52e9638cd1d5e29835e1f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI API搭建的智能家居助手;私密大型语言模型(LLM)聊天机器人;视频和音频文件的自动化识别和翻译工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486971&amp;idx=1&amp;sn=e0d35addc2b1963b518762f1e568a823&amp;chksm=e8fb9017df8c1901046e2bf3cae3c21683ee7999dbb9fe661f1b46279b53b67fc5f60806a384&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大模型模型简化机器人训练；简单易用的 3D 工具Project Neo；特斯拉放出了擎天柱机器人最新训练视频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486957&amp;idx=1&amp;sn=86f658446211d83caa25ec11eb71fb2a&amp;chksm=e8fb9001df8c19174331a1486fa3a827306b8558a8948b7fa1edf91df8bd027ebee1d40d5772&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>支持LLM的Markdown笔记；ComfyUI-HiDiffusion图片生成和对图像进行高质量编辑</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486928&amp;idx=1&amp;sn=ed5fdea678a69e95b010e5e55306c9c9&amp;chksm=e8fb903cdf8c192ab8e9d11e2d24a3784b7a0dffb1a211eb639a26f50e53947342356ea148b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
       <title>用自然语言即可完全控制用户界面;无需调整的文本至图片生成的ID定制方法；OpenAI构建应用指南</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486917&amp;idx=1&amp;sn=1d81dc7fdb43f7d105b9d1209ee3e5a2&amp;chksm=e8fb9029df8c193fcd7d9a2905227526caf27773491d8f0c57ec887e36fb32c04f62fbac587a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sat, 04 May 2024 09:18:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-04T09:18:37Z</dc:date>
     </item>
     <item>
       <title>区域文本提示的实时文本到图像生成;通过一致性自注意力机制的视频生成工具保持视频的一致性;专门为雪佛兰汽车设计的客服聊天机器人</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486898&amp;idx=1&amp;sn=1092b863632f02b5c7893bc5324bd550&amp;chksm=e8fb905edf8c194866a7920cce535b1ee4889adb401ed46ec62f0c97ec79f31ada95b0f09755&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 03 May 2024 12:12:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-03T12:12:20Z</dc:date>
     </item>
     <item>
       <title>通过自然语言处理执行特定任务的AI Agents；大模型控制NPC执行一系列的动作；个人化的电子邮件助手Panza</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486880&amp;idx=1&amp;sn=4b95548753290616e31150ebee33d94d&amp;chksm=e8fb904cdf8c195a35acbee29c694be030232a1acfb0d568f8d64a39d4903b4c40da1f56048c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 01 May 2024 09:31:32 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-01T09:31:32Z</dc:date>
     </item>
     <item>
       <title>用自然语言来编程GitHub Copilot；提高代码质量开源工具GPTLint；LLMs开源医学Meditron</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486860&amp;idx=1&amp;sn=bf1d11ef5b6345479a933c830762d8db&amp;chksm=e8fb9060df8c1976fecf62f332b5d9ad44d84030c45bfcf011372c129bc8019b40707d80ad50&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 07:05:49 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T07:05:49Z</dc:date>
     </item>
     <item>
       <title>照片特定风格变换Stylar AI；GPT-4V开源替代方案InternVL；纯C/C++实现的SD库;基于AI的数据爬取</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486838&amp;idx=1&amp;sn=888854af427881cddd0e8cb5d4daf536&amp;chksm=e8fb909adf8c198cc6154cb7b5b2eaca4eacde5a1dac2c2204c95b87078512c24b9f9fff1f2e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 08:38:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T08:38:14Z</dc:date>
     </item>
     <item>
       <title>CharacterAI复现版开源，创建角色、自定义主题；Perplexity AI 搜索的开源替代品；把视频内容转换成博客文章</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486815&amp;idx=1&amp;sn=243e1e532691abedd9452a9ccefbeef0&amp;chksm=e8fb90b3df8c19a5fe778c63da90bd47907c6c3d621d3f53a91b5d1bfc16d4feee011d4538e6&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 07:35:51 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T07:35:51Z</dc:date>
     </item>
     <item>
       <title>图片恢复光影效果；通过拖拽等操作编辑3D实物；Cohere开源RAG技术；智能对话客服工具ChatGPT-On-CS</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486796&amp;idx=1&amp;sn=fd340f4aad8e652e18430e94d7c87c96&amp;chksm=e8fb90a0df8c19b664be03e1e831b6e3687da077115358c9c4d00f07b7097d291842645551e2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 09:54:32 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T09:54:32Z</dc:date>
     </item>
     <item>
       <title>浓眉大眼的Apple开源OpenELM模型；IDM-VTON虚拟试衣抱抱脸免费使用；先进的语音技术，能够轻松克隆任何人的声音</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486777&amp;idx=1&amp;sn=862cb6a07a35194f8ba9e7c94134c1ab&amp;chksm=e8fb90d5df8c19c3714996aa5c7245cfc52a75fc6a0da01f127d6ce70cde6c34edb716798245&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 09:10:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T09:10:35Z</dc:date>
     </item>
     <item>
       <title>Meta智能眼镜支持多模态；微软开源phi-3-mini体验地址；将你的想法转换成代码Jemma</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486758&amp;idx=1&amp;sn=a68da112880c38c2d1d30150bd2b2828&amp;chksm=e8fb90cadf8c19dc53b726dca901462053711691bad0209c1c003df067bc8ccf05382d3c6179&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 07:11:26 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T07:11:26Z</dc:date>
     </item>
     <item>
       <title>定制自己的 AI 角色CustomChar;AI知识点和面试题;提高llama 3 的微调速度Unsloth</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486739&amp;idx=1&amp;sn=fd7a8b096477ba591c75d2640d93a1d0&amp;chksm=e8fb90ffdf8c19e9e168642af4469f634f165df0143640dcccbbf6e6b28d3ffa240d93e8b7c8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 06:10:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T06:10:29Z</dc:date>
     </item>
     <item>
       <title>照片相似性搜索引擎Embed-Photos;赋予大型语言模型（LLMs）视频和音频理解能力;OOTDiffusion基础上的换装</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486719&amp;idx=1&amp;sn=362edfd5d78b87db9740c5954101b5f4&amp;chksm=e8fb9113df8c18057ab71caa3ab33ca0d314174907510cc12fb22aac03fb6e9797b57514a28a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 22 Apr 2024 09:32:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-22T09:32:38Z</dc:date>
     </item>
     <item>
       <title>学习生成式 AI 和大型语言模型的重要资源 （LLMs）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486702&amp;idx=1&amp;sn=a2ea80e3dacc0ca1d435295794fa919c&amp;chksm=e8fb9102df8c1814b4eae1a98d2b97dd565a7d174f99f5c208372ac8261019a4da6ce00bc1c9&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 06:44:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T06:44:16Z</dc:date>
     </item>
     <item>
       <title>ComfyUI虚拟服装试穿技术MagicClothing；测测你的AI应用程序的安全性;小札专门发视频介绍</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486697&amp;idx=1&amp;sn=04931c2d8f3c9c6c245bac6fcc0eef73&amp;chksm=e8fb9105df8c1813d551e6554932b07a287ebe5982ec56e8c13f8d34e8e0ef28f533d6d5407e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 06:16:27 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T06:16:27Z</dc:date>
     </item>
     <item>
       <title>腾讯InstantMesh30秒图片生成3D模型;微软实时生成会说话的头像VASA，OpenTalker也有相似的功能</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486675&amp;idx=1&amp;sn=b70ccca86f415b0dbfb8a00d3e487b38&amp;chksm=e8fb913fdf8c1829dbe962f2a5192603c5c484147891abd1d1f7ed81135a377cd3e75a7438f5&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 18 Apr 2024 05:45:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-18T05:45:16Z</dc:date>
     </item>
     <item>
       <title>腾讯实验室推出类似 Sora 的长视频生成Mira；阿里巴巴推出强大的代码生成模型；部署自己的聊天机器人网站AIChatWeb</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486662&amp;idx=1&amp;sn=2450265007fbe83c4c0e4cbaf5445140&amp;chksm=e8fb912adf8c183caef529a934920efa949bd648295b1ef814559359814bf3bea5714fcd64e4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 17 Apr 2024 08:23:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-17T08:23:44Z</dc:date>
     </item>
     <item>
       <title>GitHub开源AI工具：聊天机器人应用程序模板；WrenAI从数据中获取洞见；模拟多个代理人（agents）之间语言互动</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486645&amp;idx=1&amp;sn=816a71e618336d9ea90fbd69bfe7ad38&amp;chksm=e8fb9159df8c184fa7d6492ccb0a21652e0924b4f72dc8530c889f7fa10806f62d1621bf857b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 16 Apr 2024 09:23:42 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-16T09:23:42Z</dc:date>
     </item>
     <item>
       <title>AI 可穿戴设备；Cohere R 免费体验地址；马斯克多模态模型grok-1.5v发布；Udio可以生成喜剧、演讲、NPC对话</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486630&amp;idx=1&amp;sn=fab3786048ef5ae9f6fc3b4e4f6332dd&amp;chksm=e8fb914adf8c185c7a42a3740ffc50d7b2ea822276c3445dc3f888924d606b4e9be6a79217f6&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 15 Apr 2024 07:02:29 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-15T07:02:29Z</dc:date>
     </item>
     <item>
       <title>Google AI生成视频实验性大模型VideoPoet四大功能;AI 50未来公司名单;Ideogram发布1.0重大升级</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486606&amp;idx=1&amp;sn=c6aa1e7e0ffbed27a06b9e8f06ad1cff&amp;chksm=e8fb9162df8c1874554844f9bd1404e5cb04ebd7ce352abb23793b57ac06d8035ca2713ca0e4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 06:02:39 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T06:02:39Z</dc:date>
     </item>
     <item>
       <title>Claude AI 可以做而 ChatGPT 做不到的 4 件事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486582&amp;idx=1&amp;sn=0fed0f702972d9c316b4052aa5ab37c8&amp;chksm=e8fb919adf8c188c861d24dc97eed7c80569d095b65b79fe4b4ff3a9f72e032de3f1bce775e0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 03:01:37 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T03:01:37Z</dc:date>
     </item>
     <item>
       <title>suno有了新对手udio炸裂音乐圈；又一个开源AI  Devin  程序员;完全开源轻量级的文本到语音可生成特定说话者的风格</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486573&amp;idx=1&amp;sn=037670432fa283b70e0ab89f8c1b2401&amp;chksm=e8fb9181df8c189750cfcb197313da93425c70b3f73b5d7c3711c013c583d95aa7560123884d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 11 Apr 2024 07:23:23 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-11T07:23:23Z</dc:date>
     </item>
     <item>
       <title>两神仙又打架同时发布新功能；花开花落的过程间流逝视频用MagicTime生成；通过详细的风格指导来控制生成图像的风格和内容</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486540&amp;idx=1&amp;sn=cc7b1b7a06b46beed15d4f4c8c7b36ed&amp;chksm=e8fb91a0df8c18b62b40469723dacbc8ad0bfc0c60f40b1451501b1e4200fe6a06a6d4eb308b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 10 Apr 2024 07:50:17 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-10T07:50:17Z</dc:date>
     </item>
     <item>
       <title>发型不满意试试开源AI换发型HairFastGAN；前OpenAI员工Karpathy1000纯C语言写完GPT-2</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486503&amp;idx=1&amp;sn=e4d7980250de5fd4259650155c5bb3f2&amp;chksm=e8fb91cbdf8c18ddd54d782994a957f90b960b83a8261682fc0de067da1ed842f456a855a258&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 09 Apr 2024 08:30:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-09T08:30:20Z</dc:date>
     </item>
     <item>
       <title>阿里通义千问开源 320 亿参数模型；文字和音频自动翻译成手语Hand Talk拉近人与人的距离</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486481&amp;idx=1&amp;sn=5db65f7ad0c7ada263580b1b64c14894&amp;chksm=e8fb91fddf8c18ebe72dd5da01df871536a268e70489bd9b44034e3f0fdc71de205714ea5322&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 08 Apr 2024 09:04:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-08T09:04:09Z</dc:date>
     </item>
     <item>
       <title>手机就能跑大模型，性能超越GPT?文本到视频生成中精确相机控制CameraCtrl;先进多语言语音识别模型Universal-1</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486452&amp;idx=1&amp;sn=8a09e0b4f1d47acce3b41e1e2c02e8a8&amp;chksm=e8fb9618df8c1f0e153a2804d23725a6148b4e2467f2f1a4f4db4736038d3b43401d922369c8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 07 Apr 2024 09:34:04 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-07T09:34:04Z</dc:date>
     </item>
     <item>
       <title>Stable Audio支持生成高品质音乐并具有音频到音频转换功能的AI工具；Claude支持Function Calling;</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486431&amp;idx=1&amp;sn=44315ad79e726c8ded8eeb80d0f4cf9e&amp;chksm=e8fb9633df8c1f255e62ca9a8f6c6b72215b7f7f281bcfbfcf056e25dd8b5535081372d9968c&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 05 Apr 2024 06:57:05 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-05T06:57:05Z</dc:date>
     </item>
     <item>
       <title>国内版Suno免费邀测，微软AI语音效果如同真人，DomoAI 一键换背景，Suno 联合创始人教你生成音乐，机器人自己叠衣服</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486400&amp;idx=1&amp;sn=2788a6c3be40d91a7657700982aa4805&amp;chksm=e8fb962cdf8c1f3a7cc2152f9ff0ec74db387a89ffcb0692ab3dc6bc334716b892839c915b8f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 03 Apr 2024 07:50:42 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-03T07:50:42Z</dc:date>
     </item>
     <item>
       <title>AI新工具 免注册使用ChatGPT 3.5;开源再发力图片生成视频MuseV；AI自动动画着色</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486371&amp;idx=1&amp;sn=1709d75761c22a1e04a05c11e0ada80d&amp;chksm=e8fb964fdf8c1f59acc5731e4f2695491db632400035e59c71b149724023d68170145cacec61&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 02 Apr 2024 08:05:55 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-02T08:05:55Z</dc:date>
     </item>
     <item>
       <title>AI新工具 继Midjourney后PixVerse也能够保持角色一致性；OpenAI可根据文本和15秒音频样本生成自然发音</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486346&amp;idx=1&amp;sn=3ffcb53c37f56b5d471f37716fd676a5&amp;chksm=e8fb9666df8c1f7013ec9b6b06914fda0541288a5a55902c9555cc3852d868240357f721162b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 01 Apr 2024 04:00:34 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-01T04:00:34Z</dc:date>
     </item>
     <item>
       <title>AI新工具 小模型也有大智慧Qwen1.5-MoE;大模型动态排行榜；马斯克更新Grok-1.5；Sora气球人的制作故事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486326&amp;idx=1&amp;sn=67948da9a6e35a6946bcf9fcc5b7fd6f&amp;chksm=e8fb969adf8c1f8c1f33985c336ccec289d62a2c13d03abd73e753266df8ae1c311b1e7b98f1&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 29 Mar 2024 08:46:50 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-29T08:46:50Z</dc:date>
     </item>
     <item>
       <title>AI新工具 又一个开源大模型DBRX击败GPT3.5;腾讯开源输入音频和图像生成说话唱歌视频;Haiper生成 4 秒的高清视频</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486311&amp;idx=1&amp;sn=d9cbf2f8bd8544e9074857a58bf044cd&amp;chksm=e8fb968bdf8c1f9d54f33bdddce465034e894ef5fbdd3c8734fb2a89a49f235d4764a7f800e8&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 28 Mar 2024 06:34:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-28T06:34:35Z</dc:date>
     </item>
     <item>
       <title>AI新工具 生成带有精确动作的主播风格视频；新型AI搜索ThinkAny.ai;小米发布图像生成技术</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486286&amp;idx=1&amp;sn=c411767abdc893a9520d745cac84a631&amp;chksm=e8fb96a2df8c1fb41995aa854448a1203af5d47f03bc885ecc7bd23b98d102d0579148fce2cd&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 27 Mar 2024 08:06:49 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-27T08:06:49Z</dc:date>
     </item>
     <item>
       <title>AI新工具 Sora的第一印象 害羞的男孩（空中梦想家）-一场视频革命正悄悄展开; RAP版的《以父之名》Suno要逆天了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486265&amp;idx=1&amp;sn=4350914e48903f0d7af368c40fa8bc9d&amp;chksm=e8fb96d5df8c1fc3b8e6da6feb471e492cd576989d819fa23b9503ec7b930a1647e4c9715651&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 26 Mar 2024 04:05:35 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-26T04:05:35Z</dc:date>
     </item>
     <item>
       <title>AI新工具 视频迁移升级中国水墨画风格2.0；新颖的视频编辑框架提示编辑,风格转移，身份操控都不在话下;提取多种风格人脸草图</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486246&amp;idx=1&amp;sn=8b1b8adb6df2b2c1aec49bcc0397b793&amp;chksm=e8fb96cadf8c1fdc0d2876ba0c87bdebb20e7bca74be9ac5d799602859b01f14dc52a74983f7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 25 Mar 2024 03:06:32 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-25T03:06:32Z</dc:date>
     </item>
     <item>
       <title>Sora 和文科生</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486229&amp;idx=1&amp;sn=faa9047536cd0d1d7c9dde84df0f838d&amp;chksm=e8fb96f9df8c1fefd4501c25dbbfb6a436eeb49b168808ab01755864be8663835f3f7638db2e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 24 Mar 2024 00:43:17 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-24T00:43:17Z</dc:date>
     </item>
     <item>
       <title>OpenAI 的Sora多优秀，看看几个提示词生成的视频。</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486219&amp;idx=1&amp;sn=bce88c5c06b2c70ab02443dfc559c58a&amp;chksm=e8fb96e7df8c1ff101c0f0c5e8dfe69f837d9d9588cc579b4651a888d63397e301351adb3cbd&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 22 Mar 2024 03:24:31 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-22T03:24:31Z</dc:date>
     </item>
     <item>
       <title>AI新工具 免费试用Gemini Pro 1.5；先进的AI软件工程师Devika;人形机器人Apptronik给你打的橙汁</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486218&amp;idx=1&amp;sn=bd671fa1b47946e73fad3c07ed9adbb3&amp;chksm=e8fb96e6df8c1ff0292f0fc2098d575e0ae52b492506036dcf0289a5289079a033ecb2130751&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 22 Mar 2024 03:05:27 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-22T03:05:27Z</dc:date>
     </item>
     <item>
       <title>AI新工具(20240321) 又一个开源的Sora实现;高质量动漫风格图像的文本到图像模型;字节跳动文本到视频的快速生成模型</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486187&amp;idx=1&amp;sn=d5b98a57954de44c6b5edd8781791ec0&amp;chksm=e8fb9707df8c1e1167130564ac8dac2d11494a842a6e513a11ca73c01cd78383ef078dd84328&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 21 Mar 2024 05:33:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-21T05:33:58Z</dc:date>
     </item>
     <item>
       <title>AI新工具 用suno给《青花瓷》重新谱曲效果炸裂；Pika声音效果现在可供所有用户使用;轻松制作具有透明背景的高质量图像</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486178&amp;idx=1&amp;sn=01c8801a61793f971a4f05c86dbb41ff&amp;chksm=e8fb970edf8c1e189cee7e78bd5bcba49c9b3bce5eedd24c1a7f9fbba025aa7ba45e4b32364a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 20 Mar 2024 03:46:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-20T03:46:58Z</dc:date>
     </item>
     <item>
       <title>AI新工具 终于来了！ 华丽的风格转移！ ;基于视频/网络摄像头的 AI 运动捕捉应用，可用于虚拟直播和元宇宙时代;</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486150&amp;idx=1&amp;sn=708b8dfbe7a6477f27df768be0468f3e&amp;chksm=e8fb972adf8c1e3c6b8f47700c43e5dab2700ad2e435cc618c89656be3328624eb24a758a001&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 19 Mar 2024 06:17:40 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-19T06:17:40Z</dc:date>
     </item>
     <item>
       <title>AI新工具 复刻 Sora 模型的 Open-Sora开源了1.0 模型；马斯克开源的Grok-1模型；开源复制Devin</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzNDE0Njk0Nw==&amp;mid=2247486133&amp;idx=1&amp;sn=d8dc241698522bc8bcb5d850233e895a&amp;chksm=e8fb9759df8c1e4fe635d9f81105b41d3a743199becba22d6a724a1bdf0ceb79efc69cb7f873&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 18 Mar 2024 03:34:31 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-03-18T03:34:31Z</dc:date>
     </item>
   </channel>
 </rss>

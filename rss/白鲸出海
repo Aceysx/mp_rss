@@ -1,376 +1,1684 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>白鲸出海</title>
     <link>https://github.com/Aceysx/mp_rss</link>
     <description>白鲸出海，泛互联网出海服务平台，白鲸专注于具备互联网属性的行业、公司、产品和服务的出海，包括应用、游戏、电商、区块链、智能手机及硬件、旅游、网络文学、影视、动漫、教育、体育和金融等。</description>
     <language>zh-cn</language>
     <pubDate>Sun, 05 May 2024 16:00:11 GMT</pubDate>
-    <lastBuildDate>Sun, 05 May 2024 16:00:11 GMT</lastBuildDate>
-    <ttl>5</ttl>
+    <dc:date>2024-05-05T16:00:11Z</dc:date>
+    <dc:language>zh-cn</dc:language>
     <image>
       <title>白鲸出海</title>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM7icM7LnBZcS9N6roAGia1BV8e56mxEBH65MPicrCsibuGzaw/0</url>
     </image>
     <item>
+      <title>多模态GPT-4o来了，最先嗨起来的是一波女性用户</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>莉莉丝新王诞生：首月流水超越AFK和ROK，还想火十年</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海狂揽9亿，“投影仪一哥”冲上全球第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节和作业帮继续在海外抢夺用户，奈飞将推出自有广告平台｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>60万海外企业青睐这家公司，它可能成为中国出海企业的“新助力”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节发布豆包大模型，亚马逊日本站宣布下调销售佣金｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>官宣 | 2024Easy Connection全球营销峰会正式点亮，5·24西安见！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大疆前高管出海创业，把智能割草机做到类目第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>又来3款，字节加速探索AI应用市场</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>遥遥领先的OpenAI慢下来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>独立站月销百万美金，小众品牌如何差异化出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>专业相机App日本登顶，腾讯混元文生图大模型宣布开源可免费商用｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>令投资人集体出动的「AI陪伴」是伪需求吗？| 对话投资人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI抓内鬼出奇招，奥特曼耍了所有人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>单人开发，上线首周进账8000万美元！Steam模拟爆款「庄园领主」是怎么做到的？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>中国互联网出海一周头条 我们一起看真相聊大事儿 | 白鲸出品309期</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>美国“AI大模型”不给外国用了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT要进iPhone了，苹果称没有大开发者在美国选择接入第三方支付｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>从品牌建设到AI应用，当下的品牌出海我们还需要注意哪些关键词？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大厂AI人，奔向中国香港</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>用AI陪玩家玩《我的世界》，华人AI创业者融资千万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GTC2024(Shenzhen)火热来袭，AI出海风向标显现，尽在6月17-18日</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>微软计划7月上线手机游戏商店，多邻国财报发布股价下跌12%｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>说好的ChatGPT Search放鸽子，但我们的稿子都写完了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>AI+ToB，谁赚钱了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>一年登顶亚马逊BSR，它靠体脂秤狂揽百万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Tinder付费人数连续6个季度下降，OpenAI考虑放宽NSFW内容｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>3款产品进了Top50榜单，三方输入法靠AI焕发第二春？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>海外月流水近4亿，小游戏出海冠军4399「菇勇者传说」深度拆解</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海月销百万美金，小众宠物品牌做出大爆单品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>有爱互娱成功卖身，TikTok起诉美国政府｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>这个赛道，出海订单接不过来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>分手吗？微软做大模型，OpenAI做搜索引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Opera浏览器AI助手功能上新，SHEIN北美用户现可通过Forever 21线下门店退货｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Q1游戏行业超47起收购交易，资金总额达24亿美元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>进击的DramaBox：翻译短剧拿捏美国，霸总之后“战神”出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海电商四小龙竞赛：翻倍增长，用一切办法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI搜索引擎周内上线？欧盟地区的“苹果税”又变了｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>靠一家子公司猛冲，这个游戏大厂年收入破133亿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>多模态GPT-4o来了，最先嗨起来的是一波女性用户</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>莉莉丝新王诞生：首月流水超越AFK和ROK，还想火十年</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海狂揽9亿，“投影仪一哥”冲上全球第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节和作业帮继续在海外抢夺用户，奈飞将推出自有广告平台｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>60万海外企业青睐这家公司，它可能成为中国出海企业的“新助力”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节发布豆包大模型，亚马逊日本站宣布下调销售佣金｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>官宣 | 2024Easy Connection全球营销峰会正式点亮，5·24西安见！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大疆前高管出海创业，把智能割草机做到类目第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>又来3款，字节加速探索AI应用市场</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>遥遥领先的OpenAI慢下来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>独立站月销百万美金，小众品牌如何差异化出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>专业相机App日本登顶，腾讯混元文生图大模型宣布开源可免费商用｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>令投资人集体出动的「AI陪伴」是伪需求吗？| 对话投资人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI抓内鬼出奇招，奥特曼耍了所有人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>单人开发，上线首周进账8000万美元！Steam模拟爆款「庄园领主」是怎么做到的？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>中国互联网出海一周头条 我们一起看真相聊大事儿 | 白鲸出品309期</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>美国“AI大模型”不给外国用了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT要进iPhone了，苹果称没有大开发者在美国选择接入第三方支付｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>从品牌建设到AI应用，当下的品牌出海我们还需要注意哪些关键词？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大厂AI人，奔向中国香港</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>用AI陪玩家玩《我的世界》，华人AI创业者融资千万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GTC2024(Shenzhen)火热来袭，AI出海风向标显现，尽在6月17-18日</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>微软计划7月上线手机游戏商店，多邻国财报发布股价下跌12%｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>说好的ChatGPT Search放鸽子，但我们的稿子都写完了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>AI+ToB，谁赚钱了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>一年登顶亚马逊BSR，它靠体脂秤狂揽百万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Tinder付费人数连续6个季度下降，OpenAI考虑放宽NSFW内容｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>3款产品进了Top50榜单，三方输入法靠AI焕发第二春？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>海外月流水近4亿，小游戏出海冠军4399「菇勇者传说」深度拆解</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海月销百万美金，小众宠物品牌做出大爆单品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>有爱互娱成功卖身，TikTok起诉美国政府｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>这个赛道，出海订单接不过来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>分手吗？微软做大模型，OpenAI做搜索引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Opera浏览器AI助手功能上新，SHEIN北美用户现可通过Forever 21线下门店退货｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Q1游戏行业超47起收购交易，资金总额达24亿美元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>进击的DramaBox：翻译短剧拿捏美国，霸总之后“战神”出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海电商四小龙竞赛：翻倍增长，用一切办法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI搜索引擎周内上线？欧盟地区的“苹果税”又变了｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>靠一家子公司猛冲，这个游戏大厂年收入破133亿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>多模态GPT-4o来了，最先嗨起来的是一波女性用户</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>莉莉丝新王诞生：首月流水超越AFK和ROK，还想火十年</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海狂揽9亿，“投影仪一哥”冲上全球第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节和作业帮继续在海外抢夺用户，奈飞将推出自有广告平台｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>60万海外企业青睐这家公司，它可能成为中国出海企业的“新助力”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节发布豆包大模型，亚马逊日本站宣布下调销售佣金｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>官宣 | 2024Easy Connection全球营销峰会正式点亮，5·24西安见！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大疆前高管出海创业，把智能割草机做到类目第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>又来3款，字节加速探索AI应用市场</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>遥遥领先的OpenAI慢下来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>独立站月销百万美金，小众品牌如何差异化出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>专业相机App日本登顶，腾讯混元文生图大模型宣布开源可免费商用｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>令投资人集体出动的「AI陪伴」是伪需求吗？| 对话投资人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI抓内鬼出奇招，奥特曼耍了所有人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>单人开发，上线首周进账8000万美元！Steam模拟爆款「庄园领主」是怎么做到的？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>中国互联网出海一周头条 我们一起看真相聊大事儿 | 白鲸出品309期</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>美国“AI大模型”不给外国用了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT要进iPhone了，苹果称没有大开发者在美国选择接入第三方支付｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>从品牌建设到AI应用，当下的品牌出海我们还需要注意哪些关键词？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大厂AI人，奔向中国香港</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>用AI陪玩家玩《我的世界》，华人AI创业者融资千万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GTC2024(Shenzhen)火热来袭，AI出海风向标显现，尽在6月17-18日</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>微软计划7月上线手机游戏商店，多邻国财报发布股价下跌12%｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>说好的ChatGPT Search放鸽子，但我们的稿子都写完了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>AI+ToB，谁赚钱了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>一年登顶亚马逊BSR，它靠体脂秤狂揽百万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Tinder付费人数连续6个季度下降，OpenAI考虑放宽NSFW内容｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>3款产品进了Top50榜单，三方输入法靠AI焕发第二春？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>海外月流水近4亿，小游戏出海冠军4399「菇勇者传说」深度拆解</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海月销百万美金，小众宠物品牌做出大爆单品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>有爱互娱成功卖身，TikTok起诉美国政府｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>这个赛道，出海订单接不过来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>分手吗？微软做大模型，OpenAI做搜索引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Opera浏览器AI助手功能上新，SHEIN北美用户现可通过Forever 21线下门店退货｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Q1游戏行业超47起收购交易，资金总额达24亿美元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>进击的DramaBox：翻译短剧拿捏美国，霸总之后“战神”出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海电商四小龙竞赛：翻倍增长，用一切办法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI搜索引擎周内上线？欧盟地区的“苹果税”又变了｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>靠一家子公司猛冲，这个游戏大厂年收入破133亿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>多模态GPT-4o来了，最先嗨起来的是一波女性用户</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=1&amp;sn=4b7e988a8dbcc0a2177358460b4f78cf&amp;chksm=8766b3bfb0113aa9ace8f1c4339f2164fa6daedafe8778e8642d4a513351cf037ea1b63dd488&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>莉莉丝新王诞生：首月流水超越AFK和ROK，还想火十年</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=2&amp;sn=650655d44bc1e0be8e3e8357d7aa9d59&amp;chksm=8766b3bfb0113aa98fb14acfffa77b6412ee9fc0affd2cd7fc81e95fd4e4c838b8b14a9f0970&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海狂揽9亿，“投影仪一哥”冲上全球第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=3&amp;sn=0c9fb2d730ba7155281d5e2009688de5&amp;chksm=8766b3bfb0113aa90f4b60960d79affd624534a1a0392045b27a747a8cf88e27ccac6a388ac2&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节和作业帮继续在海外抢夺用户，奈飞将推出自有广告平台｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656961&amp;idx=4&amp;sn=3917ef38af6c912caf7bf7009d8a1e35&amp;chksm=8766b3bfb0113aa9a5a9e0eef840f5ae26b95d07bf10df1f8b15ba06771cf9d215767f03affc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>60万海外企业青睐这家公司，它可能成为中国出海企业的“新助力”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=1&amp;sn=ffefa9b21aeeb8d97364d2c764a05564&amp;chksm=8766b305b0113a131be32a17dfef239f956f7b5b605682e904fc2d35e1ad69928e554c2a642b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>字节发布豆包大模型，亚马逊日本站宣布下调销售佣金｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=2&amp;sn=57cc458078677111316fb7805eebc88e&amp;chksm=8766b305b0113a1357d5722597f316997105a27985dce87d015a0052db7fbfe45082fa443431&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>官宣 | 2024Easy Connection全球营销峰会正式点亮，5·24西安见！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=3&amp;sn=3bdd1adecd603d2f4f966d5bc0a0dd0e&amp;chksm=8766b305b0113a13d31603fd147117fd7b9128da015309f16ba9cd34c48eef73797161850d05&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大疆前高管出海创业，把智能割草机做到类目第一</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656891&amp;idx=4&amp;sn=fbd7f83c4e624b42ac57afdd0ff4e8ba&amp;chksm=8766b305b0113a13d419e6277a4bf6cfd5e05f147431c4f907ea7d026d120bbdf00c2d6e44d0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>又来3款，字节加速探索AI应用市场</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=1&amp;sn=34871dab1a979dd5a8470146cc3fddd8&amp;chksm=8766b310b0113a0636f7e5e58f602369364bcd520b9e3b1986c56fbbeda335107e6131db0d12&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>遥遥领先的OpenAI慢下来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=2&amp;sn=fc2e854c8a155248cd8ec7ccab91a7b7&amp;chksm=8766b310b0113a06262921aed3b5072939faf13441647916958e22c124d6e2e919c4d1886abc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>独立站月销百万美金，小众品牌如何差异化出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=3&amp;sn=dccddf5d55f28e46bb6f038e3bf5f950&amp;chksm=8766b310b0113a068226224b602b022514af908c46f376264ef482fe2dc7fb60ee4ab01b18e5&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>专业相机App日本登顶，腾讯混元文生图大模型宣布开源可免费商用｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656878&amp;idx=4&amp;sn=602ec1f7241efde825f88ee6e33b9b07&amp;chksm=8766b310b0113a069c91c07c8cffad22787cfb40b9bb50dd1ccfe0d0652881b4f527cd55ae76&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>令投资人集体出动的「AI陪伴」是伪需求吗？| 对话投资人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=1&amp;sn=56db24dcd2ffc3e89e9dfb0820144e10&amp;chksm=8766b367b0113a71e86265f4b86efce8022d5fb698540c3d5efc83ba90bd0f7133b4168930b9&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI抓内鬼出奇招，奥特曼耍了所有人</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=2&amp;sn=db2abe372cc924b41fd82a0a447c535f&amp;chksm=8766b367b0113a71a1ad3d5c64b39077b83884471201afcc8496fde685bf7bb55cf3628226b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>单人开发，上线首周进账8000万美元！Steam模拟爆款「庄园领主」是怎么做到的？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656793&amp;idx=3&amp;sn=56350e5d6f714d60220c22a423c3e38b&amp;chksm=8766b367b0113a7140f623133fdb9a507afc3471d688d927fe4054d7645f164b1073b36b98b0&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>中国互联网出海一周头条 我们一起看真相聊大事儿 | 白鲸出品309期</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656730&amp;idx=1&amp;sn=6a2f3880721e03a646003bc474aaffd1&amp;chksm=8766aca4b01125b20be3068af96db3521d32d8c3e6fe62d44c426a48b7608329b812ee089453&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>美国“AI大模型”不给外国用了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=1&amp;sn=2b7bd71988ad7127dc3df53c6fd3ac97&amp;chksm=8766acb3b01125a552e799805d1d3133c0f495ba7ce7cb11979a359f4568ff1a8fada27cab0b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT要进iPhone了，苹果称没有大开发者在美国选择接入第三方支付｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=2&amp;sn=8745cc6aa5ac88bc13c2ba6d1dd3a521&amp;chksm=8766acb3b01125a51dedc2bcf8768f44be44fb1c250b01227bd32bed80ccc12bbe1238c0ea27&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>从品牌建设到AI应用，当下的品牌出海我们还需要注意哪些关键词？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656717&amp;idx=3&amp;sn=cd7f2c97ce57487c6e7c5739b71e8385&amp;chksm=8766acb3b01125a5045aae542dc3978ff9ddf7aa1b6f562b032069bb159c0df381319edc3712&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>大厂AI人，奔向中国香港</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=1&amp;sn=4b737f9ac99a3ef090b85cf082f6df8d&amp;chksm=8766ace4b01125f204f9d942b532ed08db8fb7c00474771316362c54b10a3e3952f43dbdf84b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>用AI陪玩家玩《我的世界》，华人AI创业者融资千万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=2&amp;sn=5cf74c169eaa9fabf7b55388c41a34ed&amp;chksm=8766ace4b01125f23420dff2e44372b5b3d6b2becc39cbba34a70414a28857afde08641c1ada&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>GTC2024(Shenzhen)火热来袭，AI出海风向标显现，尽在6月17-18日</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=3&amp;sn=e53279e7dda55947a529a22f027431d8&amp;chksm=8766ace4b01125f21ca984ab545c26a6bfdc768c142594e41fa4efba4689b3e98291ecd9754c&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>微软计划7月上线手机游戏商店，多邻国财报发布股价下跌12%｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656666&amp;idx=4&amp;sn=97ba1a00766fd2d6363ff6e1e485fdd1&amp;chksm=8766ace4b01125f24e7f84eec333268fcfea14834cbdbbcb406c5ab685453aff33ebe1a9e450&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>说好的ChatGPT Search放鸽子，但我们的稿子都写完了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=1&amp;sn=c5aaeb06032c49e9f2464b5b5284ec5d&amp;chksm=8766ac07b01125119c5bb52b0e743f84a02ab62da85afb3be6285211e72c0439f8b5ccd664b8&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>AI+ToB，谁赚钱了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=2&amp;sn=e7c687e38b1dfde8b2753ea799f77999&amp;chksm=8766ac07b0112511e1b41fee90371ac7ca9f8128f91b7ffc24cb9dabc4fdfb75e804ad96660a&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>一年登顶亚马逊BSR，它靠体脂秤狂揽百万美金</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=3&amp;sn=ab79abdfa5d9e0d15904b1d1f8486b42&amp;chksm=8766ac07b0112511a8a823a5053fc78f7945e25851fe468ce383606b05e5c5170c5c6541e360&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Tinder付费人数连续6个季度下降，OpenAI考虑放宽NSFW内容｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656633&amp;idx=4&amp;sn=39eee414b348d34be8c01e11ea96321c&amp;chksm=8766ac07b0112511f28ee46c69739c26dece5e4c850b8fd829ec4f6ec4e20cca4ea83110052d&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>3款产品进了Top50榜单，三方输入法靠AI焕发第二春？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=1&amp;sn=6d18f81a565fb65da67eb0400f314e1e&amp;chksm=8766ac25b011253374252e5c788f1e060f226ade2eb50c4fd2e18067ac25b9423a3bef71b096&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>海外月流水近4亿，小游戏出海冠军4399「菇勇者传说」深度拆解</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=2&amp;sn=5b49e3b22f1bb8a15183ad1fc147d284&amp;chksm=8766ac25b01125331f74a86c58cb1a7dfe6aa5215491cac841f22301152a6ddbc785fefa7b44&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海月销百万美金，小众宠物品牌做出大爆单品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=3&amp;sn=d6a0cccfe34b57cbcbdc948ee57f43ad&amp;chksm=8766ac25b01125332d165dad6bc3503283dbaf03eac07ed454cc87a2b00620d6f0d2e422287b&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>有爱互娱成功卖身，TikTok起诉美国政府｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656603&amp;idx=4&amp;sn=42cdbe7b6730205778148cab5c35d4be&amp;chksm=8766ac25b01125336e4b93682a3bf0147d8021e3f22f9db6de6e37c2316bbe47b95b88c8e751&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>这个赛道，出海订单接不过来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=1&amp;sn=740e27e9dc95e1096f61c9b1611fcb55&amp;chksm=8766ac7bb011256d10129dd5aac9edf719dc967cb8cb5def927d10333bea1d185499c359bcbe&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>分手吗？微软做大模型，OpenAI做搜索引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=2&amp;sn=bc07d9ae344a58dfe6668b9d083f7f67&amp;chksm=8766ac7bb011256de5b116dd579f22fbd322997c2c49ebad0c2990afc61b880935ba82c8f0bc&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Opera浏览器AI助手功能上新，SHEIN北美用户现可通过Forever 21线下门店退货｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=3&amp;sn=0519a10941e6126c2c863b13d5d172f5&amp;chksm=8766ac7bb011256d0b49927d9a3ad004d42987a429f19c2bb64e51060c153533e56fe137d6f6&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Q1游戏行业超47起收购交易，资金总额达24亿美元</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656517&amp;idx=4&amp;sn=5c7336daa2ddd4f1207f046b09102d92&amp;chksm=8766ac7bb011256dd926a3dbc1f56c3d454b1afe75b4c544718aedde9ba7ddaba63c412f50d7&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>进击的DramaBox：翻译短剧拿捏美国，霸总之后“战神”出海</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=1&amp;sn=208aaeaf37ed42797f98161b378f5660&amp;chksm=8766adb6b01124a0373b1d36f0f338b0a3c7f2542d748d425c33d5998f57eda4f5b28a34dd75&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>出海电商四小龙竞赛：翻倍增长，用一切办法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=2&amp;sn=24e5c6166074b7654ca46cee7287122b&amp;chksm=8766adb6b01124a08d3776ee26adee2b8e6d699874d4dc67ded29acf49309ca35ca2d84c777f&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI搜索引擎周内上线？欧盟地区的“苹果税”又变了｜一句话看出海新鲜事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=3&amp;sn=9d756b69c1064723a2f36723f603d8d9&amp;chksm=8766adb6b01124a097f4b9a2aedfb685b6f9d83e762d9dd45a6f94a43c42ec47c285d72c4fdb&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>靠一家子公司猛冲，这个游戏大厂年收入破133亿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</link>
+      <description />
+      <pubDate>Fri, 17 May 2024 16:00:05 GMT</pubDate>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656456&amp;idx=4&amp;sn=5c1b63de72aa4e208f0756475ac35d3b&amp;chksm=8766adb6b01124a0d6b1932ae45c0e29605d4af0f295521d48f6279afa73b41ff1a3e1403756&amp;scene=58&amp;subscene=0#rd</guid>
+      <dc:date>2024-05-17T16:00:05Z</dc:date>
+    </item>
+    <item>
       <title>给「Royal Match」换个新主角跑出800万月流水，“猪猪”怎么成了手游吸量一大秘技？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656437&amp;idx=1&amp;sn=1ee9f8611757e8ddff6a281c7e8617d4&amp;chksm=8766adcbb01124dd2237542567fa0d3886fbe08d1cfcbdd92fe50ff08cd77088fe79ddff7259&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 05 May 2024 11:17:16 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-05T11:17:16Z</dc:date>
     </item>
     <item>
       <title>短剧出海「一哥」，去年净利润只有24万？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656413&amp;idx=1&amp;sn=c5f105d5389079452ed71c60fdb3e4e2&amp;chksm=8766ade3b01124f5c14010f654d3fca4f56504e75a1bf9f6eabf1b05795ca95abe7e7abd6243&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 03 May 2024 02:54:02 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-05-03T02:54:02Z</dc:date>
     </item>
     <item>
       <title>五一节快乐！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656393&amp;idx=1&amp;sn=66957e441f10d7073e07cddbcf8c6fb0&amp;chksm=8766adf7b01124e13dde07bb26b6b3ec6f83b0858a9946c315696ca82d8340ece6ba58267d64&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 23:14:56 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T23:14:56Z</dc:date>
     </item>
     <item>
       <title>再杀回榜单，头部App也要被卖身的熟人社交赛道，还有希望？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656369&amp;idx=1&amp;sn=3f002c894140575691340fc88a547bbe&amp;chksm=8766ad0fb01124197ff62a1ebe3f0468e5f995d528afb83df917641b1ebbe4a28bc114f11a4e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 11:41:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T11:41:24Z</dc:date>
     </item>
     <item>
       <title>传音手机：横扫非洲，做回自己 | 下西洋</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656369&amp;idx=2&amp;sn=e46b6bdc096caada23b9add3e34cda1c&amp;chksm=8766ad0fb011241930ebec7237ba48b23137bbfb8e6d18f84cfdf9ca01b7521a8a5aeb8a32f5&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 11:41:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T11:41:24Z</dc:date>
     </item>
     <item>
       <title>一年卖出500万对，老牌耳机出海逆势崛起</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656369&amp;idx=3&amp;sn=66693d2ac9e9daa707ea485c7db2a0b2&amp;chksm=8766ad0fb01124192dc3f8c1b1ee2844dae9c4aee553a9d71b7b405412ee8fcd554262949135&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 11:41:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T11:41:24Z</dc:date>
     </item>
     <item>
       <title>小红书内测自研大模型“小地瓜”，腾讯增持芬兰游戏厂商Remedy｜一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656369&amp;idx=4&amp;sn=996838a243eb5519a4e9c3c20444e2fa&amp;chksm=8766ad0fb0112419f120e7b8dcfd7343d0d31f0d84f70e38cf650a46fd8d4d7e337af6a261fc&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 30 Apr 2024 11:41:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-30T11:41:24Z</dc:date>
     </item>
     <item>
       <title>上线2天跻身美国手游下载榜Top 5，「菇勇者」之后4399又掏出了新“王炸”？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656329&amp;idx=1&amp;sn=7f3064be4be3136a4fb65ea26999037d&amp;chksm=8766ad37b0112421ea8221bbc3071d5e86df4abba0f1a90f27d2a4c3c69fbf919628334b5ab7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 13:50:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T13:50:20Z</dc:date>
     </item>
     <item>
       <title>美国又提法案封禁大疆，前妙鸭产品负责人创业已融资四轮｜一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656329&amp;idx=2&amp;sn=a1126a19128788dd4552babea4b3e99f&amp;chksm=8766ad37b01124217ad2eb5c9db36fa8fa09f9f76217450a8afa72e66ef39e86e3234fdb06aa&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 13:50:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T13:50:20Z</dc:date>
     </item>
     <item>
       <title>Perplexity认为Google、Meta、马斯克和整个世界都在抄袭它</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656329&amp;idx=3&amp;sn=a7ea65f35be0ec82bb9c28b628ba225b&amp;chksm=8766ad37b01124218347ee63aa01f1b3b5e83d7522ea89308ef125284d82f0a7927fb5e6e30f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 13:50:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T13:50:20Z</dc:date>
     </item>
     <item>
       <title>代工厂逆袭“露营第一股”，它卖帐篷年入超10亿</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656329&amp;idx=4&amp;sn=dd06106f7979d57f75d1a0c7f0fb19a3&amp;chksm=8766ad37b011242193ec972dfb62754a0139cccae5ea727fc581fb8434dc7b8519d980bd2e26&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 29 Apr 2024 13:50:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-29T13:50:20Z</dc:date>
     </item>
     <item>
       <title>中国互联网出海一周头条 我们一起看真相聊大事儿 | 白鲸出品308期</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656299&amp;idx=1&amp;sn=2c0ed06777d1678a4aa057d3007ea82d&amp;chksm=8766ad55b011244314a20f049e564f6731e53cd3a095f31ee69cea759251d400a6c0a9f71084&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 13:20:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T13:20:38Z</dc:date>
     </item>
     <item>
       <title>中国版Sora真的来了？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656299&amp;idx=2&amp;sn=7ff018d834180bf4b50f7a485e7c7b04&amp;chksm=8766ad55b0112443182d019e5ff2cc1ac7654f2d214ec1f6c9dd5fc3fdee32a365fa6994d721&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 13:20:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T13:20:38Z</dc:date>
     </item>
     <item>
       <title>中国移动应用开发商加速拓展俄罗斯市场</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656299&amp;idx=3&amp;sn=9cfe4729ee14abc8b229dad30ef343c8&amp;chksm=8766ad55b0112443d69f27bafa51f5c2ffd1227409437981a59999c39cf717979b3d544218b3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 28 Apr 2024 13:20:38 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-28T13:20:38Z</dc:date>
     </item>
     <item>
       <title>净赚3亿，这家厦门公司靠AI美女翻身</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656254&amp;idx=1&amp;sn=33fd83133c2301f3bf9a6c20a78b4062&amp;chksm=8766ae80b011279656dfa2cdb08e39d3ee2ad31d075d79a77fbbd608750025697aa238118a40&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 12:19:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T12:19:03Z</dc:date>
     </item>
     <item>
       <title>Meta发个财报，市值蒸发了1830亿美元｜一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656254&amp;idx=2&amp;sn=9e1cbe73ec11971c2142d5def172c416&amp;chksm=8766ae80b0112796adab42d2fa39cb2d1e898c8f6ce300c1200868a5f29103979887f990af45&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 12:19:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T12:19:03Z</dc:date>
     </item>
     <item>
       <title>“真龙”出海——国产短剧霸屏海外，看“总裁们”如何掘金新蓝海</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656254&amp;idx=3&amp;sn=fdb9ff622194b24be35410a4d2740d0d&amp;chksm=8766ae80b0112796e2ea81f0501e5ccd068db2c15a763707fd0dcbc21461e7d963bc0ddef6d2&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 26 Apr 2024 12:19:03 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-26T12:19:03Z</dc:date>
     </item>
     <item>
       <title>月销千万、母婴细分类目王者：「Momcozy妈咪亲」如何与妈咪更亲近？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656229&amp;idx=2&amp;sn=04463f6c35642f3c3be1a66d02097bb8&amp;chksm=8766ae9bb011278d69794a096e9cae6730858f3ef1633760f99a6e17ffc617fb049691735c38&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 13:47:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T13:47:09Z</dc:date>
     </item>
     <item>
       <title>净利润同比增长超40%，安克交付2023年成绩单｜财报解读</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656229&amp;idx=3&amp;sn=e25d09842f5f44aadac9238d06806d9f&amp;chksm=8766ae9bb011278dc15524ec386e158a7f003eb286f9e897250063b39f784896c51843ddcb1d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 13:47:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T13:47:09Z</dc:date>
     </item>
     <item>
       <title>拜登已签署法案，字节需1年内剥离TikTok，Threads 3月MAU达到1.5亿｜一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656229&amp;idx=4&amp;sn=fe6c7bec83a6a93a395af6b42e4ad55b&amp;chksm=8766ae9bb011278d749aecf19fbf781c3525b06aac58747e9009e813d3aec70ba7de36a12fe5&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 25 Apr 2024 13:47:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-25T13:47:09Z</dc:date>
     </item>
     <item>
       <title>聊一聊头部出海AI应用怎么赚钱的？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656190&amp;idx=1&amp;sn=f0136308903d0b6a3778ec03725eda5c&amp;chksm=8766aec0b01127d60661db0ed6c8d8a58b73aeffe90740ed62de605906033e188ae2ac77274f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 14:06:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T14:06:11Z</dc:date>
     </item>
     <item>
       <title>AI 应用出海，你上牌桌了吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656190&amp;idx=2&amp;sn=54069d178d1d6659cc6cd15ea0639053&amp;chksm=8766aec0b01127d6da19243c2aa551dc670196e3777a10cdbe2b430f9ff40e0f134174f4ba30&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 14:06:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T14:06:11Z</dc:date>
     </item>
     <item>
       <title>深耕日本市场，商用清洁机器人「奇勃科技」获数千万元Pre-A轮融资</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656190&amp;idx=3&amp;sn=14f10dd1f59e150920322820f94ea589&amp;chksm=8766aec0b01127d622dbda63ca68ec4b60b22c00a570ecefc83301c3721c3df65c24e6297997&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 14:06:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T14:06:11Z</dc:date>
     </item>
     <item>
       <title>阿里计划向韩国女装电商平台Ably投资7500万美元，美国参议院通过字节剥离TikTok法案 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656190&amp;idx=4&amp;sn=a2611a0cb6a1b86d104be649711d1605&amp;chksm=8766aec0b01127d6c8dd934e2da655f735829f24fb9b238263dbbfb13ec71ada5cc46e5b8fee&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 24 Apr 2024 14:06:11 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-24T14:06:11Z</dc:date>
     </item>
     <item>
       <title>抖音追不上Sora</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656105&amp;idx=1&amp;sn=13c4c0dda903721af7a0e2e42f4404c2&amp;chksm=8766ae17b01127018cef539d6d4e5b6c3b66b6e30ed61c3baa0680340a60e94da83b60a8bee1&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 13:37:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T13:37:57Z</dc:date>
     </item>
     <item>
       <title>#东华金龙，在TikTok火了</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656105&amp;idx=2&amp;sn=42cb3b047168ae56fa43c87750ec3ac1&amp;chksm=8766ae17b0112701b1a9a3d74fd403c2d54d89c99af33df4ed88b028d6f1e80badef418b185f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 13:37:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T13:37:57Z</dc:date>
     </item>
     <item>
       <title>欧盟对TikTok Lite展开调查，月之暗面否认杨植麟套现 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656105&amp;idx=3&amp;sn=c19e896a4662792293836903d45d7446&amp;chksm=8766ae17b0112701f339cb179fb781aa5c0e3702254b7da04f54be0b4bb522a9f55cc1b75612&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 13:37:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T13:37:57Z</dc:date>
     </item>
     <item>
       <title>印度谷歌广告费用一览表：2024年投放必备参考（附案例）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656105&amp;idx=4&amp;sn=d4a2fc8d75a41081ea62a24fc4159dec&amp;chksm=8766ae17b01127010d94b55e3189e022f3507d3ef3f0092fb14b4f040e065f718a9ba797e0b7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 23 Apr 2024 13:37:57 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-23T13:37:57Z</dc:date>
     </item>
     <item>
       <title>这个AI赛道，一个月内融资4笔，一大半的创始人是华人</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656070&amp;idx=1&amp;sn=fe10a264f7acdfe3ed7640ab13450e23&amp;chksm=8766ae38b011272e0947b1d58ec5f4304110caec071aef285890159d661bed363933fb830f6a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 22 Apr 2024 13:26:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-22T13:26:09Z</dc:date>
     </item>
     <item>
       <title>斋月期间中东最火的购物中心可能是它</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656070&amp;idx=2&amp;sn=17c6f9c04a0f473b17c800e38b5c9de1&amp;chksm=8766ae38b011272ef59f04139d17651730343d0287e5a10818b892f98f4f77c017d511d77e37&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 22 Apr 2024 13:26:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-22T13:26:09Z</dc:date>
     </item>
     <item>
       <title>AI赋能——从爆款打造到产品变现，细数游戏出海二三事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656070&amp;idx=3&amp;sn=8912040dbc90645060c80f076d52bbd9&amp;chksm=8766ae38b011272e746dc8ce0a9579c960e636d743986997257dd8fbdb6f801ba614071f291d&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 22 Apr 2024 13:26:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-22T13:26:09Z</dc:date>
     </item>
     <item>
       <title>出海十年圆桌讨论：泛娱乐出海，呈现独特繁华</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656070&amp;idx=4&amp;sn=bb8748a405135f8459c0855e660b8429&amp;chksm=8766ae38b011272eb439ca314939344f95d7e4b4ba0969494a36bb45da92a37a1fda9f2bd276&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 22 Apr 2024 13:26:09 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-22T13:26:09Z</dc:date>
     </item>
     <item>
       <title>中国互联网出海一周头条 我们一起看真相聊大事儿 | 白鲸出品307期</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650656009&amp;idx=1&amp;sn=39e4645ea85af3156ba465c40f9188a5&amp;chksm=8766ae77b0112761f467a8b72a07663b7d98bc56d1456f6bacb3ceea6e8b976455b90c1bfea3&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 21 Apr 2024 13:15:20 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-21T13:15:20Z</dc:date>
     </item>
     <item>
       <title>对话MiniMax闫俊杰：很多成功的公司，都不是靠第一个产品成功的</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655996&amp;idx=1&amp;sn=24912e31a35af38c0cd65fe516299cfb&amp;chksm=8766af82b0112694f5dd729d62596ae4fe3fa3f070a32775862e05558663c7930cf25ccd34f4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 14:11:15 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T14:11:15Z</dc:date>
     </item>
     <item>
       <title>国内拿下2500万月流水后又登顶美国iOS手游下载榜，这家出海厂商的新品却有不少隐忧？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655996&amp;idx=2&amp;sn=2a6dd180fde4e7b7b9988b09ab8107ad&amp;chksm=8766af82b0112694e81e2f551d7cd0204b69ca6d32b7a3dc5fbe7029bf0488ccc6c6326f969e&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 14:11:15 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T14:11:15Z</dc:date>
     </item>
     <item>
       <title>Meta推出LIama 3，雷霆互动新游登顶美国iOS游戏下载榜 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655996&amp;idx=3&amp;sn=e14520f1ebfd116767a670e0ed628ac9&amp;chksm=8766af82b011269428551005e164c0f17c31d7658473f36b2f788751a4eef713d7a19639683f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 14:11:15 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T14:11:15Z</dc:date>
     </item>
     <item>
       <title>Airwallex空中云汇全球首席营收官吴恺：过去五年跨国运营企业数量提升97%</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655996&amp;idx=4&amp;sn=2dc40b423d1a02e22d32448c038078b5&amp;chksm=8766af82b01126941be55f939ededc165f9e62b4bb206f27a24c5ad9404bd30ed793cf542e36&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 19 Apr 2024 14:11:15 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-19T14:11:15Z</dc:date>
     </item>
     <item>
       <title>前欢聚高管转行做出海短剧，上线2个月闯入品类营收Top5</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655966&amp;idx=1&amp;sn=b7da091319c5fc115383ed339ecf2a64&amp;chksm=8766afa0b01126b6c93f12208de6c4c6c62424f4b31ce56721bab50f7527a35be7116d56aa0b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 18 Apr 2024 13:39:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-18T13:39:14Z</dc:date>
     </item>
     <item>
       <title>在资本市场“凉凉”的消费品牌，在海外活得怎么样了？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655966&amp;idx=2&amp;sn=7e2d265eda0d86862802a5be151d8ce7&amp;chksm=8766afa0b01126b66d86f38654c512ceade70e691a0c1a6d962dafd44dc4f7d544af0759ba8b&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 18 Apr 2024 13:39:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-18T13:39:14Z</dc:date>
     </item>
     <item>
       <title>一年拿下两轮融资，宠物大卖在细分市场狂飙</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655966&amp;idx=3&amp;sn=b5204649bfff643f5b2f48a5421ef680&amp;chksm=8766afa0b01126b604d6dd000013fbb50363a47f7c66648f3bd30f75f0bb54b1bcb85273a5b0&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 18 Apr 2024 13:39:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-18T13:39:14Z</dc:date>
     </item>
     <item>
       <title>Stable Diffusion 3开放API，复古游戏机模拟器登顶美国iOS下载总榜 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655966&amp;idx=4&amp;sn=ba710784213a1272b0178a16e3e35a82&amp;chksm=8766afa0b01126b673af2d2b961cf3e47c25a71b044b078710fdd432532b42c23bc64861511a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 18 Apr 2024 13:39:14 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-18T13:39:14Z</dc:date>
     </item>
     <item>
       <title>在美国陪孩子踢足球，我找到一个年营收千万的商机 | 对话创始人</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655927&amp;idx=1&amp;sn=6fc11d04670f6179e0af041369ca6e6a&amp;chksm=8766afc9b01126dfd1d931fc578b39d2db195d51d3c8fe183ae2eea6571f1b1b86f79a7e831a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 17 Apr 2024 13:36:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-17T13:36:24Z</dc:date>
     </item>
     <item>
       <title>上线5年「起死回生」月流水破4亿，它并非个例</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655927&amp;idx=2&amp;sn=a76c357578c8c5d91eff89f6cb63ea58&amp;chksm=8766afc9b01126df60c954d645dce917dc192938c7e55ebbfa77036471851ad1bb3948dd1ae4&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 17 Apr 2024 13:36:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-17T13:36:24Z</dc:date>
     </item>
     <item>
       <title>超长干货来袭 | 全球AI出海大会圆满落幕，大咖金句频出，精彩不容错过</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655927&amp;idx=3&amp;sn=48362ab0b1b53c72d684e9907d56f556&amp;chksm=8766afc9b01126dfd58294e489ecb950c599cde449c0d155fbe1a431f50b3162ae7d713782cf&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 17 Apr 2024 13:36:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-17T13:36:24Z</dc:date>
     </item>
     <item>
       <title>a16z超额完成募资，MiniMax发布新模型 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655927&amp;idx=4&amp;sn=5c8a4cec0e579cee1e3092910a9cb151&amp;chksm=8766afc9b01126df57e8a065f232c95e70ffa947982e328612e996e53dab1d52640c97624fc7&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Wed, 17 Apr 2024 13:36:24 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-17T13:36:24Z</dc:date>
     </item>
     <item>
       <title>字节Gauth，海外碾压作业帮？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655852&amp;idx=1&amp;sn=2e4ccc3a604957dca1d65cc4afd31454&amp;chksm=8766af12b0112604c3616d4722b43f346de9b22c8e8fa3eac58e4d7e1b24c23bf668e25616ac&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 16 Apr 2024 14:00:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-16T14:00:33Z</dc:date>
     </item>
     <item>
       <title>SHEIN物流服务商UniUni完成C轮融资，OpenAI进军亚太市场 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655852&amp;idx=2&amp;sn=22a12fae96304206ed95dd187465556c&amp;chksm=8766af12b0112604018842c8cfd3cd6a8473024db12efec891a965011a52599852b0de0e3cef&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Tue, 16 Apr 2024 14:00:33 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-16T14:00:33Z</dc:date>
     </item>
     <item>
       <title>接班的厂二代们，终于开始摸到跨境电商的门道了？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655789&amp;idx=1&amp;sn=35ad6054136d0b48fb6ba6c83301c257&amp;chksm=8766af53b011264570e6129a0b0ef1ff2aa1cea74470fdb2f26759d4e5e768a5de71efda2e5a&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 15 Apr 2024 13:36:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-15T13:36:44Z</dc:date>
     </item>
     <item>
       <title>90后情侣的逆袭故事：2人一年，做出2周流水2100万的爆款</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655789&amp;idx=2&amp;sn=4aefb74ee2343955f02647ca9e160d62&amp;chksm=8766af53b0112645fc811c545282022a304248c56a68d128865868a6cd441cac1b9d2a60fabd&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 15 Apr 2024 13:36:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-15T13:36:44Z</dc:date>
     </item>
     <item>
       <title>出海如何“技高一筹”？GTC2024技术服务商招募火热进行中！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655789&amp;idx=3&amp;sn=a2cff90a06b337d94c4d9e2882a082da&amp;chksm=8766af53b0112645b928d2f7d1376f1223d7ef3908f39f0a112fa561009daa4e66c810728cfc&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 15 Apr 2024 13:36:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-15T13:36:44Z</dc:date>
     </item>
     <item>
       <title>3月应用TOP20丨字节小黄书素材暴涨50%，华纳旗下Max下载收入齐暴增</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655789&amp;idx=4&amp;sn=6779f4cd989825bda6e455a93f8553f3&amp;chksm=8766af53b011264509a42680ee099bd4a9f0e4f24f59a416cee8ad4f096ef8e06a41fc3008fa&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Mon, 15 Apr 2024 13:36:44 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-15T13:36:44Z</dc:date>
     </item>
     <item>
       <title>中国互联网出海一周头条 我们一起看真相聊大事儿 | 白鲸出品306期</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655733&amp;idx=1&amp;sn=8ad8475dcc89b8f982354615a01e2e36&amp;chksm=8766a88bb011219d369546129e7d541275d1f14c0ed25a7146bfb1a61201ad647161efc0f02f&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Sun, 14 Apr 2024 14:04:55 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-14T14:04:55Z</dc:date>
     </item>
     <item>
       <title>小游戏厂商们，靠“消除”做到千万月流水</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655721&amp;idx=1&amp;sn=cc229b1dcb13e71f24bb2090cec1a2f7&amp;chksm=8766a897b01121811cd05497cec3a349608ca1772b620e6c08509fc8f31fcb56fa4d05593a57&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 14:03:30 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T14:03:30Z</dc:date>
     </item>
     <item>
       <title>图片&amp;视频赛道，仅靠收购年流水近4亿美金？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655721&amp;idx=2&amp;sn=a77e17e33110e2667397c771488e9eb6&amp;chksm=8766a897b0112181060dd25eb7ebfa5611b4fdee277528b1060dee296299030b3681e0c4a1d9&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 14:03:30 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T14:03:30Z</dc:date>
     </item>
     <item>
       <title>单季度营收上亿，“小米代工厂”逆袭上市大卖</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655721&amp;idx=3&amp;sn=5cddf25987812482d14084b41c776ab2&amp;chksm=8766a897b0112181d11eec5712a9dbb2d4e201ff03c0991267c6daea90569ea3104987dee0bb&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 14:03:30 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T14:03:30Z</dc:date>
     </item>
     <item>
       <title>Q1海外短剧Top3名单出炉，OpenAI宣布GPT-4 Turbo向付费订阅用户开放 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655721&amp;idx=4&amp;sn=7284f4d8e07b9d489d68c35d2609de0d&amp;chksm=8766a897b0112181d0468310480e894e381fa01bee638a25ef3d99e4221d09c00e6adb592570&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Fri, 12 Apr 2024 14:03:30 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-12T14:03:30Z</dc:date>
     </item>
     <item>
       <title>月GMV冲到TikTok美区第一，只靠一个10万粉丝的网红？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655666&amp;idx=1&amp;sn=c50485119e1800be1d008e4f5ac9efb4&amp;chksm=8766a8ccb01121daef0705cf72ac8ab31a28cb4199cfeac996c52e0f63fadc4bc7f820fe79aa&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 11 Apr 2024 13:42:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-11T13:42:58Z</dc:date>
     </item>
     <item>
       <title>华人又在AI赛道出手，Ins创始人和a16z投了1000万美金</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655666&amp;idx=2&amp;sn=38311e1fc74af4b1e31fb555c6dd37df&amp;chksm=8766a8ccb01121da4489802789ec867a129d78070eb2d73b4ebd0c662daae49ba76046edb9ff&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 11 Apr 2024 13:42:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-11T13:42:58Z</dc:date>
     </item>
     <item>
       <title>2024年3月成功出海的中国手游：《Last War:Survival Game》问鼎收入榜，《菇勇者传说》荣登增长榜首</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655666&amp;idx=3&amp;sn=e9d2be97242e9e183c021e789d239dbd&amp;chksm=8766a8ccb01121da93dfdd27820639494018a7ca0dbe2bac6f970b199eb8cde54075ca741d59&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 11 Apr 2024 13:42:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-11T13:42:58Z</dc:date>
     </item>
     <item>
       <title>出海游戏《恶魔猎人》登顶日本总榜，剥离TikTok截止日期或延后一年 | 一句话看出海新鲜事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&amp;mid=2650655666&amp;idx=4&amp;sn=fcf7dcac0f1e0a3f75c3f8d70b564168&amp;chksm=8766a8ccb01121dac70f36af8a802ba1091c79dcfbf73b98fa95f9aa62cc628c006f5d1b0167&amp;scene=58&amp;subscene=0#rd</link>
       <pubDate>Thu, 11 Apr 2024 13:42:58 GMT</pubDate>
       <guid isPermaLink="false" />
+      <dc:date>2024-04-11T13:42:58Z</dc:date>
     </item>
   </channel>
 </rss>
