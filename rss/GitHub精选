@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub精选</title>
+    <link>https://github.com/Aceysx/mp_rss</link>
+    <description>分享 GitHub 上有意思的开源项目和人。</description>
+    <language>zh-cn</language>
+    <pubDate>Sat, 29 Jun 2024 08:04:06 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2024 08:04:06 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <image>
+      <title>GitHub精选</title>
+      <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM7I1SAyEcw93OLWCTCNMdxal1BzT0YWcKibQcfCfbaKBJQ/0</url>
+    </image>
+    <item>
+      <title>声明式云原生多云基础设施管理框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491705&amp;idx=1&amp;sn=e5ff48b77382bb253734b153938fee83&amp;chksm=9b3c70a1ac4bf9b7b79125c40940010f14ba236aa6468c0d52e52885605e3348fb343b5e8e7f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 27 Jun 2024 00:35:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】将微信读书划线同步到 Notion</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491705&amp;idx=2&amp;sn=58bffc9e25ac21b08cba08244e0d36a4&amp;chksm=9b3c70a1ac4bf9b7f7b4bcc475b8c481c097dade2c8bb098902e7206e52b6058fbbe9ca09233&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 27 Jun 2024 00:35:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>专业性能可视化和分析工具 - pprof</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491694&amp;idx=1&amp;sn=2656d5bc25477822cd45de7977280d95&amp;chksm=9b3c70b6ac4bf9a09de12cf95cd3e72af0d100ff92bf922dccefd7a893837f07c0fa68e209ca&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 26 Jun 2024 01:03:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】少量资源即可运行的大模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491694&amp;idx=2&amp;sn=8e06592aed7deead8dab1ac19b10cd75&amp;chksm=9b3c70b6ac4bf9a02e28f19ef8154bf4695b4d68337e5fbc2d58085df90df639b52dc71bf583&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 26 Jun 2024 01:03:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>云原生方式管理 PostgreSQL 数据库</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491693&amp;idx=1&amp;sn=b8f4664bc4e5b2b0924a635a5eae0dad&amp;chksm=9b3c70b5ac4bf9a38a3ead68e243ccf9d799cd5abedd0eca15388a267680ab87119247f6fb8d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 25 Jun 2024 00:26:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】NeurIPS 官方推荐的开源大模型启动套件</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491693&amp;idx=2&amp;sn=f0c9907fa0ef4e49dfe8d6cd2d4fecab&amp;chksm=9b3c70b5ac4bf9a39f1cf7df14986b1cb7c03b5502e4688bd00d0853fbab6af584e220bac354&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 25 Jun 2024 00:26:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>构建高性能可观测应用的利器</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491692&amp;idx=1&amp;sn=a5755d70643f518be31c47f915722759&amp;chksm=9b3c70b4ac4bf9a22720fa56a31217e4a31492dee6d2a00e894bf300c2c983dcaf362f948368&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 24 Jun 2024 00:34:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】教你从零开始学习 Jenkins 的开源项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491692&amp;idx=2&amp;sn=e78b98fad35843d78193c890dae9bb01&amp;chksm=9b3c70b4ac4bf9a2fabac724801013966c6938201bf3f4774de306e5cb62c3c22dc89cd928eb&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 24 Jun 2024 00:34:22 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>读者专属 GitHub 浏览器插件，你不来体验一下吗？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491691&amp;idx=1&amp;sn=fdfcf7481d5c5f4756ad61d7b0f36797&amp;chksm=9b3c70b3ac4bf9a51db5f2532af2946a0a0c17f89850913a9086eb741ae8328861ccba59f2d7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 24 Jun 2024 00:33:58 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【视频】用 SQLite 重塑 Redis 的技术革新</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491690&amp;idx=1&amp;sn=2ddcd2b51fb9e1c5ef34b9cec7f08908&amp;chksm=9b3c70b2ac4bf9a4a943aee497dd6b1b1f3afbfde55659442ccdeb87021b8273110ccef62382&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 21 Jun 2024 00:17:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【视频】全语言无差别应用性能分析器</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491680&amp;idx=1&amp;sn=86897137da7ff38a6b339fe211df0c98&amp;chksm=9b3c70b8ac4bf9ae7d81e0fdee698d2fd496a15e0cfaec4a33a013aa32e4d131bf87b7626d0b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 20 Jun 2024 00:36:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】微软开源的统一大模型评估框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491618&amp;idx=2&amp;sn=7ee25afeeed4489786dfae63878b8f1f&amp;chksm=9b3c70faac4bf9ec52e61a4a481eea0da8851f61f27efb7b490668b299a9887947398e08782b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 19 Jun 2024 00:31:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个简洁、分布式的任务调度与执行系统</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491618&amp;idx=1&amp;sn=c03108617810e4602500ee45ec344998&amp;chksm=9b3c70faac4bf9ec68187bf49bb652601ebaaca9683faa456ea84833190f86d8491143acc422&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 19 Jun 2024 00:31:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>你画就行，Web 开发就是如此简单</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491603&amp;idx=1&amp;sn=1b6517c41f6a4c874c3aaa86952ee579&amp;chksm=9b3c70cbac4bf9dd4a55ff306f0bed57f74b4ca7a49f1dbef287d83bc177e3a160ee93658b91&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 18 Jun 2024 00:22:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】打造实时金融大模型咨询系统</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491603&amp;idx=2&amp;sn=6201ede331fc7dd31a7d09e8115fd144&amp;chksm=9b3c70cbac4bf9dd05fc62949cf325ace0af2c4d084a9c808abc78b67a5c54aa539f53874118&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 18 Jun 2024 00:22:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个安全的协作式终端共享工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491582&amp;idx=1&amp;sn=043dbd14855a5c50374e2fbc49dbda4b&amp;chksm=9b3f8f26ac4806307497fa4a74662c68c0f28020348dd09fee32f4353d959b870a2a5088368c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 17 Jun 2024 00:33:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】一个框架轻松微调各种 AI 大模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491582&amp;idx=2&amp;sn=424f0177b8ae42801acc6f970cc5761c&amp;chksm=9b3f8f26ac48063012ba05cb678ccb2bb3ef2e23188310ab486afab56a001574dbbab98b515d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 17 Jun 2024 00:33:04 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AirDrop 平替解决方案</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491568&amp;idx=1&amp;sn=e86094ab0dcede4c63928550547ecd82&amp;chksm=9b3f8f28ac48063ed97ebfa535f47c1ccdf4d7df6cccea8f87f1a31e5aa979949daf30382777&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 15 Jun 2024 23:55:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一套 SDK 无缝适配上百种大模型平台</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491568&amp;idx=2&amp;sn=4b97642ae4a4e738a7783dffb203fcd9&amp;chksm=9b3f8f28ac48063e16eab79af5f235cdaa182b5908ee1a55cd665a2efbb813b2d725b5f107e0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 15 Jun 2024 23:55:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个全面的开源"稍后阅读"解决方案</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491567&amp;idx=1&amp;sn=9186584029544cbd297fb004c2a89a16&amp;chksm=9b3f8f37ac480621d78c269d9fb3dbadaacc8d335f5dea8ad8f1e7b39ec692ba4cedaa48b073&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 15 Jun 2024 10:24:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】一条命令快速生成数据库文档</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491567&amp;idx=2&amp;sn=daf92be4197e50b993f68bfa725d20b4&amp;chksm=9b3f8f37ac4806213f08b626ae551669ce58a99a441fcd1cad6a50f9002d8e01a1e0d0c3f76a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 15 Jun 2024 10:24:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>轻松将网页转换成轻量级多端桌面应用的工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491566&amp;idx=1&amp;sn=eaada533ad05f6bbc0accc3f383fe296&amp;chksm=9b3f8f36ac480620a68fad715c16bdb44420734cc523be424130f61e3d586da1ec69399cf2b9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 14 Jun 2024 04:34:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】微软开源专注加快大模型推断速度</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491566&amp;idx=2&amp;sn=33734342fac8f7f5e635f95b73133be2&amp;chksm=9b3f8f36ac4806204300480837330cb3936b246d611b9d632f7cb30944939764d9afba156bb1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 14 Jun 2024 04:34:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Bilibili 视频转文字，一步到位输入链接即可使用</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491557&amp;idx=1&amp;sn=6384b22431ee96d6e43b8663dcda51c3&amp;chksm=9b3f8f3dac48062b3586edb1ce4b3bd7b73e1bae24ca3550675ef2bc02bb283b10a55616d924&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 13 Jun 2024 00:31:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】开源的企业级问答系统</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491557&amp;idx=2&amp;sn=3cfc66ff20c45102afa2da3c858ebc7d&amp;chksm=9b3f8f3dac48062b92e1c397f5e2c5f6eb2ad6b1aa6e02234ba61277f80ba83f670def3657b6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 13 Jun 2024 00:31:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>专为 *NIX 内核设计，Prometheus 监控的重要组成部分</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491536&amp;idx=1&amp;sn=3880b83fe77aa774028b021d5ba92c56&amp;chksm=9b3f8f08ac48061e7c9bb61420650e96277095532eac36d7ad1177c3d73870fc6d5004afbf23&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 12 Jun 2024 00:25:09 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】K8S 镜像拉取速度慢？看这里</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491536&amp;idx=2&amp;sn=ef45c43d1a1cb52051bb5af3cb96d27d&amp;chksm=9b3f8f08ac48061e5a6649eaa9dea91bfeb8ef3b1a3c2006d53325ef4a22c7101b0abbef6439&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 12 Jun 2024 00:25:09 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个开源的 Web 文件管理器</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491506&amp;idx=1&amp;sn=391ff581a6a47424bf30871c1a376781&amp;chksm=9b3f8f6aac48067cee38cfcf772b0752dd465d8085e56ef6510c2f646c632b2945c74be7f843&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 11 Jun 2024 00:30:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】Go 超快安全轻量级的 Actor 引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491506&amp;idx=2&amp;sn=bda82ce1092e260b83bdada5a03ee30b&amp;chksm=9b3f8f6aac48067cadafb790d10f2db54ec52f25370703293b6647c0734f5608ff540e206fac&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 11 Jun 2024 00:30:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个简单易用的动态域名解析工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491505&amp;idx=1&amp;sn=363bb382aa29648e661acc28eac328af&amp;chksm=9b3f8f69ac48067f64a55a6e898e179f336edb6b5d1fa026822fd02a9dcfee4ba1e3215c388c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 10 Jun 2024 09:11:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】特性开关标准库，适配所有语言</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491505&amp;idx=2&amp;sn=86a68c54e30c15ab19de91f28926fff0&amp;chksm=9b3f8f69ac48067f4a787d0958e0150c7a52b6068253017cbd36896c6465c783091964ba88d0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 10 Jun 2024 09:11:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【视频】无侵入式治理微服务的系统</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491504&amp;idx=1&amp;sn=c77dd0634aa2c59b036a8a0e66038a7f&amp;chksm=9b3f8f68ac48067e86b548256b5faf1702b7e0daad608f4c01d2f49909bfcb882d6451f5926e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 09 Jun 2024 03:02:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【视频】Go 超快安全轻量级的 Actor 引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491503&amp;idx=1&amp;sn=7eb4a43ba8d035511c2fe64ce56ee063&amp;chksm=9b3f8f77ac48066178df74f3b95b795d83e057a71534e72baad80c36a1eb1e49ede0a8f48eb5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 09 Jun 2024 03:01:42 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>快速且可定制的漏洞扫描器</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491480&amp;idx=1&amp;sn=d3912e8589d978b1dd0099d8e44ea50b&amp;chksm=9b3f8f40ac480656325b887cebaa90812d373f9d3bf81b84074115e2991ba41e05612f68b08b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 07 Jun 2024 00:20:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】现代化 PHP 应用服务器，自动支持 HTTPS/HTTP2/HTTP3 等</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491480&amp;idx=2&amp;sn=9788c87fa4c56e59408f11bc38b7d583&amp;chksm=9b3f8f40ac48065627621e3bfc61cf19e035125b8c68feee080ec9ef6a63f44c46c5d0e14e53&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 07 Jun 2024 00:20:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>现代和炫酷的终端文件管理器</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491424&amp;idx=1&amp;sn=f317f91467438c06aab07001c43eb0e5&amp;chksm=9b3f8fb8ac4806ae5f67a0445771b34b90ad18efadb7f5c1341acf97e5640bc54fc491903e65&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 06 Jun 2024 00:40:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】Meta 开源的代码大模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491424&amp;idx=2&amp;sn=f354d15fbeeb5ed7f9c79c5576b14b03&amp;chksm=9b3f8fb8ac4806aee47ac74376a84e7a11234c59eb3d2f7015ae089fa6b4681336ea173aaf95&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 06 Jun 2024 00:40:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>为云原生网络和网络安全插上翅膀</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491423&amp;idx=1&amp;sn=0413427e3cc7591e22ab155297dd2638&amp;chksm=9b3f8f87ac480691a32089fda84900a37ee8fc04a99492d03322730ee4abb73f9ab3d9d9ca34&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 05 Jun 2024 00:31:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】少有人知道的 Go 实用工具集介绍</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491423&amp;idx=2&amp;sn=073157aa2f1b81bffd46edaab092a091&amp;chksm=9b3f8f87ac48069108458b9fadd95e54e1fd6c703536410e94e25bce18b31efa9c5ecae5f5c7&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 05 Jun 2024 00:31:18 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一套完整的即时通讯解决方案</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491414&amp;idx=1&amp;sn=17e42747b16f3f79c20f0e7052fcef51&amp;chksm=9b3f8f8eac480698e8886315e26ec9fecc6702973aa8e714ff7e0e395a33787382915aa67713&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 04 Jun 2024 00:27:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>vLLM - 一个高吞吐量、内存高效的语言模型推理和服务引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491414&amp;idx=2&amp;sn=e85f7198d06ccf193e8af27560d3dad2&amp;chksm=9b3f8f8eac4806989fbb12653c8a85d5392047a156646a84f8d40757843b1a8f1b06fc3325a6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 04 Jun 2024 00:27:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>构建安全的私有网络从未如此简单</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491405&amp;idx=1&amp;sn=8815331b269b3df47cd0713a72c5efe4&amp;chksm=9b3f8f95ac48068397d6a49583186527c647befa06c981e03afde73235a5ee1e9c9b288a7a6e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 03 Jun 2024 00:29:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Gofr - 简化微服务开发的编程框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491405&amp;idx=2&amp;sn=85c887b47a92837e0328ead0acaba0da&amp;chksm=9b3f8f95ac480683e86969b393230a121522f90a3f2592ee83c6eebbb30c875cd6a2e5c7ea56&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 03 Jun 2024 00:29:21 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>开发者首选的版本管理工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491356&amp;idx=1&amp;sn=7998288ece7f9a282734cce08e39f345&amp;chksm=9b3f8fc4ac4806d24e7228b65c0eeccc749a52585c13c66a56f3f828b17d2c6221e1dbd7c2b9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 02 Jun 2024 00:43:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】使用少量语音数据即可训练优秀的变声模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491356&amp;idx=2&amp;sn=78f46271b7777cd94840e7b544c09aed&amp;chksm=9b3f8fc4ac4806d2ebee3a63304dedbe1c24e2d5d58e3373272853426148e4082ba842eaa343&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 02 Jun 2024 00:43:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【视频】教你从零开始学习 Jenkins 的开源项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491355&amp;idx=1&amp;sn=68ab8d0d20513eda86044daa4aef5e89&amp;chksm=9b3f8fc3ac4806d57e46d63ffed53e150e3864bea9c86a53a438d0065ce1722284972e3712c5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 02 Jun 2024 00:43:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【视频】少有人知道的 Go 实用工具集介绍</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491348&amp;idx=1&amp;sn=b4788ca44ef8275e93b6fdd2410afb8d&amp;chksm=9b3f8fccac4806da216c0e858ea81970f1a305d9eecb478671bbc560612644b485dd922c7b0e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 01 Jun 2024 05:46:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>专为 Go 语言设计的 Redis 客户端库</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491281&amp;idx=1&amp;sn=1169c0934dba2810273fec8b60e82b75&amp;chksm=9b3f8e09ac48071f43b8011c462b995b9c8aa12f6a87e8be070484b3ac5e112964fe2225997c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 30 May 2024 00:44:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】大型语言模型（LLM）驱动的自主代理项目，旨在自动解决各种复杂任务</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491281&amp;idx=2&amp;sn=81f8f733549db48876cebc1f1529d60a&amp;chksm=9b3f8e09ac48071f948abe90b7096b81f212a61bab7bc1625c7f722b394b139cfa73f66258c6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 30 May 2024 00:44:02 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个开源的、云原生的、分布式 SQL 数据库</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491280&amp;idx=1&amp;sn=b77e96517bf1649e6905ad07904126dd&amp;chksm=9b3f8e08ac48071e0c087490d1b83c9c480a710afd4a70c32a883454da19cf33996fc3c83ef6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 29 May 2024 00:33:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】一个为现代（es2015+）Web 开发设计的快速、智能、全球覆盖的 CDN</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491280&amp;idx=2&amp;sn=ef44564b3bcbcf9916347f8ba5631433&amp;chksm=9b3f8e08ac48071e00977583093914a46b13d548dc06d5961e56b1b98f9fa2f58c0c35694b60&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 29 May 2024 00:33:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>GitHubTrending 每日推荐 - 20240528</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491256&amp;idx=1&amp;sn=32259d74a66e35a007c943ae2494a836&amp;chksm=9b3f8e60ac480776e669d1d43dee31084d7a2ca029e69000bc381f938256f17e0dce8ba6f8d1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 28 May 2024 07:20:24 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>具备任务拆解能力的终端 AI 编码引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491247&amp;idx=1&amp;sn=127f5d57e1781ba8bdeea8cb770d6867&amp;chksm=9b3f8e77ac4807613f06f06339a469df1f3f4df2ecf8fe09b8453e7f533f48fca15f73e88823&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 28 May 2024 03:55:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】一个灵活、高性能的 RPC 框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491247&amp;idx=2&amp;sn=e57a89dd387ddf763975006a8cac5955&amp;chksm=9b3f8e77ac4807619678f284644c1fa8ac1ac8a286d4de9252c45507caad8ddc8c5ae174f6ea&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 28 May 2024 03:55:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>构建简单、高效协同的私有网络工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491223&amp;idx=1&amp;sn=d26a3c0fa2d3618d988b527055bda89e&amp;chksm=9b3f8e4fac480759efba1084c2488da9fe9a264178ad8f08f15fb1abcdc3d2f968c9b67c07ff&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 27 May 2024 05:06:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】网易有道开源强大且现代化的文本转语音引擎</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491223&amp;idx=2&amp;sn=e728be7f496070d05caf1da5f27a9c6d&amp;chksm=9b3f8e4fac4807598156a7184af0f3f2740a18bbde341728e7ee32cdb4c5246c7d70fd0314f3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 27 May 2024 05:06:46 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Go 语言 LeetCode 算法题解</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491221&amp;idx=1&amp;sn=36a8af318ffd8e771b1efcdc09330cb6&amp;chksm=9b3f8e4dac48075ba5cb934daac5d8aba31dbe0652790c8ad4496e878ceae8ccf9ba6c34393b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 25 May 2024 03:11:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】一款帮助 Go 开发者轻松启动新项目的脚手架工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491221&amp;idx=2&amp;sn=ee46d9ad2a092803ef9e5ecca5daf69c&amp;chksm=9b3f8e4dac48075bc464fb2ecf1444973361c32b87e14930224c67673b9c109d87d261b82cbe&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 25 May 2024 03:11:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个开源的连续文件同步程序</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491209&amp;idx=1&amp;sn=357dfae84674398027a8a5c8e559c08e&amp;chksm=9b3f8e51ac48074715f67f06a874f82064e051842ed8462b098f4d83c530db455b5da49aa9ca&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 24 May 2024 00:46:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】一个 OpenAI 开源用于语音识别的通用模型</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491209&amp;idx=2&amp;sn=3252fec58af8053029c61245bbb93001&amp;chksm=9b3f8e51ac480747a5da570e86bfdc406656acb5df47c5d59fb3b3973e42203261b44335f0a5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 24 May 2024 00:46:51 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一个轻量级、分布式的关系型数据库</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491185&amp;idx=1&amp;sn=389a475fb412fce4a21db415dd75ccba&amp;chksm=9b3f8ea9ac4807bfc954244105b66d79e78e3d189f08fb9a2765fc72ece4166d1a43aa619f3a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 23 May 2024 00:42:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】Google 开源并由 Uber 持续维护的 Go 测试 Mock 框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491185&amp;idx=2&amp;sn=57ea2aafa3f80b282f4d28b43408aa7b&amp;chksm=9b3f8ea9ac4807bf588ea65d559d5d953fb62c10064b2b5a73037093cdf4aa5d35e00d57104a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 23 May 2024 00:42:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>现代化的 API 和跨语言脚本引擎，更好的支撑 CICD</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491177&amp;idx=1&amp;sn=a3f914520730c23e6427e2a96878e168&amp;chksm=9b3f8eb1ac4807a76dffa631441bf11745e34342643db4fbd680ad6184e49ca6f30a6ec4f659&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 22 May 2024 00:28:01 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】一款开源的 OpenAI API 的 Go 语言客户端</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491177&amp;idx=2&amp;sn=c4636c9f1c562151ae9f4b9a803d6508&amp;chksm=9b3f8eb1ac4807a701a68c680a598e3678fe66a01c60e9285461a417fe92bf15cc2a39b6f8a6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 22 May 2024 00:28:01 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>非 Docker，无守护进程的容器管理工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491165&amp;idx=1&amp;sn=2be6c22087a33b3499836dbcaaa13d32&amp;chksm=9b3f8e85ac480793eeabb4f6658cf297fc4093be7b5440b90dbfbaddaaa58546eb8080ad2676&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 21 May 2024 00:40:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】无需依赖 Docker，简单且快速的 Go 应用容器镜像构建工具</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491165&amp;idx=2&amp;sn=ade8f4af0ebfbd2071ee2cbf38dcbc39&amp;chksm=9b3f8e85ac48079394b086e4b1f5d86ac5a2369cda217a68793be236c583e5ae82b8c7cb5a79&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 21 May 2024 00:40:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>使用常用编程语言快速构建云基础设施</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491155&amp;idx=1&amp;sn=1a7428af01ac20df8bd5dd54ba90dba0&amp;chksm=9b3f8e8bac48079d1c3cecf5bcac54c97f435bc6c76db377f0ae467c406f4a4137e8448a8508&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 20 May 2024 00:58:52 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】微软开源的强大深度学习优化库</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491155&amp;idx=2&amp;sn=218674b907a161c98b56ba39f9ed1fcd&amp;chksm=9b3f8e8bac48079d8c7467096074a6529acff34af76610754a2d613febf60000212c3061011b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 20 May 2024 00:58:52 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>多个大厂背书，一个高性能事件驱动框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491095&amp;idx=1&amp;sn=90f0ec563541b239905dda828b0e2f1a&amp;chksm=9b3f8ecfac4807d961249c5008bec5223b28ecaa9f9edcdb857ab6fea6b0ea658866c4a8c649&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 19 May 2024 01:26:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】旨在简化项目文档搜索体验</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491095&amp;idx=2&amp;sn=99cd446d160678fae1183e4b2a03b62d&amp;chksm=9b3f8ecfac4807d9df68aec2f6491915fdf7aa971d8618e8390b106b3f5ca9dd64591a69dea8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 19 May 2024 01:26:41 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>探索生活中的每一帧，一款 AI 驱动的照片应用</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491093&amp;idx=1&amp;sn=16390e7e8324ed0a017020e523eb8eb0&amp;chksm=9b3f8ecdac4807db03f20759d9cd4cb064c9c2defcc9a1afdfc08f9b2b4e7c2033399725fa72&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 18 May 2024 05:08:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>【回顾】通过 OCR 将数学公式的图像转换为相应的 LaTeX</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&amp;mid=2247491093&amp;idx=2&amp;sn=c30ea523e672824760406ccf9b65852e&amp;chksm=9b3f8ecdac4807dbe18b580679bb7df1188d724adbbfd445c09f0ee29cee7d9b20c61cbb6c4c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sat, 18 May 2024 05:08:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+  </channel>
+</rss>
+

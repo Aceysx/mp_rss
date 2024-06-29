@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>开源前线</title>
+    <link>https://github.com/Aceysx/mp_rss</link>
+    <description>推荐热门开源软件，介绍新开源项目，报导开源资讯！</description>
+    <language>zh-cn</language>
+    <pubDate>Sat, 29 Jun 2024 08:04:06 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2024 08:04:06 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <image>
+      <title>开源前线</title>
+      <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6fbTaK4WnZeQukEnc0VSwTXpOIootxp45goXaFR8ADlA/0</url>
+    </image>
+    <item>
+      <title>三流前端肝技术，二流前端卷框架，一流前端…</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372267&amp;idx=1&amp;sn=f7744db1f9a8185812c49ae7c62e2d65&amp;chksm=875a1920b02d9036fddf191e9d6ccc892fc807eb8480ebdfaf2136fcb6c947e17f5df23e7125&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 26 Jun 2024 11:27:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>3 个好玩的前端开源项目「GitHub 热点速览」</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372267&amp;idx=2&amp;sn=4bc7cc14cce68a1b79285efd0f32bd76&amp;chksm=875a1920b02d9036328de18d4a99dc0aec6b46c148bf5c65a67abcd3fd809e7e3b4f0e2c9f60&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 26 Jun 2024 11:27:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>这俩项目，牛哇。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372250&amp;idx=1&amp;sn=56f2eb4d624be28fdc8a476b066d7bbc&amp;chksm=875a1911b02d9007734c5cb70aba15e507cb35e86bd2521feadcfc199f68ec3a643675adc1f1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 26 Jun 2024 08:53:26 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最适合程序员的编程字体，好看、优雅！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372083&amp;idx=1&amp;sn=5a813650f3afa3418c11b8d863d0108f&amp;chksm=875a1678b02d9f6eebd8eaf00e3679db58cee6efeb5f8366cad6a6dd1e26f8251750265d662c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 23 Jun 2024 13:17:45 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>（待会删）请大家低调浏览！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372059&amp;idx=1&amp;sn=88a41ca61920532965e6c55d91b15136&amp;chksm=875a1650b02d9f462d33d04edf19f38a1307c54288f39cc7680c3e65059a1759076b9c6b9052&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 18 Jun 2024 14:52:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>“我说，现在的软件质量根本不如十年前！”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372059&amp;idx=2&amp;sn=27991c247440d7f6582af85c909db851&amp;chksm=875a1650b02d9f4639e2ce29a25651a5cca4c1dce3aed01c5a7f03e55fc4015fc1e62ed022f8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 18 Jun 2024 14:52:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>前端第一可视化库、百度知名开源项目——ECharts创始人“下海”养鱼</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372041&amp;idx=1&amp;sn=168c52b66759019c68d6e5866fa867dc&amp;chksm=875a1642b02d9f54d38062d93e3623fa0edadf0fed0e2f266de462bcd3eb24ca117277f56419&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 18 Jun 2024 11:23:52 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>预测一波，前端AI即将起飞！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372031&amp;idx=1&amp;sn=18ed8a0d0f899ecc8f54292893707b98&amp;chksm=875a1634b02d9f221cfe4065b70db644b5fccaef1150a409ab1a4fcba81c361bb67e5ae7b073&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 12 Jun 2024 12:56:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>macOS开源终端神器iTerm2——原生集成ChatGPT、让AI帮你写命令</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372031&amp;idx=2&amp;sn=357f3ace987a6623891609f763b8299c&amp;chksm=875a1634b02d9f22b33caddd85fea69aea8235a438657576080953832a18ec49d3693378a05d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 12 Jun 2024 12:56:54 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>npm又被滥用，灰产用《庆余年2》盗版资源——把开源公共基础设施的羊毛薅秃了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372008&amp;idx=1&amp;sn=9be94f2aa6b20b31be8d4099f1494dc3&amp;chksm=875a1623b02d9f35eed3f8490db22950d2fe1074a33086a247f8411b13f5a75e3b5c85841e97&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 10 Jun 2024 23:34:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>这 3 个 GitHub 开源项目牛逼了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650372002&amp;idx=2&amp;sn=709dc4e12946460e54d970a66ebe2ae3&amp;chksm=875a1629b02d9f3feabb3ec0fcc0d484f510a54221223a9fc0115a829ce8ea3daba253d1621d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 06 Jun 2024 12:13:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>推荐 3 个 yyds 的 GitHub 开源项目！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371981&amp;idx=1&amp;sn=10886192dbc3deb36d45ed84225f9480&amp;chksm=875a1606b02d9f102a35532da1213e0421bb6337e5280ee87f5cb567d862dc6e07dd37b0b078&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 04 Jun 2024 02:00:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>推荐 3 个 火火火 的 开源项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371975&amp;idx=1&amp;sn=9d25f40b05bdc712c6e06718d88ea1ad&amp;chksm=875a160cb02d9f1a6b31f0738d2c91fa8701855bac8ab48ae9853347225911771fabe37f49a9&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 02 Jun 2024 14:31:00 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>（待会儿删）yyds，6月面试请低调使用！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371974&amp;idx=1&amp;sn=508ff2387228bddb506879eaa2132bf3&amp;chksm=875a160db02d9f1bce39a5741e064b15b8b76a82ffc0a9c00d891994ab06126b00b34856f87a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 02 Jun 2024 02:42:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>标星 43.1 K！超火跨平台笔记开源项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371974&amp;idx=2&amp;sn=d9ef7d552873521b2e0064b74ac37a6e&amp;chksm=875a160db02d9f1bcab9001fdfe0a0db7593235a84ebd026b389051573dbd91597ea0b3d041a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 02 Jun 2024 02:42:13 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>今年这行情，前端还能找到工作吗？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371964&amp;idx=1&amp;sn=ccac1d2c57e389598caabc673bb23f60&amp;chksm=875a16f7b02d9fe14ae49f76ee6d4c44ddb8383069e10628e9fc4652549aa710e6c09c57d1e3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 30 May 2024 12:15:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>上架即封神！3.6k Star 的开源游戏模拟器，Delta 冲上 App Store 免费榜</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371964&amp;idx=2&amp;sn=7482664b3cf7cad3c831f8e0692750a7&amp;chksm=875a16f7b02d9fe114a50056bfe9932948cb5a080b09c521954d00ebd7579a1ab2244dd6f0b8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 30 May 2024 12:15:53 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>搞了3年开源，年收入超200万，什么水平？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371949&amp;idx=1&amp;sn=141003dca1e50ae530e0595656dc1c6d&amp;chksm=875a16e6b02d9ff0ba95447eb83a006d09040bf665aea2a2a05683e826284c73f9ab4ec5c225&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 28 May 2024 11:24:35 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>45k*16薪，进字节了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371943&amp;idx=1&amp;sn=cd86744099b4b95d28c0234f35c1b64e&amp;chksm=875a16ecb02d9ffac28769abe35e5152a6ff5c6fcfd164ba718019227ff5102a56b0abc9fac8&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 27 May 2024 13:53:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI Agent，厉害了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371943&amp;idx=2&amp;sn=595851ac389a608006c746374d1ef802&amp;chksm=875a16ecb02d9ffaffbccc02c4e9cf338db3c21d02f9db562d7e040b58ff3f75d8b1df616b3d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 27 May 2024 13:53:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>斩获 32k 星！号称下一代知识库工具开源了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371886&amp;idx=1&amp;sn=ac89ac41898605595412d16ca0af688e&amp;chksm=875a16a5b02d9fb3b67fff1fc29eb19b5cda7662111106b8014c39c626ed7a66951c4b3edc0b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 26 May 2024 14:50:09 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>强的离谱！一文搞定算力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371885&amp;idx=1&amp;sn=c0edd7bac64b05017345eaac7c002ef7&amp;chksm=875a16a6b02d9fb079e6b59f7662a077a12338e14ad3230ff9ebd1c0687749abc7fc7f9493f2&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 23 May 2024 04:10:12 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>AI 能否代替软件工程师？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371870&amp;idx=2&amp;sn=52dc9000c8355389c88ea4d448bd973f&amp;chksm=875a1695b02d9f836270d880025313e526df37694d4fd4da043966c7cbd5db192a86a2082960&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 21 May 2024 11:20:59 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>你的第一款开源视频分析框架</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371850&amp;idx=1&amp;sn=cbf62993f72eab519e116210eaff4593&amp;chksm=875a1681b02d9f979dbd15ac5b13c9dde61059b3feed733e9386c51158dbf0e79d32190690e0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 21 May 2024 05:55:19 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>炸裂开源！标星 17k 的安卓手机模拟器</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371723&amp;idx=2&amp;sn=817976d74827f6021ec558d08237790c&amp;chksm=875a1700b02d9e1690a357705d7a384188c80b2fbde441de791f7839264deb6ac8b3096c8168&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 16 May 2024 11:32:15 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Llama 3 开源了「GitHub 热点速览」</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371664&amp;idx=1&amp;sn=6d7e45628a6db353157509a607019d1f&amp;chksm=875a17dbb02d9ecdb4896c767182f02e17f05783a12c05f46349d0f70e00b2ab2516d111025c&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 16 May 2024 02:55:28 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>iOS 越狱开发者被苹果“招安”：以后不能碰“越狱”了，转身开源了 10 款工具！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371596&amp;idx=1&amp;sn=33f0ef22c0ac48f5cebfec27361925af&amp;chksm=875a1787b02d9e91f473bd427f40f28582ee09fb1307b7dfb8088a20eab9f72bcce678f3d1ad&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 14 May 2024 11:16:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>周鸿祎：闭源比开源好？Llama 3 已经给出最好答案</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371591&amp;idx=2&amp;sn=c830587abedb1bf027e98564a42569b2&amp;chksm=875a178cb02d9e9a9d350f41c6802abd3b35aeaa609b02ff2d2b50459c8c6cd02a7e402fdfd6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 14 May 2024 02:14:57 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>华为立大功、为中国工业软件里程碑贡献全部开源代码</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371576&amp;idx=1&amp;sn=bb0fd10d08d5670e6a76a5c77a1a4b0d&amp;chksm=875a1473b02d9d65e3b3b6cbf423f9aad8e25c87d8d7286ff5938d5e0279a07147cec89fdf3a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 12 May 2024 12:24:20 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>北大开源超强aiXcoder-7B代码大模型！聚焦真实开发场景，专为企业私有部署设计</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371560&amp;idx=2&amp;sn=7070a3d25f51ab623e69080e953de974&amp;chksm=875a1463b02d9d75d0a7e43049f47d9ad483fbd9e2c80ad12376de840d321dd49525c2609dde&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 09 May 2024 10:59:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>火速冲上GitHub热榜——我的VS Code不可能这么可爱！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371533&amp;idx=1&amp;sn=1c473147a5aa670d86a40c9fe426c4d9&amp;chksm=875a1446b02d9d50542132464a1e59df57626225ea43e315fe118d9f8795c370089d35b24aa1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 08 May 2024 03:20:38 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>做开源 4 年，Volar 作者被“钱”拖垮：无奈发起收费计划，竟遭恶意抨击</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371470&amp;idx=1&amp;sn=5656000032d8f0ad74cbe7256e4c9db3&amp;chksm=875a1405b02d9d1350037e87a762331c7270b14439a9bac051b81e451036d1e9c8790e48e271&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 06 May 2024 01:21:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一周涨 15k Star 的开源项目「GitHub 热点速览」</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371465&amp;idx=1&amp;sn=5f6457f0fbcfa4cc9e1fc2051db490cd&amp;chksm=875a1402b02d9d14d3301f3eaf4db03f4cf074135ac48417e9d5e25380e59bbc8a01310048db&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 28 Apr 2024 01:37:49 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Open-Sora 开源了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371459&amp;idx=1&amp;sn=94a03d5a4a92c4c01dceeae85b0bdf4a&amp;chksm=875a1408b02d9d1eb669d880f6eb2366b9628609079336a4841ea0377d91d73587c7f28222d6&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 25 Apr 2024 08:35:23 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>危！比 Python 快 90,000 倍的 Mojo 官宣开源</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371449&amp;idx=1&amp;sn=b64c5673e5e24fc7d9d20e93e755ab0a&amp;chksm=875a14f2b02d9de488bcd8d70121941a52bf40185f8bc044135d6af540d7dc3df1802f8be110&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 23 Apr 2024 09:40:39 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最火的国产开源前端项目 Top 10</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371435&amp;idx=1&amp;sn=a06ea05ab2afc13c81bd10d96b4ab3e7&amp;chksm=875a14e0b02d9df6244fb13d249f46190f69345853610eb73a09d82c9903fc0b75b6ed3299d1&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 21 Apr 2024 02:07:48 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>推荐 4 个 yyds 的 AI 开源项目！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371408&amp;idx=1&amp;sn=79329c3de28b771803e8576b843c4aec&amp;chksm=875a14dbb02d9dcde303dd404b9417ac93326bf0a680e4eaf647c739b71c6fcab2060a6b36fe&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 17 Apr 2024 13:57:10 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>某开源公司实习生上班时间向其他开源项目提交PR，CEO发现后要求关闭</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371330&amp;idx=1&amp;sn=63af055ad1978f7749e6d36e933f5488&amp;chksm=875a1489b02d9d9f81fe16c2f7495ab817929d9fce2ef45f152899568ebe0acae026a3240bb3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 16 Apr 2024 03:02:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>微软正式开源专为Windows打造的Sudo</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371288&amp;idx=1&amp;sn=3923d194a46eb21718e675a6786be2d4&amp;chksm=875a1553b02d9c45f5d3933085277f3d4716303355a10fa4f85d37d4014afd02a9765f9fac4a&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 01 Apr 2024 01:46:50 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>近30k Stars、代码每天更新、每月几十刀赞助——开源作者却称项目正在面临崩溃</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371282&amp;idx=1&amp;sn=74515741229e2c30e8ac939cd2623a1d&amp;chksm=875a1559b02d9c4f4e1a97d4fe827a5ef5b284a0928aa16ecc54772f243fbda9812b4b9d211d&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Mar 2024 09:45:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>一本书揭秘程序员如何培养架构思维！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371282&amp;idx=2&amp;sn=2b65fd02e640b11e2a11d0cb97ffd564&amp;chksm=875a1559b02d9c4f80a4d3f2253f9d6556fa8d9cdb735d4af9bc8b8f44194060023ed0f4ebe5&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 28 Mar 2024 09:45:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>本周 4 个 炫炫炫炫 的开源项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371272&amp;idx=1&amp;sn=c46e1cc03371c2cd34aa205bde8c5537&amp;chksm=875a1543b02d9c55df021fb78ca6883f61529f329fb00145dc5729e661eb3c8aff19644096c3&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 26 Mar 2024 12:19:34 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>干开源 15 年后，我开启了“自救”，把开源项目变成一项月收入为 4.7 万元的业务！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371251&amp;idx=1&amp;sn=830d502fc4e7e00461205ed5af8ae576&amp;chksm=875a1538b02d9c2e3a527ec8d3ca165a0b7b1e048cc792f76ab27e772ce8b34424819e56e68e&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 24 Mar 2024 06:11:06 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>Rust 登上了开源头条「GitHub 热点速览」</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371245&amp;idx=1&amp;sn=d6f8b55a1a13a3c1b1796875f0835b0b&amp;chksm=875a1526b02d9c3065aea1f623b17c73e07605f75fc8752c8dd01d0d551dad9e78ada01f1bf4&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Fri, 22 Mar 2024 01:02:40 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>推荐 3 个火火火的 AI 项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371233&amp;idx=1&amp;sn=3bf83a091f19cf99dd52b6599c1d0cd1&amp;chksm=875a152ab02d9c3c61f4ebde4091dd04fbb119846c7be141f672f530d097c2fab1915844380f&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 20 Mar 2024 01:44:36 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>上来就对标 20k Star 的开源项目，是自不量力还是后起之秀？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371227&amp;idx=1&amp;sn=2fe4f1e86db6b5ada16c5eae15805c46&amp;chksm=875a1510b02d9c069423f3e6f5dbbbc85e40b7c0d6f2a7af3955a65ef7168e680e65ea468675&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Tue, 19 Mar 2024 01:30:08 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>YYDS！克隆 Sora，开源模型完整复现</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371217&amp;idx=1&amp;sn=87db03cc812d338d3229541f967dfa7c&amp;chksm=875a151ab02d9c0c390add6ff11fbe0a7245b43d87b50ea120be2d7188c43da176700ac27d1b&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Sun, 17 Mar 2024 15:24:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>2024“跨平台”不香了？知名开源项目淘汰Xamarin，转向原生开发</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371130&amp;idx=1&amp;sn=246ca566c1c98e567e1d461543f0b82a&amp;chksm=875a15b1b02d9ca7278f20ef0f13f38565be1fa10abc2b219da260ffabb535488f55ddd35340&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 14 Mar 2024 03:30:14 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>最高人民法院确认开源许可证GPLv2的法律效力</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371113&amp;idx=1&amp;sn=2daa7dd52c11f74441ba844388a77a22&amp;chksm=875a15a2b02d9cb4a72b4f0d3205b9d57161ae36ef70a7b3931402920e41b10ca9cd9e515b19&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 13 Mar 2024 03:20:03 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>又“锈”了？Cloudflare正式开源Rust框架Pingora——声称替代Nginx</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371084&amp;idx=1&amp;sn=b14378fac794d9ae8fe0a1fef2d8fbe6&amp;chksm=875a1587b02d9c919f3435682e6ba22a57694c40acb9eaeb3e9cf69df09ad1903ffacbf81271&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 07 Mar 2024 02:12:31 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>字节跳动超热门的 15 个前端开源项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371080&amp;idx=1&amp;sn=8cfda9a6651fd529d3a560dd142de60a&amp;chksm=875a1583b02d9c953c457761aea65a24fdb540d02b3bdb17822ea2c319fa5444509f958d7611&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 07 Mar 2024 02:10:29 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>“我第一次用GitHub，别TM给我代码，我只要安装包”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650371001&amp;idx=1&amp;sn=414cd9fc19d6b8f1aabaf62b5655f97d&amp;chksm=875a1232b02d9b2499df119ed8489ba6d3fecefccf960aa2819aac6a6e0b1009c2f15e5e5cef&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 29 Feb 2024 08:23:32 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>500行代码打造AI搜索引擎！贾扬清项目登顶GitHub热榜</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650370995&amp;idx=1&amp;sn=61b588bc34346288a5a7030f0a143721&amp;chksm=875a1238b02d9b2ef3ebc9e62b943d4da2a56099578c75703e3fe3f27a531cdd8dc9f38a1ff0&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Wed, 28 Feb 2024 12:25:56 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>小红书开源「InstantID」效果炸裂，被Yann LeCun点赞，迅速蹿上Github热榜</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650370970&amp;idx=1&amp;sn=94d164a9a711e6dd30b95c00981e69fa&amp;chksm=875a1211b02d9b078945a19c89a6e79b4fc7948bf70c872230c7eead43f985f9766be2fbc357&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Mon, 26 Feb 2024 02:05:01 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+    <item>
+      <title>来了！2023 年度热门开源项目</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA3NzA2MDMyNA==&amp;mid=2650370946&amp;idx=1&amp;sn=38abbfd1abec5fe4d57dc470e79907dc&amp;chksm=875a1209b02d9b1fde5495dddfb8e6d0d2fcc791f9af4bb7d0030cac61e4d9acec25a1141005&amp;scene=58&amp;subscene=0#rd</link>
+      <pubDate>Thu, 22 Feb 2024 03:17:05 GMT</pubDate>
+      <guid isPermaLink="false" />
+    </item>
+  </channel>
+</rss>
+
